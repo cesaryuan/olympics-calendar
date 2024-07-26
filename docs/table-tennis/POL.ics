@@ -1,33 +1,33 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//table-tennis/POL//EN
-X-WR-CALNAME:🇵🇱 Poland Table Tennis | Paris 2024
-NAME:🇵🇱 Poland Table Tennis | Paris 2024
+X-WR-CALNAME:🇵🇱 Poland 乒乓球 | Paris 2024
+NAME:🇵🇱 Poland 乒乓球 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T130000Z-table-tennis-WOMENS-SINGLES-PRELIMINARY-ROUND-POL-MDV
+UID:20240727T130000Z-table-tennis--POL-MDV
 DTSTAMP:20240727T130000Z
 DTSTART:20240727T130000Z
 DTEND:20240727T134500Z
-DESCRIPTION:Table Tennis - Women's Singles Preliminary Round
+DESCRIPTION:乒乓球 - 女子单打预赛
 SUMMARY:🏓 Katarzyna WEGRZYN 🇵🇱 - 🇲🇻 Fathimath ALI
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T101500Z-table-tennis-MENS-SINGLES-ROUND-OF-64-EGY-POL
+UID:20240728T101500Z-table-tennis-64-EGY-POL
 DTSTAMP:20240728T101500Z
 DTSTART:20240728T101500Z
 DTEND:20240728T110000Z
-DESCRIPTION:Table Tennis - Men's Singles Round of 64
+DESCRIPTION:乒乓球 - 男子单打64强赛
 SUMMARY:🏓 Mohamed EL-BEIALI 🇪🇬 - 🇵🇱 Milosz REDZIMSKI
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T090000Z-table-tennis-WOMENS-SINGLES-ROUND-OF-64-THA-POL
+UID:20240729T090000Z-table-tennis-64-THA-POL
 DTSTAMP:20240729T090000Z
 DTSTART:20240729T090000Z
 DTEND:20240729T100000Z
-DESCRIPTION:Table Tennis - Women's Singles Round of 64
+DESCRIPTION:乒乓球 - 女子单打64强赛
 SUMMARY:🏓 Suthasini SAWETTABUT 🇹🇭 - 🇵🇱 Natalia BAJOR
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 END:VCALENDAR

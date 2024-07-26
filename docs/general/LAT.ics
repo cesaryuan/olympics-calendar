@@ -13,14 +13,14 @@ SUMMARY:Paris 2024 - Opening ceremony
 Location:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T083000Z-shooting-10M-AIR-PISTOL-MENS-QUALIFICATION
+UID:20240727T083000Z-shooting-10
 DTSTAMP:20240727T083000Z
 DTSTART:20240727T083000Z
 DTEND:20240727T094500Z
-DESCRIPTION:Shooting - 10m Air Pistol Men's Qualification\n🇮🇳 Arjun Singh
-  CHEEMA\n🇰🇷 CHO Yeongjae\n🇩🇪 Christian REITZ\n🇷🇸 Damir MIKEC\n🇲🇳
-  Davaakhuu ENKHTAIVAN\n🇨🇱 Diego Santiago Andres PARRA VERGARA\n🏳️
-  Edilio Francisco CENTENO NIEVES\n🇮🇹 Federico Nilo MALDINI\n🇫🇷 Florian
+DESCRIPTION:射击 - 男子10米气手枪资格赛\n🇮🇳 Arjun Singh CHEEMA\n🇰🇷 CHO
+  Yeongjae\n🇩🇪 Christian REITZ\n🇷🇸 Damir MIKEC\n🇲🇳 Davaakhuu
+  ENKHTAIVAN\n🇨🇱 Diego Santiago Andres PARRA VERGARA\n🏳️ Edilio
+  Francisco CENTENO NIEVES\n🇮🇹 Federico Nilo MALDINI\n🇫🇷 Florian
   FOUQUET\n🇲🇾 Guanjie Johnathan WONG\n🇵🇰 Gulfam JOSEPH\n🇹🇷 Ismail
   KELES\n🇨🇭 Jason SOLARI\n🇸🇰 Juraj TUZINSKY\n🇧🇬 Kiril KIROV\n🇰🇷 LEE
   Wonho\n🇱🇻 Lauris STRAUTMANIS\n🇨🇿 Matej RAMPULA\n🇨🇦 Michele
@@ -29,152 +29,151 @@ DESCRIPTION:Shooting - 10m Air Pistol Men's Qualification\n🇮🇳 Arjun Singh
   CHATEAUBRIAN\n🇩🇪 Robin WALTER\n🇦🇿 Ruslan LUNEV\n🇩🇿 Samir
   BOUCHIREB\n🇮🇳 Sarabjot SINGH\n🇺🇦 Viktor BANKIN\n🇨🇳 XIE Yu\n🇹🇷
   Yusuf DIKEC\n🇨🇳 ZHANG Bowen
-SUMMARY:🔫 10m Air Pistol Men's Qualification
-LOCATION:Chateauroux Shooting Ctr
+SUMMARY:🔫 男子10米气手枪资格赛
+LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T100000Z-tennis-WOMENS-SINGLES-FIRST-ROUND-LAT-COL
+UID:20240727T100000Z-tennis-1-LAT-COL
 DTSTAMP:20240727T100000Z
 DTSTART:20240727T100000Z
 DTEND:20240727T113000Z
-DESCRIPTION:Tennis - Women's Singles First Round
+DESCRIPTION:网球 - 女子单打第1轮
 SUMMARY:🎾 Jelena OSTAPENKO 🇱🇻 - 🇨🇴 Camila OSORIO
-LOCATION:Roland-Garros Stadium
+LOCATION:罗兰·加洛斯体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T103000Z-shooting-10M-AIR-PISTOL-WOMENS-QUALIFICATION
+UID:20240727T103000Z-shooting-10
 DTSTAMP:20240727T103000Z
 DTSTART:20240727T103000Z
 DTEND:20240727T114500Z
-DESCRIPTION:Shooting - 10m Air Pistol Women's Qualification\n🇱🇻 Agate
-  RASMANE\n🇲🇽 Alejandra ZAVALA VAZQUEZ\n🇺🇸 Alexis LAGAN\n🇪🇨 Andrea
-  PEREZ PENA\n🇲🇩 Anna DULCE\n🇬🇷 Anna KORAKAKI\n🇧🇬 Antoaneta
-  KOSTADINOVA\n🇫🇷 Camille JEDRZEJEWSKI\n🇬🇷 Christina MOSCHI\n🇪🇨 Diana
-  DURANGO FLORES\n🇩🇪 Doreen VENNEKAMP\n🇦🇺 Elena GALIABOVITCH\n🇦🇲
-  Elmira KARAPETYAN\n🇪🇬 Hala ELGOHARI\n🇮🇷 Haniyeh ROSTAMIYAN\n🇰🇿
-  Irina YUNUSMETOVA\n🇨🇳 JIANG Ranxin\n🇩🇪 Josefin EDER\n🇰🇷 KIM
-  Yeji\n🇹🇭 Kamonlak SAENCHA\n🇺🇸 Katelyn Morgan ABELN\n🇵🇰 Kishmala
-  TALAT\n🇵🇱 Klaudia BRES\n🇨🇳 LI Xue\n🇹🇼 LIU Heng Yu\n🇨🇺 Laina
-  PEREZ\n🇦🇱 Manjola KONINI\n🇮🇳 Manu BHAKER\n🇬🇪 Nino SALUKVADZE\n🇪🇬
-  Nour Abbas MOHAMMED\n🇰🇷 OH Ye Jin\n🇺🇦 Olena KOSTEVYCH\n🇹🇳 Olfa
-  CHARNI\n🇮🇳 Rhythm SANGWAN\n🇭🇺 Sara Rahel FABIAN\n🇹🇷 Sevval Ilayda
-  TARHAN\n🇹🇷 Simal YILMAZ\n🇦🇹 Sylvia STEINER\n🇹🇭 Tanyaporn
-  PRUCKSAKORN\n🇻🇳 Thu Vinh TRINH\n🇭🇺 Veronika MAJOR\n🇸🇬 Xiu Hong
-  TEH\n🇹🇼 YU Ai Wen\n🇾🇪 Yasameen AL RAIMI\n🇷🇸 Zorana ARUNOVIC
-SUMMARY:🔫 10m Air Pistol Women's Qualification
-LOCATION:Chateauroux Shooting Ctr
+DESCRIPTION:射击 - 女子10米气手枪资格赛\n🇱🇻 Agate RASMANE\n🇲🇽 Alejandra ZAVALA
+  VAZQUEZ\n🇺🇸 Alexis LAGAN\n🇪🇨 Andrea PEREZ PENA\n🇲🇩 Anna DULCE\n🇬🇷
+  Anna KORAKAKI\n🇧🇬 Antoaneta KOSTADINOVA\n🇫🇷 Camille
+  JEDRZEJEWSKI\n🇬🇷 Christina MOSCHI\n🇪🇨 Diana DURANGO FLORES\n🇩🇪
+  Doreen VENNEKAMP\n🇦🇺 Elena GALIABOVITCH\n🇦🇲 Elmira KARAPETYAN\n🇪🇬
+  Hala ELGOHARI\n🇮🇷 Haniyeh ROSTAMIYAN\n🇰🇿 Irina YUNUSMETOVA\n🇨🇳
+  JIANG Ranxin\n🇩🇪 Josefin EDER\n🇰🇷 KIM Yeji\n🇹🇭 Kamonlak
+  SAENCHA\n🇺🇸 Katelyn Morgan ABELN\n🇵🇰 Kishmala TALAT\n🇵🇱 Klaudia
+  BRES\n🇨🇳 LI Xue\n🇹🇼 LIU Heng Yu\n🇨🇺 Laina PEREZ\n🇦🇱 Manjola
+  KONINI\n🇮🇳 Manu BHAKER\n🇬🇪 Nino SALUKVADZE\n🇪🇬 Nour Abbas
+  MOHAMMED\n🇰🇷 OH Ye Jin\n🇺🇦 Olena KOSTEVYCH\n🇹🇳 Olfa CHARNI\n🇮🇳
+  Rhythm SANGWAN\n🇭🇺 Sara Rahel FABIAN\n🇹🇷 Sevval Ilayda TARHAN\n🇹🇷
+  Simal YILMAZ\n🇦🇹 Sylvia STEINER\n🇹🇭 Tanyaporn PRUCKSAKORN\n🇻🇳 Thu
+  Vinh TRINH\n🇭🇺 Veronika MAJOR\n🇸🇬 Xiu Hong TEH\n🇹🇼 YU Ai Wen\n🇾🇪
+  Yasameen AL RAIMI\n🇷🇸 Zorana ARUNOVIC
+SUMMARY:🔫 女子10米气手枪资格赛
+LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T150000Z-beach-volleyball-WOMENS-PRELIMINARY-PHASE-POOL-D-LAT-S
+UID:20240729T150000Z-beach-volleyball--D-LAT-SUI
 DTSTAMP:20240729T150000Z
 DTSTART:20240729T150000Z
 DTEND:20240729T155000Z
-DESCRIPTION:Beach Volleyball - Women's Preliminary Phase - Pool D
+DESCRIPTION:沙滩排球 - 女子预赛 - D组
 SUMMARY:🏐 TINA/ANASTASIJA 🇱🇻 - 🇨🇭 ESMEE/ZOE
-LOCATION:Eiffel Tower Stadium
+LOCATION:埃菲尔铁塔体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T163500Z-3x3-basketball-MENS-POOL-ROUND-LAT-LTU
+UID:20240730T163500Z-3x3-basketball--LAT-LTU
 DTSTAMP:20240730T163500Z
 DTSTART:20240730T163500Z
 DTEND:20240730T170000Z
-DESCRIPTION:3x3 Basketball - Men's Pool Round
-SUMMARY:🏀 LAT 🇱🇻 - 🇱🇹 LTU
-LOCATION:La Concorde 1
+DESCRIPTION:三人篮球 - 男子分组循环赛
+SUMMARY:🏀 拉脱维亚 🇱🇻 - 🇱🇹 立陶宛
+LOCATION:协和广场1号场地
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T100000Z-beach-volleyball-WOMENS-PRELIMINARY-PHASE-POOL-D-LAT-P
+UID:20240731T100000Z-beach-volleyball--D-LAT-PAR
 DTSTAMP:20240731T100000Z
 DTSTART:20240731T100000Z
 DTEND:20240731T105000Z
-DESCRIPTION:Beach Volleyball - Women's Preliminary Phase - Pool D
+DESCRIPTION:沙滩排球 - 女子预赛 - D组
 SUMMARY:🏐 TINA/ANASTASIJA 🇱🇻 - 🇵🇾 POLETTI/MICHELLE
-LOCATION:Eiffel Tower Stadium
+LOCATION:埃菲尔铁塔体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T163500Z-3x3-basketball-MENS-POOL-ROUND-LAT-NED
+UID:20240731T163500Z-3x3-basketball--LAT-NED
 DTSTAMP:20240731T163500Z
 DTSTART:20240731T163500Z
 DTEND:20240731T170000Z
-DESCRIPTION:3x3 Basketball - Men's Pool Round
-SUMMARY:🏀 LAT 🇱🇻 - 🇳🇱 NED
-LOCATION:La Concorde 1
+DESCRIPTION:三人篮球 - 男子分组循环赛
+SUMMARY:🏀 拉脱维亚 🇱🇻 - 🇳🇱 荷兰
+LOCATION:协和广场1号场地
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T083500Z-3x3-basketball-MENS-POOL-ROUND-CHN-LAT
+UID:20240801T083500Z-3x3-basketball--CHN-LAT
 DTSTAMP:20240801T083500Z
 DTSTART:20240801T083500Z
 DTEND:20240801T090000Z
-DESCRIPTION:3x3 Basketball - Men's Pool Round
-SUMMARY:🏀 CHN 🇨🇳 - 🇱🇻 LAT
-LOCATION:La Concorde 1
+DESCRIPTION:三人篮球 - 男子分组循环赛
+SUMMARY:🏀 中国 🇨🇳 - 🇱🇻 拉脱维亚
+LOCATION:协和广场1号场地
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T210500Z-3x3-basketball-MENS-POOL-ROUND-USA-LAT
+UID:20240801T210500Z-3x3-basketball--USA-LAT
 DTSTAMP:20240801T210500Z
 DTSTART:20240801T210500Z
 DTEND:20240801T213000Z
-DESCRIPTION:3x3 Basketball - Men's Pool Round
-SUMMARY:🏀 USA 🇺🇸 - 🇱🇻 LAT
-LOCATION:La Concorde 1
+DESCRIPTION:三人篮球 - 男子分组循环赛
+SUMMARY:🏀 美国 🇺🇸 - 🇱🇻 拉脱维亚
+LOCATION:协和广场1号场地
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T070000Z-shooting-25M-PISTOL-WOMENS-QUALIFICATION-PRECISION
+UID:20240802T070000Z-shooting-25
 DTSTAMP:20240802T070000Z
 DTSTART:20240802T070000Z
 DTEND:20240802T093000Z
-DESCRIPTION:Shooting - 25m Pistol Women's Qualification Precision\n🇺🇸 Ada
-  Claudia KORKHIN\n🇱🇻 Agate RASMANE\n🇲🇽 Alejandra ZAVALA VAZQUEZ\n🇪🇨
-  Andrea PEREZ PENA\n🇬🇷 Anna KORAKAKI\n🇧🇬 Antoaneta KOSTADINOVA\n🇫🇷
-  Camille JEDRZEJEWSKI\n🇪🇨 Diana DURANGO FLORES\n🇩🇪 Doreen
-  VENNEKAMP\n🇦🇺 Elena GALIABOVITCH\n🇮🇳 Esha SINGH\n🇮🇷 Haniyeh
-  ROSTAMIYAN\n🇩🇪 Josefin EDER\n🇰🇷 KIM Yeji\n🇹🇭 Kamonlak SAENCHA\n🇺🇸
-  Katelyn Morgan ABELN\n🇵🇰 Kishmala TALAT\n🇵🇱 Klaudia BRES\n🇨🇳 LIANG
-  Xiaoya\n🇨🇺 Laina PEREZ\n🇦🇱 Manjola KONINI\n🇮🇳 Manu BHAKER\n🇫🇷
-  Mathilde LAMOLLE\n🇬🇪 Nino SALUKVADZE\n🇪🇬 Nour Abbas MOHAMMED\n🇺🇦
-  Olena KOSTEVYCH\n🇭🇺 Sara Rahel FABIAN\n🇹🇷 Sevval Ilayda TARHAN\n🇹🇷
-  Simal YILMAZ\n🇸🇪 Stina LAWNER\n🇦🇹 Sylvia STEINER\n🇹🇼 TIEN Chia
-  Chen\n🇹🇭 Tanyaporn PRUCKSAKORN\n🇻🇳 Thu Vinh TRINH\n🇭🇺 Veronika
-  MAJOR\n🇹🇼 WU Chia Ying\n🇸🇬 Xiu Hong TEH\n🇰🇷 YANG Jiin\n🇨🇳 ZHAO
-  Nan
-SUMMARY:🔫 25m Pistol Women's Qualification Precision
-LOCATION:Chateauroux Shooting Ctr
+DESCRIPTION:射击 - 女子25米手枪精准资格赛\n🇺🇸 Ada Claudia KORKHIN\n🇱🇻 Agate
+  RASMANE\n🇲🇽 Alejandra ZAVALA VAZQUEZ\n🇪🇨 Andrea PEREZ PENA\n🇬🇷 Anna
+  KORAKAKI\n🇧🇬 Antoaneta KOSTADINOVA\n🇫🇷 Camille JEDRZEJEWSKI\n🇪🇨
+  Diana DURANGO FLORES\n🇩🇪 Doreen VENNEKAMP\n🇦🇺 Elena
+  GALIABOVITCH\n🇮🇳 Esha SINGH\n🇮🇷 Haniyeh ROSTAMIYAN\n🇩🇪 Josefin
+  EDER\n🇰🇷 KIM Yeji\n🇹🇭 Kamonlak SAENCHA\n🇺🇸 Katelyn Morgan
+  ABELN\n🇵🇰 Kishmala TALAT\n🇵🇱 Klaudia BRES\n🇨🇳 LIANG Xiaoya\n🇨🇺
+  Laina PEREZ\n🇦🇱 Manjola KONINI\n🇮🇳 Manu BHAKER\n🇫🇷 Mathilde
+  LAMOLLE\n🇬🇪 Nino SALUKVADZE\n🇪🇬 Nour Abbas MOHAMMED\n🇺🇦 Olena
+  KOSTEVYCH\n🇭🇺 Sara Rahel FABIAN\n🇹🇷 Sevval Ilayda TARHAN\n🇹🇷 Simal
+  YILMAZ\n🇸🇪 Stina LAWNER\n🇦🇹 Sylvia STEINER\n🇹🇼 TIEN Chia Chen\n🇹🇭
+  Tanyaporn PRUCKSAKORN\n🇻🇳 Thu Vinh TRINH\n🇭🇺 Veronika MAJOR\n🇹🇼 WU
+  Chia Ying\n🇸🇬 Xiu Hong TEH\n🇰🇷 YANG Jiin\n🇨🇳 ZHAO Nan
+SUMMARY:🔫 女子25米手枪精准资格赛
+LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T120500Z-3x3-basketball-MENS-POOL-ROUND-FRA-LAT
+UID:20240802T120500Z-3x3-basketball--FRA-LAT
 DTSTAMP:20240802T120500Z
 DTSTART:20240802T120500Z
 DTEND:20240802T123000Z
-DESCRIPTION:3x3 Basketball - Men's Pool Round
-SUMMARY:🏀 FRA 🇫🇷 - 🇱🇻 LAT
-LOCATION:La Concorde 1
+DESCRIPTION:三人篮球 - 男子分组循环赛
+SUMMARY:🏀 法国 🇫🇷 - 🇱🇻 拉脱维亚
+LOCATION:协和广场1号场地
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T170500Z-3x3-basketball-MENS-POOL-ROUND-LAT-SRB
+UID:20240802T170500Z-3x3-basketball--LAT-SRB
 DTSTAMP:20240802T170500Z
 DTSTART:20240802T170500Z
 DTEND:20240802T173000Z
-DESCRIPTION:3x3 Basketball - Men's Pool Round
-SUMMARY:🏀 LAT 🇱🇻 - 🇷🇸 SRB
-LOCATION:La Concorde 1
+DESCRIPTION:三人篮球 - 男子分组循环赛
+SUMMARY:🏀 拉脱维亚 🇱🇻 - 🇷🇸 塞尔维亚
+LOCATION:协和广场1号场地
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T150000Z-beach-volleyball-WOMENS-PRELIMINARY-PHASE-POOL-D-CAN-L
+UID:20240803T150000Z-beach-volleyball--D-CAN-LAT
 DTSTAMP:20240803T150000Z
 DTSTART:20240803T150000Z
 DTEND:20240803T155000Z
-DESCRIPTION:Beach Volleyball - Women's Preliminary Phase - Pool D
+DESCRIPTION:沙滩排球 - 女子预赛 - D组
 SUMMARY:🏐 MELISSA/BRANDIE 🇨🇦 - 🇱🇻 TINA/ANASTASIJA
-LOCATION:Eiffel Tower Stadium
+LOCATION:埃菲尔铁塔体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T160000Z-3x3-basketball-MENS-POOL-ROUND-POL-LAT
+UID:20240804T160000Z-3x3-basketball--POL-LAT
 DTSTAMP:20240804T160000Z
 DTSTART:20240804T160000Z
 DTEND:20240804T162500Z
-DESCRIPTION:3x3 Basketball - Men's Pool Round
-SUMMARY:🏀 POL 🇵🇱 - 🇱🇻 LAT
-LOCATION:La Concorde 1
+DESCRIPTION:三人篮球 - 男子分组循环赛
+SUMMARY:🏀 波兰 🇵🇱 - 🇱🇻 拉脱维亚
+LOCATION:协和广场1号场地
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

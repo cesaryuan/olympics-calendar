@@ -13,64 +13,64 @@ SUMMARY:Paris 2024 - Opening ceremony
 Location:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T134500Z-table-tennis-MENS-SINGLES-PRELIMINARY-ROUND-SEN-NEP
+UID:20240727T134500Z-table-tennis--SEN-NEP
 DTSTAMP:20240727T134500Z
 DTSTART:20240727T134500Z
 DTEND:20240727T143000Z
-DESCRIPTION:Table Tennis - Men's Singles Preliminary Round
+DESCRIPTION:乒乓球 - 男子单打预赛
 SUMMARY:🏓 Ibrahima DIAW 🇸🇳 - 🇳🇵 Santoo SHRESTHA
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T191000Z-badminton-MENS-SINGLES-GROUP-PLAY-STAGE-GROUP-P-DEN-NE
+UID:20240727T191000Z-badminton--P-DEN-NEP
 DTSTAMP:20240727T191000Z
 DTSTART:20240727T191000Z
 DTEND:20240727T195000Z
-DESCRIPTION:Badminton - Men's Singles Group Play Stage - Group P
+DESCRIPTION:羽毛球 - 男子单打小组赛 - P组
 SUMMARY:🏸 Viktor AXELSEN 🇩🇰 - 🇳🇵 Prince DAHAL
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T071500Z-shooting-10M-AIR-RIFLE-WOMENS-QUALIFICATION
+UID:20240728T071500Z-shooting-10
 DTSTAMP:20240728T071500Z
 DTSTART:20240728T071500Z
 DTEND:20240728T083000Z
-DESCRIPTION:Shooting - 10m Air Rifle Women's Qualification\n🇰🇿 Alexandra
-  Le\n🇲🇰 Anastasija MOJSOVSKA\n🇵🇱 Aneta STANKIEWICZ\n🇩🇪 Anna
-  JANSSEN\n🇰🇿 Arina ALTUKHOVA\n🇨🇭 Audrey GOGNIAT\n🇰🇷 BAN Hyojin\n🇮🇹
-  Barbara GAMBARO\n🇮🇳 Elavenil VALARIVAN\n🇭🇺 Eszter MESZAROS\n🇮🇷
-  Fatemeh AMINI POZVEH\n🇦🇷 Fernanda RUSSO\n🇧🇷 Geovana MEYER\n🇲🇽
-  Goretti Alejandra ZUMAYA FLORES\n🇨🇳 HAN Jiayu\n🇨🇳 HUANG Yuting\n🇩🇿
-  Houda CHAABI\n🇳🇴 Jeanette Hegg DUESTAD\n🇵🇱 Julia Ewa PIOTROWSKA\n🇰🇷
-  KEUM Jihyeon\n🇩🇪 Lisa MUELLER\n🇨🇺 Lisbet HERNANDEZ HERNANDEZ\n🏳️
-  Luna SOLOMON\n🇪🇬 Mai Magdy ELSAYED ABUQARN\n🇫🇷 Manon HERBULOT\n🇳🇮
-  Mariel Jose LOPEZ PAVON\n🇺🇸 Mary Carolynn TUCKER\n🇯🇵 NOBATA
-  Misaki\n🇦🇹 Nadine UNGERANK\n🇨🇭 Nina CHRISTEN\n🇫🇷 Oceanne
-  MULLER\n🇮🇳 Ramita RAMITA\n🇪🇬 Remas KHALIL\n🇩🇰 Rikke Maeng
-  IBSEN\n🇺🇸 Sagen MADDALENA\n🇬🇧 Seonaid McINTOSH\n🇮🇷 Shermineh CHEHEL
-  AMIRANI\n🇩🇰 Stephanie Laura Scurrah GRUNDSOEE\n🇳🇵 Sushmita
-  NEPAL\n🇳🇴 Synnoeve BERG\n🇻🇳 Thi Mong Tuyen Le\n🇨🇿 Veronika
-  BLAZICKOVA\n🇵🇷 Yarimar MERCADO MARTINEZ\n🇲🇳 Yesugen OYUNBAT
-SUMMARY:🔫 10m Air Rifle Women's Qualification
-LOCATION:Chateauroux Shooting Ctr
+DESCRIPTION:射击 - 女子10米气步枪资格赛\n🇰🇿 Alexandra Le\n🇲🇰 Anastasija
+  MOJSOVSKA\n🇵🇱 Aneta STANKIEWICZ\n🇩🇪 Anna JANSSEN\n🇰🇿 Arina
+  ALTUKHOVA\n🇨🇭 Audrey GOGNIAT\n🇰🇷 BAN Hyojin\n🇮🇹 Barbara
+  GAMBARO\n🇮🇳 Elavenil VALARIVAN\n🇭🇺 Eszter MESZAROS\n🇮🇷 Fatemeh
+  AMINI POZVEH\n🇦🇷 Fernanda RUSSO\n🇧🇷 Geovana MEYER\n🇲🇽 Goretti
+  Alejandra ZUMAYA FLORES\n🇨🇳 HAN Jiayu\n🇨🇳 HUANG Yuting\n🇩🇿 Houda
+  CHAABI\n🇳🇴 Jeanette Hegg DUESTAD\n🇵🇱 Julia Ewa PIOTROWSKA\n🇰🇷 KEUM
+  Jihyeon\n🇩🇪 Lisa MUELLER\n🇨🇺 Lisbet HERNANDEZ HERNANDEZ\n🏳️ Luna
+  SOLOMON\n🇪🇬 Mai Magdy ELSAYED ABUQARN\n🇫🇷 Manon HERBULOT\n🇳🇮 Mariel
+  Jose LOPEZ PAVON\n🇺🇸 Mary Carolynn TUCKER\n🇯🇵 NOBATA Misaki\n🇦🇹
+  Nadine UNGERANK\n🇨🇭 Nina CHRISTEN\n🇫🇷 Oceanne MULLER\n🇮🇳 Ramita
+  RAMITA\n🇪🇬 Remas KHALIL\n🇩🇰 Rikke Maeng IBSEN\n🇺🇸 Sagen
+  MADDALENA\n🇬🇧 Seonaid McINTOSH\n🇮🇷 Shermineh CHEHEL AMIRANI\n🇩🇰
+  Stephanie Laura Scurrah GRUNDSOEE\n🇳🇵 Sushmita NEPAL\n🇳🇴 Synnoeve
+  BERG\n🇻🇳 Thi Mong Tuyen Le\n🇨🇿 Veronika BLAZICKOVA\n🇵🇷 Yarimar
+  MERCADO MARTINEZ\n🇲🇳 Yesugen OYUNBAT
+SUMMARY:🔫 女子10米气步枪资格赛
+LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T080600Z-judo-WOMEN-57-KG-ELIMINATION-ROUND-OF-32-SRB-NEP
+UID:20240729T080600Z-judo-5732-SRB-NEP
 DTSTAMP:20240729T080600Z
 DTSTART:20240729T080600Z
 DTEND:20240729T081200Z
-DESCRIPTION:Judo - Women -57 kg Elimination Round of 32
+DESCRIPTION:柔道 - 女子57公斤级32强淘汰赛
 SUMMARY:🥋 Marica PERISIC 🇷🇸 - 🇳🇵 Manita SHRESTHA PRADHAN
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T191000Z-badminton-MENS-SINGLES-GROUP-PLAY-STAGE-GROUP-P-IRL-NE
+UID:20240729T191000Z-badminton--P-IRL-NEP
 DTSTAMP:20240729T191000Z
 DTSTART:20240729T191000Z
 DTEND:20240729T210000Z
-DESCRIPTION:Badminton - Men's Singles Group Play Stage - Group P
+DESCRIPTION:羽毛球 - 男子单打小组赛 - P组
 SUMMARY:🏸 Nhat NGUYEN 🇮🇪 - 🇳🇵 Prince DAHAL
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

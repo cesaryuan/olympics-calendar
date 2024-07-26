@@ -1,24 +1,24 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//table-tennis/SLO//EN
-X-WR-CALNAME:🇸🇮 Slovenia Table Tennis | Paris 2024
-NAME:🇸🇮 Slovenia Table Tennis | Paris 2024
+X-WR-CALNAME:🇸🇮 Slovenia 乒乓球 | Paris 2024
+NAME:🇸🇮 Slovenia 乒乓球 | Paris 2024
 BEGIN:VEVENT
-UID:20240728T093000Z-table-tennis-MENS-SINGLES-ROUND-OF-64-IND-SLO
+UID:20240728T093000Z-table-tennis-64-IND-SLO
 DTSTAMP:20240728T093000Z
 DTSTART:20240728T093000Z
 DTEND:20240728T101500Z
-DESCRIPTION:Table Tennis - Men's Singles Round of 64
+DESCRIPTION:乒乓球 - 男子单打64强赛
 SUMMARY:🏓 Sharath Kamal ACHANTA 🇮🇳 - 🇸🇮 Deni KOZUL
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T110000Z-table-tennis-MENS-SINGLES-ROUND-OF-64-SLO-SGP
+UID:20240728T110000Z-table-tennis-64-SLO-SGP
 DTSTAMP:20240728T110000Z
 DTSTART:20240728T110000Z
 DTEND:20240728T120000Z
-DESCRIPTION:Table Tennis - Men's Singles Round of 64
+DESCRIPTION:乒乓球 - 男子单打64强赛
 SUMMARY:🏓 Darko JORGIC 🇸🇮 - 🇸🇬 QUEK Izaac
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 END:VCALENDAR

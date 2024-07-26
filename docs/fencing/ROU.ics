@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//fencing/ROU//EN
-X-WR-CALNAME:🇷🇴 Romania Fencing | Paris 2024
-NAME:🇷🇴 Romania Fencing | Paris 2024
+X-WR-CALNAME:🇷🇴 Romania 击剑 | Paris 2024
+NAME:🇷🇴 Romania 击剑 | Paris 2024
 BEGIN:VEVENT
-UID:20240728T085500Z-fencing-WOMENS-FOIL-INDIVIDUAL-TABLE-OF-32-ROU-JPN
+UID:20240728T085500Z-fencing-32-ROU-JPN
 DTSTAMP:20240728T085500Z
 DTSTART:20240728T085500Z
 DTEND:20240728T092500Z
-DESCRIPTION:Fencing - Women's Foil Individual Table of 32
+DESCRIPTION:击剑 - 女子个人花剑32强
 SUMMARY:🤺 Malina CALUGAREANU 🇷🇴 - 🇯🇵 UENO Yuka
-LOCATION:Grand Palais
+LOCATION:巴黎大皇宫
 END:VEVENT
 END:VCALENDAR

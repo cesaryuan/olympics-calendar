@@ -13,151 +13,150 @@ SUMMARY:Paris 2024 - Opening ceremony
 Location:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T085400Z-judo-WOMEN-48-KG-ELIMINATION-ROUND-OF-32-POR-GER
+UID:20240727T085400Z-judo-4832-POR-GER
 DTSTAMP:20240727T085400Z
 DTSTART:20240727T085400Z
 DTEND:20240727T090000Z
-DESCRIPTION:Judo - Women -48 kg Elimination Round of 32
+DESCRIPTION:柔道 - 女子48公斤级32强淘汰赛
 SUMMARY:🥋 Catarina COSTA 🇵🇹 - 🇩🇪 Katharina MENZ
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T100000Z-tennis-MENS-SINGLES-FIRST-ROUND-ARG-POR
+UID:20240727T100000Z-tennis-1-ARG-POR
 DTSTAMP:20240727T100000Z
 DTSTART:20240727T100000Z
 DTEND:20240727T130000Z
-DESCRIPTION:Tennis - Men's Singles First Round
+DESCRIPTION:网球 - 男子单打第1轮
 SUMMARY:🎾 Mariano NAVONE 🇦🇷 - 🇵🇹 Nuno BORGES
-LOCATION:Roland-Garros Stadium
+LOCATION:罗兰·加洛斯体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T143200Z-cycling-road-MENS-INDIVIDUAL-TIME-TRIAL
+UID:20240727T143200Z-cycling-road-
 DTSTAMP:20240727T143200Z
 DTSTART:20240727T143200Z
 DTEND:20240727T155700Z
-DESCRIPTION:Cycling Road - Men's Individual Time Trial\n🇲🇦 Achraf ED
-  DOGHMY\n🇮🇹 Alberto BETTIOL\n🏳️ Amir ANSARI\n🇭🇺 Attila VALTER\n🇪🇷
-  Biniam GIRMAY\n🇺🇸 Brandon McNULTY\n🇳🇱 Daan HOOLE\n🇨🇦 Derek
-  GEE\n🇦🇹 Felix GROSSSCHARTNER\n🇮🇹 Filippo GANNA\n🇲🇳 Jambaljamts
-  SAINBAYAR\n🇸🇮 Jan TRATNIK\n🇬🇧 Josh TARLING\n🇫🇷 Kevin
-  VAUQUELIN\n🇳🇿 Laurence PITHIE\n🇦🇺 Lucas PLAPP\n🇺🇸 Magnus
-  SHEFFIELD\n🇨🇿 Mathias VACEK\n🇩🇰 Mattias SKJELMOSE\n🇩🇪 Maximilian
-  SCHACHMANN\n🇵🇱 Michal KWIATKOWSKI\n🇩🇰 Mikkel Norsgaard BJERG\n🇵🇹
-  Nelson OLIVEIRA\n🇪🇸 Oier LAZKANO LOPEZ\n🇧🇪 Remco EVENEPOEL\n🇵🇹 Rui
-  COSTA\n🇮🇪 Ryan MULLEN\n🇳🇴 Soeren WAERENSKJOLD\n🇨🇭 Stefan
-  BISSEGGER\n🇨🇭 Stefan KUENG\n🇳🇴 Tobias FOSS\n🇧🇪 Wout van AERT\n🇰🇿
-  Yevgeniy FEDOROV
-SUMMARY:🚴 Men's Individual Time Trial
-LOCATION:Pont Alexandre III
+DESCRIPTION:公路自行车 - 男子个人计时赛\n🇲🇦 Achraf ED DOGHMY\n🇮🇹 Alberto
+  BETTIOL\n🏳️ Amir ANSARI\n🇭🇺 Attila VALTER\n🇪🇷 Biniam GIRMAY\n🇺🇸
+  Brandon McNULTY\n🇳🇱 Daan HOOLE\n🇨🇦 Derek GEE\n🇦🇹 Felix
+  GROSSSCHARTNER\n🇮🇹 Filippo GANNA\n🇲🇳 Jambaljamts SAINBAYAR\n🇸🇮 Jan
+  TRATNIK\n🇬🇧 Josh TARLING\n🇫🇷 Kevin VAUQUELIN\n🇳🇿 Laurence
+  PITHIE\n🇦🇺 Lucas PLAPP\n🇺🇸 Magnus SHEFFIELD\n🇨🇿 Mathias VACEK\n🇩🇰
+  Mattias SKJELMOSE\n🇩🇪 Maximilian SCHACHMANN\n🇵🇱 Michal
+  KWIATKOWSKI\n🇩🇰 Mikkel Norsgaard BJERG\n🇵🇹 Nelson OLIVEIRA\n🇪🇸 Oier
+  LAZKANO LOPEZ\n🇧🇪 Remco EVENEPOEL\n🇵🇹 Rui COSTA\n🇮🇪 Ryan
+  MULLEN\n🇳🇴 Soeren WAERENSKJOLD\n🇨🇭 Stefan BISSEGGER\n🇨🇭 Stefan
+  KUENG\n🇳🇴 Tobias FOSS\n🇧🇪 Wout van AERT\n🇰🇿 Yevgeniy FEDOROV
+SUMMARY:🚴 男子个人计时赛
+LOCATION:亚历山大三世桥
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T193000Z-table-tennis-WOMENS-SINGLES-ROUND-OF-64-POR-LUX
+UID:20240727T193000Z-table-tennis-64-POR-LUX
 DTSTAMP:20240727T193000Z
 DTSTART:20240727T193000Z
 DTEND:20240727T201500Z
-DESCRIPTION:Table Tennis - Women's Singles Round of 64
+DESCRIPTION:乒乓球 - 女子单打64强赛
 SUMMARY:🏓 Jieni SHAO 🇵🇹 - 🇱🇺 Sarah de NUTTE
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T101500Z-table-tennis-WOMENS-SINGLES-ROUND-OF-64-KOR-POR
+UID:20240728T101500Z-table-tennis-64-KOR-POR
 DTSTAMP:20240728T101500Z
 DTSTART:20240728T101500Z
 DTEND:20240728T110000Z
-DESCRIPTION:Table Tennis - Women's Singles Round of 64
+DESCRIPTION:乒乓球 - 女子单打64强赛
 SUMMARY:🏓 JEON Jihee 🇰🇷 - 🇵🇹 Fu YU
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T200000Z-table-tennis-MENS-SINGLES-ROUND-OF-64-POR-GER
+UID:20240728T200000Z-table-tennis-64-POR-GER
 DTSTAMP:20240728T200000Z
 DTSTART:20240728T200000Z
 DTEND:20240728T210000Z
-DESCRIPTION:Table Tennis - Men's Singles Round of 64
+DESCRIPTION:乒乓球 - 男子单打64强赛
 SUMMARY:🏓 Tiago APOLONIA 🇵🇹 - 🇩🇪 Dang QIU
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T110000Z-table-tennis-MENS-SINGLES-ROUND-OF-64-DEN-POR
+UID:20240729T110000Z-table-tennis-64-DEN-POR
 DTSTAMP:20240729T110000Z
 DTSTART:20240729T110000Z
 DTEND:20240729T120000Z
-DESCRIPTION:Table Tennis - Men's Singles Round of 64
+DESCRIPTION:乒乓球 - 男子单打64强赛
 SUMMARY:🏓 Anders LIND 🇩🇰 - 🇵🇹 Marcos FREITAS
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T070000Z-shooting-TRAP-WOMENS-QUALIFICATION-DAY-1
+UID:20240730T070000Z-shooting--1
 DTSTAMP:20240730T070000Z
 DTSTART:20240730T070000Z
 DTEND:20240730T120000Z
-DESCRIPTION:Shooting - Trap Women's Qualification - Day 1\n🇬🇹 Adriana
-  RUANO OLIVA\n🇸🇲 Alessandra PERILLI\n🇬🇹 Ana Waleska SOTO ABRIL\n🇫🇷
-  Carole CORMENIER\n🇦🇺 Catherine SKINNER\n🇪🇸 Fatima GALVEZ\n🇮🇹
-  Jessica ROSSI\n🇰🇷 KANG Geeeun\n🇩🇪 Kathrin MURCHE\n🇰🇷 LEE Bo
-  Na\n🇹🇼 LIN Yi Chun\n🇹🇼 LIU Wan-Yu\n🇬🇧 Lucy Charlotte HALL\n🇪🇬
-  Maggy ASHMAWY\n🇪🇸 Mar MOLNE MAGRINA\n🇵🇹 Maria Ines COELHO de
-  BARROS\n🇰🇿 Mariya DMITRIYENKO\n🇫🇷 Melanie COUZY\n🇫🇮 Noora
-  ANTIKAINEN\n🇦🇺 Penny SMITH\n🇺🇸 Rachel Leighanne TOZIER\n🇮🇳
-  Rajeshwari KUMARI\n🇱🇧 Ray BASSIL\n🇹🇷 Rumeysa Pelin KAYA\n🇺🇸 Ryann
-  Paige PHILLIPS\n🇮🇳 Shreyasi SINGH\n🇮🇹 Silvana Maria STANCO\n🇨🇳 WU
-  Cuicui\n🇨🇳 ZHANG Xinqiu\n🇸🇰 Zuzana REHAK STEFECEKOVA
-SUMMARY:🔫 Trap Women's Qualification - Day 1
-LOCATION:Chateauroux Shooting Ctr
+DESCRIPTION:射击 - 女子多向飞碟资格赛 - 第1天\n🇬🇹 Adriana RUANO OLIVA\n🇸🇲 Alessandra
+  PERILLI\n🇬🇹 Ana Waleska SOTO ABRIL\n🇫🇷 Carole CORMENIER\n🇦🇺
+  Catherine SKINNER\n🇪🇸 Fatima GALVEZ\n🇮🇹 Jessica ROSSI\n🇰🇷 KANG
+  Geeeun\n🇩🇪 Kathrin MURCHE\n🇰🇷 LEE Bo Na\n🇹🇼 LIN Yi Chun\n🇹🇼 LIU
+  Wan-Yu\n🇬🇧 Lucy Charlotte HALL\n🇪🇬 Maggy ASHMAWY\n🇪🇸 Mar MOLNE
+  MAGRINA\n🇵🇹 Maria Ines COELHO de BARROS\n🇰🇿 Mariya DMITRIYENKO\n🇫🇷
+  Melanie COUZY\n🇫🇮 Noora ANTIKAINEN\n🇦🇺 Penny SMITH\n🇺🇸 Rachel
+  Leighanne TOZIER\n🇮🇳 Rajeshwari KUMARI\n🇱🇧 Ray BASSIL\n🇹🇷 Rumeysa
+  Pelin KAYA\n🇺🇸 Ryann Paige PHILLIPS\n🇮🇳 Shreyasi SINGH\n🇮🇹 Silvana
+  Maria STANCO\n🇨🇳 WU Cuicui\n🇨🇳 ZHANG Xinqiu\n🇸🇰 Zuzana REHAK
+  STEFECEKOVA
+SUMMARY:🔫 女子多向飞碟资格赛 - 第1天
+LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T080000Z-judo-WOMEN-63-KG-ELIMINATION-ROUND-OF-32-POR-KOR
+UID:20240730T080000Z-judo-6332-POR-KOR
 DTSTAMP:20240730T080000Z
 DTSTART:20240730T080000Z
 DTEND:20240730T080600Z
-DESCRIPTION:Judo - Women -63 kg Elimination Round of 32
+DESCRIPTION:柔道 - 女子63公斤级32强淘汰赛
 SUMMARY:🥋 Barbara TIMO 🇵🇹 - 🇰🇷 KIM Jisu
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T084200Z-judo-MEN-81-KG-ELIMINATION-ROUND-OF-32-CAN-POR
+UID:20240730T084200Z-judo-8132-CAN-POR
 DTSTAMP:20240730T084200Z
 DTSTART:20240730T084200Z
 DTEND:20240730T084800Z
-DESCRIPTION:Judo - Men -81 kg Elimination Round of 32
+DESCRIPTION:柔道 - 男子81公斤级32强淘汰赛
 SUMMARY:🥋 Francois GAUTHIER DRAPEAU 🇨🇦 - 🇵🇹 Joao FERNANDO
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T080000Z-judo-WOMEN-70-KG-ELIMINATION-ROUND-OF-32-ITA-POR
+UID:20240731T080000Z-judo-7032-ITA-POR
 DTSTAMP:20240731T080000Z
 DTSTART:20240731T080000Z
 DTEND:20240731T080600Z
-DESCRIPTION:Judo - Women -70 kg Elimination Round of 32
+DESCRIPTION:柔道 - 女子70公斤级32强淘汰赛
 SUMMARY:🥋 Kim POLLING 🇮🇹 - 🇵🇹 Tais PINA
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T081200Z-judo-WOMEN-78-KG-ELIMINATION-ROUND-OF-32-KEN-POR
+UID:20240801T081200Z-judo-7832-KEN-POR
 DTSTAMP:20240801T081200Z
 DTSTART:20240801T081200Z
 DTEND:20240801T081800Z
-DESCRIPTION:Judo - Women -78 kg Elimination Round of 32
+DESCRIPTION:柔道 - 女子78公斤级32强淘汰赛
 SUMMARY:🥋 Zeddy CHEROTICH 🇰🇪 - 🇵🇹 Patricia SAMPAIO
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T092400Z-judo-MEN-100-KG-ELIMINATION-ROUND-OF-16
+UID:20240801T092400Z-judo-10016
 DTSTAMP:20240801T092400Z
 DTSTART:20240801T092400Z
 DTEND:20240801T093000Z
-DESCRIPTION:Judo - Men -100 kg Elimination Round of 16\n🇵🇹 Jorge FONSECA
-SUMMARY:🥋 Men -100 kg Elimination Round of 16
-LOCATION:Champ-de-Mars Arena
+DESCRIPTION:柔道 - 男子100公斤级16强淘汰赛\n🇵🇹 Jorge FONSECA
+SUMMARY:🥋 男子100公斤级16强淘汰赛
+LOCATION:战神广场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T080600Z-judo-WOMEN-78-KG-ELIMINATION-ROUND-OF-32-POR-TUN
+UID:20240802T080600Z-judo-7832-POR-TUN
 DTSTAMP:20240802T080600Z
 DTSTART:20240802T080600Z
 DTEND:20240802T081200Z
-DESCRIPTION:Judo - Women +78 kg Elimination Round of 32
+DESCRIPTION:柔道 - 女子78公斤以上级32强淘汰赛
 SUMMARY:🥋 Rochele NUNES 🇵🇹 - 🇹🇳 Sarra MZOUGUI
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

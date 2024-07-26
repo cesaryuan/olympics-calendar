@@ -1,16 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//boxing/ROU//EN
-X-WR-CALNAME:🇷🇴 Romania Boxing | Paris 2024
-NAME:🇷🇴 Romania Boxing | Paris 2024
+X-WR-CALNAME:🇷🇴 Romania 拳击 | Paris 2024
+NAME:🇷🇴 Romania 拳击 | Paris 2024
 BEGIN:VEVENT
-UID:20240730T152200Z-boxing-WOMENS-54KG-PRELIMINARIES-ROUND-OF-16
+UID:20240730T152200Z-boxing-54-16
 DTSTAMP:20240730T152200Z
 DTSTART:20240730T152200Z
 DTEND:20240730T153300Z
-DESCRIPTION:Boxing - Women's 54kg - Preliminaries - Round of 16\n🇷🇴
-  Lenuta Lacramioara PERIJOC
-SUMMARY:🥊 Women's 54kg - Preliminaries - Round of 16
-LOCATION:North Paris Arena
+DESCRIPTION:拳击 - 女子54公斤级 - 预赛 - 16强赛\n🇷🇴 Lenuta Lacramioara PERIJOC
+SUMMARY:🥊 女子54公斤级 - 预赛 - 16强赛
+LOCATION:北巴黎竞技场
 END:VEVENT
 END:VCALENDAR

@@ -4,58 +4,58 @@ PRODID:-//fabrice404//olympics-calendar//general/NZL//EN
 X-WR-CALNAME:🇳🇿 New Zealand | Paris 2024
 NAME:🇳🇿 New Zealand | Paris 2024
 BEGIN:VEVENT
-UID:20240724T150000Z-football-MENS-GROUP-A-GUI-NZL
+UID:20240724T150000Z-football-A-GUI-NZL
 DTSTAMP:20240724T150000Z
 DTSTART:20240724T150000Z
 DTEND:20240724T164500Z
-DESCRIPTION:Football - Men's Group A
-SUMMARY:⚽ GUI 🇬🇳 - 🇳🇿 NZL
-LOCATION:Nice Stadium
+DESCRIPTION:足球 - 男子A组
+SUMMARY:⚽ 几内亚 🇬🇳 - 🇳🇿 新西兰
+LOCATION:尼斯体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240724T160000Z-rugby-sevens-MENS-POOL-A-NZL-JPN
+UID:20240724T160000Z-rugby-sevens-A-NZL-JPN
 DTSTAMP:20240724T160000Z
 DTSTART:20240724T160000Z
 DTEND:20240724T161600Z
-DESCRIPTION:Rugby Sevens - Men's Pool A
-SUMMARY:🏉 NZL 🇳🇿 - 🇯🇵 JPN
-LOCATION:Stade de France
+DESCRIPTION:七人制橄榄球 - 男子分组循环赛A组
+SUMMARY:🏉 新西兰 🇳🇿 - 🇯🇵 日本
+LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240724T193000Z-rugby-sevens-MENS-POOL-A-NZL-RSA
+UID:20240724T193000Z-rugby-sevens-A-NZL-RSA
 DTSTAMP:20240724T193000Z
 DTSTART:20240724T193000Z
 DTEND:20240724T194600Z
-DESCRIPTION:Rugby Sevens - Men's Pool A
-SUMMARY:🏉 NZL 🇳🇿 - 🇿🇦 RSA
-LOCATION:Stade de France
+DESCRIPTION:七人制橄榄球 - 男子分组循环赛A组
+SUMMARY:🏉 新西兰 🇳🇿 - 🇿🇦 南非
+LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240725T143000Z-rugby-sevens-MENS-POOL-A-NZL-IRL
+UID:20240725T143000Z-rugby-sevens-A-NZL-IRL
 DTSTAMP:20240725T143000Z
 DTSTART:20240725T143000Z
 DTEND:20240725T144600Z
-DESCRIPTION:Rugby Sevens - Men's Pool A
-SUMMARY:🏉 NZL 🇳🇿 - 🇮🇪 IRL
-LOCATION:Stade de France
+DESCRIPTION:七人制橄榄球 - 男子分组循环赛A组
+SUMMARY:🏉 新西兰 🇳🇿 - 🇮🇪 爱尔兰
+LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240725T150000Z-football-WOMENS-GROUP-A-CAN-NZL
+UID:20240725T150000Z-football-A-CAN-NZL
 DTSTAMP:20240725T150000Z
 DTSTART:20240725T150000Z
 DTEND:20240725T164500Z
-DESCRIPTION:Football - Women's Group A
-SUMMARY:⚽ CAN 🇨🇦 - 🇳🇿 NZL
-LOCATION:Geoffroy-Guichard Stadium
+DESCRIPTION:足球 - 女子A组
+SUMMARY:⚽ 加拿大 🇨🇦 - 🇳🇿 新西兰
+LOCATION:热奥弗鲁瓦基查尔体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240725T190000Z-rugby-sevens-MENS-QUARTER-FINAL-NZL-RSA
+UID:20240725T190000Z-rugby-sevens-14-NZL-RSA
 DTSTAMP:20240725T190000Z
 DTSTART:20240725T190000Z
 DTEND:20240725T191600Z
-DESCRIPTION:Rugby Sevens - Men's Quarter-final
-SUMMARY:🏉 NZL 🇳🇿 - 🇿🇦 RSA
-LOCATION:Stade de France
+DESCRIPTION:七人制橄榄球 - 男子1/4决赛
+SUMMARY:🏉 新西兰 🇳🇿 - 🇿🇦 南非
+LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
 UID:20240726T173000Z-opening-ceremony
@@ -67,332 +67,327 @@ SUMMARY:Paris 2024 - Opening ceremony
 Location:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T100000Z-tennis-WOMENS-DOUBLES-FIRST-ROUND-ITA-NZL
+UID:20240727T100000Z-tennis-1-ITA-NZL
 DTSTAMP:20240727T100000Z
 DTSTART:20240727T100000Z
 DTEND:20240727T160000Z
-DESCRIPTION:Tennis - Women's Doubles First Round
+DESCRIPTION:网球 - 女子双打第1轮
 SUMMARY:🎾 ERRANI/PAOLINI 🇮🇹 - 🇳🇿 ROUTLIFFE/SUN
-LOCATION:Roland-Garros Stadium
+LOCATION:罗兰·加洛斯体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T123000Z-cycling-road-WOMENS-INDIVIDUAL-TIME-TRIAL
+UID:20240727T123000Z-cycling-road-
 DTSTAMP:20240727T123000Z
 DTSTART:20240727T123000Z
 DTEND:20240727T135900Z
-DESCRIPTION:Cycling Road - Women's Individual Time Trial\n🇵🇱 Agnieszka
-  SKALNIAK-SOJKA\n🇬🇧 Anna HENDERSON\n🇦🇹 Anna KIESENHOFER\n🇫🇮 Anniina
-  AHTOSALO\n🇩🇪 Antonia NIEDERMAIER\n🇫🇷 Audrey CORDON RAGOT\n🇩🇰
-  Cecilie Uttrup LUDWIG\n🇺🇸 Chloe DYGERT\n🇦🇹 Christina
-  SCHWEINBERGER\n🇳🇱 Demi VOLLERING\n🇷🇼 Diane INGABIRE\n🇨🇭 Elena
-  HARTMANN\n🇮🇹 Elisa LONGO BORGHINI\n🇳🇱 Ellen van DIJK\n🇩🇰 Emma
-  Norsgaard BJERG\n🇸🇮 Eugenia BUJAK\n🇦🇺 Grace BROWN\n🇨🇿 Julia
-  KOPECKY\n🇫🇷 Juliette LABOUS\n🇳🇿 Kim CADZOW\n🇧🇪 Lotte KOPECKY\n🇵🇱
-  Marta LACH\n🇩🇪 Mieke KROEGER\n🇪🇸 Mireia BENITO PELLICER\n🇸🇰 Nora
-  JENCUSOVA\n🇺🇿 Olga ZABELINSKAYA\n🇨🇦 Olivia BARIL\n🇹🇭 Phetdarin
-  SOMRAT\n🇨🇳 TANG Xin\n🇺🇸 Taylor KNIBB\n🇸🇮 Urska PINTAR\n🇦🇫 Yulduz
-  HASHIMI\n🇺🇦 Yuliia BIRIUKOVA
-SUMMARY:🚴 Women's Individual Time Trial
-LOCATION:Pont Alexandre III
+DESCRIPTION:公路自行车 - 女子个人计时赛\n🇵🇱 Agnieszka SKALNIAK-SOJKA\n🇬🇧 Anna
+  HENDERSON\n🇦🇹 Anna KIESENHOFER\n🇫🇮 Anniina AHTOSALO\n🇩🇪 Antonia
+  NIEDERMAIER\n🇫🇷 Audrey CORDON RAGOT\n🇩🇰 Cecilie Uttrup LUDWIG\n🇺🇸
+  Chloe DYGERT\n🇦🇹 Christina SCHWEINBERGER\n🇳🇱 Demi VOLLERING\n🇷🇼
+  Diane INGABIRE\n🇨🇭 Elena HARTMANN\n🇮🇹 Elisa LONGO BORGHINI\n🇳🇱
+  Ellen van DIJK\n🇩🇰 Emma Norsgaard BJERG\n🇸🇮 Eugenia BUJAK\n🇦🇺 Grace
+  BROWN\n🇨🇿 Julia KOPECKY\n🇫🇷 Juliette LABOUS\n🇳🇿 Kim CADZOW\n🇧🇪
+  Lotte KOPECKY\n🇵🇱 Marta LACH\n🇩🇪 Mieke KROEGER\n🇪🇸 Mireia BENITO
+  PELLICER\n🇸🇰 Nora JENCUSOVA\n🇺🇿 Olga ZABELINSKAYA\n🇨🇦 Olivia
+  BARIL\n🇹🇭 Phetdarin SOMRAT\n🇨🇳 TANG Xin\n🇺🇸 Taylor KNIBB\n🇸🇮
+  Urska PINTAR\n🇦🇫 Yulduz HASHIMI\n🇺🇦 Yuliia BIRIUKOVA
+SUMMARY:🚴 女子个人计时赛
+LOCATION:亚历山大三世桥
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T123000Z-rugby-sevens-MENS-PLACING-5-8-NZL-ARG
+UID:20240727T123000Z-rugby-sevens-5-8-NZL-ARG
 DTSTAMP:20240727T123000Z
 DTSTART:20240727T123000Z
 DTEND:20240727T124600Z
-DESCRIPTION:Rugby Sevens - Men's Placing 5-8
-SUMMARY:🏉 NZL 🇳🇿 - 🇦🇷 ARG
-LOCATION:Stade de France
+DESCRIPTION:七人制橄榄球 - 男子5-8名排名赛
+SUMMARY:🏉 新西兰 🇳🇿 - 🇦🇷 阿根廷
+LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T140000Z-canoe-slalom-WOMENS-KAYAK-SINGLE-HEATS-1ST-RUN
+UID:20240727T140000Z-canoe-slalom-1
 DTSTAMP:20240727T140000Z
 DTSTART:20240727T140000Z
 DTEND:20240727T145200Z
-DESCRIPTION:Canoe Slalom - Women's Kayak Single Heats 1st Run\n🇨🇭 Alena
-  MARX\n🇧🇷 Ana SATILA\n🇨🇿 Antonie GALUSKOVA\n🇹🇼 CHANG Chu-Han\n🇫🇷
-  Camille PRIGENT\n🇩🇿 Carole Diana BOUZIDI\n🇦🇹 Corinna KUHNLE\n🇸🇰
-  Eliska MINTALOVA\n🇸🇮 Eva TERCELJ\n🇺🇸 Evy LEIBFARTH\n🇦🇺 Jessica
-  FOX\n🇬🇧 Kimberley WOODS\n🇵🇱 Klaudia ZWOLINSKA\n🇨🇳 LI Shiting\n🇨🇦
-  Lois BETTERIDGE\n🇳🇿 Luuka JONES\n🇮🇪 Madison CORCORAN\n🇪🇸 Maialen
-  CHOURRAUT\n🇳🇱 Martina WEGMAN\n🇦🇩 Monica DORIA VILARRUBLA\n🇩🇪
-  Ricarda FUNK\n🇲🇽 Sofia REINOSO\n🇮🇹 Stefanie HORN\n🇺🇦 Viktoriia
-  US\n🇯🇵 YAZAWA Aki
-SUMMARY:🛶 Women's Kayak Single Heats 1st Run
-LOCATION:Nautical St - White water
+DESCRIPTION:皮划艇激流回旋 - 女子单人皮艇预赛第1轮\n🇨🇭 Alena MARX\n🇧🇷 Ana SATILA\n🇨🇿
+  Antonie GALUSKOVA\n🇹🇼 CHANG Chu-Han\n🇫🇷 Camille PRIGENT\n🇩🇿 Carole
+  Diana BOUZIDI\n🇦🇹 Corinna KUHNLE\n🇸🇰 Eliska MINTALOVA\n🇸🇮 Eva
+  TERCELJ\n🇺🇸 Evy LEIBFARTH\n🇦🇺 Jessica FOX\n🇬🇧 Kimberley WOODS\n🇵🇱
+  Klaudia ZWOLINSKA\n🇨🇳 LI Shiting\n🇨🇦 Lois BETTERIDGE\n🇳🇿 Luuka
+  JONES\n🇮🇪 Madison CORCORAN\n🇪🇸 Maialen CHOURRAUT\n🇳🇱 Martina
+  WEGMAN\n🇦🇩 Monica DORIA VILARRUBLA\n🇩🇪 Ricarda FUNK\n🇲🇽 Sofia
+  REINOSO\n🇮🇹 Stefanie HORN\n🇺🇦 Viktoriia US\n🇯🇵 YAZAWA Aki
+SUMMARY:🛶 女子单人皮艇预赛第1轮
+LOCATION:马恩河畔韦尔水上体育场 - 激流回旋
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T143200Z-cycling-road-MENS-INDIVIDUAL-TIME-TRIAL
+UID:20240727T143200Z-cycling-road-
 DTSTAMP:20240727T143200Z
 DTSTART:20240727T143200Z
 DTEND:20240727T155700Z
-DESCRIPTION:Cycling Road - Men's Individual Time Trial\n🇲🇦 Achraf ED
-  DOGHMY\n🇮🇹 Alberto BETTIOL\n🏳️ Amir ANSARI\n🇭🇺 Attila VALTER\n🇪🇷
-  Biniam GIRMAY\n🇺🇸 Brandon McNULTY\n🇳🇱 Daan HOOLE\n🇨🇦 Derek
-  GEE\n🇦🇹 Felix GROSSSCHARTNER\n🇮🇹 Filippo GANNA\n🇲🇳 Jambaljamts
-  SAINBAYAR\n🇸🇮 Jan TRATNIK\n🇬🇧 Josh TARLING\n🇫🇷 Kevin
-  VAUQUELIN\n🇳🇿 Laurence PITHIE\n🇦🇺 Lucas PLAPP\n🇺🇸 Magnus
-  SHEFFIELD\n🇨🇿 Mathias VACEK\n🇩🇰 Mattias SKJELMOSE\n🇩🇪 Maximilian
-  SCHACHMANN\n🇵🇱 Michal KWIATKOWSKI\n🇩🇰 Mikkel Norsgaard BJERG\n🇵🇹
-  Nelson OLIVEIRA\n🇪🇸 Oier LAZKANO LOPEZ\n🇧🇪 Remco EVENEPOEL\n🇵🇹 Rui
-  COSTA\n🇮🇪 Ryan MULLEN\n🇳🇴 Soeren WAERENSKJOLD\n🇨🇭 Stefan
-  BISSEGGER\n🇨🇭 Stefan KUENG\n🇳🇴 Tobias FOSS\n🇧🇪 Wout van AERT\n🇰🇿
-  Yevgeniy FEDOROV
-SUMMARY:🚴 Men's Individual Time Trial
-LOCATION:Pont Alexandre III
+DESCRIPTION:公路自行车 - 男子个人计时赛\n🇲🇦 Achraf ED DOGHMY\n🇮🇹 Alberto
+  BETTIOL\n🏳️ Amir ANSARI\n🇭🇺 Attila VALTER\n🇪🇷 Biniam GIRMAY\n🇺🇸
+  Brandon McNULTY\n🇳🇱 Daan HOOLE\n🇨🇦 Derek GEE\n🇦🇹 Felix
+  GROSSSCHARTNER\n🇮🇹 Filippo GANNA\n🇲🇳 Jambaljamts SAINBAYAR\n🇸🇮 Jan
+  TRATNIK\n🇬🇧 Josh TARLING\n🇫🇷 Kevin VAUQUELIN\n🇳🇿 Laurence
+  PITHIE\n🇦🇺 Lucas PLAPP\n🇺🇸 Magnus SHEFFIELD\n🇨🇿 Mathias VACEK\n🇩🇰
+  Mattias SKJELMOSE\n🇩🇪 Maximilian SCHACHMANN\n🇵🇱 Michal
+  KWIATKOWSKI\n🇩🇰 Mikkel Norsgaard BJERG\n🇵🇹 Nelson OLIVEIRA\n🇪🇸 Oier
+  LAZKANO LOPEZ\n🇧🇪 Remco EVENEPOEL\n🇵🇹 Rui COSTA\n🇮🇪 Ryan
+  MULLEN\n🇳🇴 Soeren WAERENSKJOLD\n🇨🇭 Stefan BISSEGGER\n🇨🇭 Stefan
+  KUENG\n🇳🇴 Tobias FOSS\n🇧🇪 Wout van AERT\n🇰🇿 Yevgeniy FEDOROV
+SUMMARY:🚴 男子个人计时赛
+LOCATION:亚历山大三世桥
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T153000Z-hockey-MENS-POOL-B-IND-NZL
+UID:20240727T153000Z-hockey-B-IND-NZL
 DTSTAMP:20240727T153000Z
 DTSTART:20240727T153000Z
 DTEND:20240727T170000Z
-DESCRIPTION:Hockey - Men's Pool B
-SUMMARY:🏑 IND 🇮🇳 - 🇳🇿 NZL
-LOCATION:Yves-du-Manoir Stadium
+DESCRIPTION:曲棍球 - 男子分组循环赛B组
+SUMMARY:🏑 印度 🇮🇳 - 🇳🇿 新西兰
+LOCATION:伊芙庄园体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T161000Z-canoe-slalom-WOMENS-KAYAK-SINGLE-HEATS-2ND-RUN
+UID:20240727T161000Z-canoe-slalom-2
 DTSTAMP:20240727T161000Z
 DTSTART:20240727T161000Z
 DTEND:20240727T170200Z
-DESCRIPTION:Canoe Slalom - Women's Kayak Single Heats 2nd Run\n🇨🇭 Alena
-  MARX\n🇧🇷 Ana SATILA\n🇨🇿 Antonie GALUSKOVA\n🇹🇼 CHANG Chu-Han\n🇫🇷
-  Camille PRIGENT\n🇩🇿 Carole Diana BOUZIDI\n🇦🇹 Corinna KUHNLE\n🇸🇰
-  Eliska MINTALOVA\n🇸🇮 Eva TERCELJ\n🇺🇸 Evy LEIBFARTH\n🇦🇺 Jessica
-  FOX\n🇬🇧 Kimberley WOODS\n🇵🇱 Klaudia ZWOLINSKA\n🇨🇳 LI Shiting\n🇨🇦
-  Lois BETTERIDGE\n🇳🇿 Luuka JONES\n🇮🇪 Madison CORCORAN\n🇪🇸 Maialen
-  CHOURRAUT\n🇳🇱 Martina WEGMAN\n🇦🇩 Monica DORIA VILARRUBLA\n🇩🇪
-  Ricarda FUNK\n🇲🇽 Sofia REINOSO\n🇮🇹 Stefanie HORN\n🇺🇦 Viktoriia
-  US\n🇯🇵 YAZAWA Aki
-SUMMARY:🛶 Women's Kayak Single Heats 2nd Run
-LOCATION:Nautical St - White water
+DESCRIPTION:皮划艇激流回旋 - 女子单人皮艇预赛第2轮\n🇨🇭 Alena MARX\n🇧🇷 Ana SATILA\n🇨🇿
+  Antonie GALUSKOVA\n🇹🇼 CHANG Chu-Han\n🇫🇷 Camille PRIGENT\n🇩🇿 Carole
+  Diana BOUZIDI\n🇦🇹 Corinna KUHNLE\n🇸🇰 Eliska MINTALOVA\n🇸🇮 Eva
+  TERCELJ\n🇺🇸 Evy LEIBFARTH\n🇦🇺 Jessica FOX\n🇬🇧 Kimberley WOODS\n🇵🇱
+  Klaudia ZWOLINSKA\n🇨🇳 LI Shiting\n🇨🇦 Lois BETTERIDGE\n🇳🇿 Luuka
+  JONES\n🇮🇪 Madison CORCORAN\n🇪🇸 Maialen CHOURRAUT\n🇳🇱 Martina
+  WEGMAN\n🇦🇩 Monica DORIA VILARRUBLA\n🇩🇪 Ricarda FUNK\n🇲🇽 Sofia
+  REINOSO\n🇮🇹 Stefanie HORN\n🇺🇦 Viktoriia US\n🇯🇵 YAZAWA Aki
+SUMMARY:🛶 女子单人皮艇预赛第2轮
+LOCATION:马恩河畔韦尔水上体育场 - 激流回旋
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T170000Z-football-MENS-GROUP-A-NZL-USA
+UID:20240727T170000Z-football-A-NZL-USA
 DTSTAMP:20240727T170000Z
 DTSTART:20240727T170000Z
 DTEND:20240727T190000Z
-DESCRIPTION:Football - Men's Group A
-SUMMARY:⚽ NZL 🇳🇿 - 🇺🇸 USA
-LOCATION:Marseille Stadium
+DESCRIPTION:足球 - 男子A组
+SUMMARY:⚽ 新西兰 🇳🇿 - 🇺🇸 美国
+LOCATION:马赛体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T150000Z-football-WOMENS-GROUP-A-NZL-COL
+UID:20240728T150000Z-football-A-NZL-COL
 DTSTAMP:20240728T150000Z
 DTSTART:20240728T150000Z
 DTEND:20240728T170000Z
-DESCRIPTION:Football - Women's Group A
-SUMMARY:⚽ NZL 🇳🇿 - 🇨🇴 COL
-LOCATION:Lyon Stadium
+DESCRIPTION:足球 - 女子A组
+SUMMARY:⚽ 新西兰 🇳🇿 - 🇨🇴 哥伦比亚
+LOCATION:里昂体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T153000Z-hockey-MENS-POOL-B-BEL-NZL
+UID:20240728T153000Z-hockey-B-BEL-NZL
 DTSTAMP:20240728T153000Z
 DTSTART:20240728T153000Z
 DTEND:20240728T170000Z
-DESCRIPTION:Hockey - Men's Pool B
-SUMMARY:🏑 BEL 🇧🇪 - 🇳🇿 NZL
-LOCATION:Yves-du-Manoir Stadium
+DESCRIPTION:曲棍球 - 男子分组循环赛B组
+SUMMARY:🏑 比利时 🇧🇪 - 🇳🇿 新西兰
+LOCATION:伊芙庄园体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T160000Z-rugby-sevens-WOMENS-POOL-A-NZL-CHN
+UID:20240728T160000Z-rugby-sevens-A-NZL-CHN
 DTSTAMP:20240728T160000Z
 DTSTART:20240728T160000Z
 DTEND:20240728T161600Z
-DESCRIPTION:Rugby Sevens - Women's Pool A
-SUMMARY:🏉 NZL 🇳🇿 - 🇨🇳 CHN
-LOCATION:Stade de France
+DESCRIPTION:七人制橄榄球 - 女子分组循环赛A组
+SUMMARY:🏉 新西兰 🇳🇿 - 🇨🇳 中国
+LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T193000Z-rugby-sevens-WOMENS-POOL-A-NZL-CAN
+UID:20240728T193000Z-rugby-sevens-A-NZL-CAN
 DTSTAMP:20240728T193000Z
 DTSTART:20240728T193000Z
 DTEND:20240728T194600Z
-DESCRIPTION:Rugby Sevens - Women's Pool A
-SUMMARY:🏉 NZL 🇳🇿 - 🇨🇦 CAN
-LOCATION:Stade de France
+DESCRIPTION:七人制橄榄球 - 女子分组循环赛A组
+SUMMARY:🏉 新西兰 🇳🇿 - 🇨🇦 加拿大
+LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T070000Z-shooting-TRAP-MENS-QUALIFICATION-DAY-1
+UID:20240729T070000Z-shooting--1
 DTSTAMP:20240729T070000Z
 DTSTART:20240729T070000Z
 DTEND:20240729T120000Z
-DESCRIPTION:Shooting - Trap Men's Qualification - Day 1\n🇪🇸 Alberto
-  FERNANDEZ\n🇪🇸 Andres GARCIA\n🇺🇸 Derrick Scott MEIN\n🇲🇦 Driss
-  HAFFARI\n🇩🇴 Eduardo Jose LORENZO\n🇲🇹 Gianluca CHETCUTI\n🇭🇷 Giovanni
-  CERNOGORAZ\n🇮🇹 Giovanni PELLIELO\n🇦🇺 James WILLETT\n🇬🇹 Jean Pierre
-  BROL CARDENAS\n🇨🇿 Jiri LIPTAK\n🇰🇼 Khaled ALMUDHAF\n🇻🇪 Leonel
-  MARTINEZ\n🇸🇰 Marian KOVACOCY\n🇬🇧 Matthew John COWARD-HOLLEY\n🇮🇹
-  Mauro de FILIPPIS\n🇦🇺 Mitchell ILES\n🇮🇷 Mohammad BEYRANVAND\n🇬🇧
-  Nathan HALES\n🇹🇷 Oguzhan TUZUN\n🇳🇿 Owen ROBINSON\n🇮🇳 Prithviraj
-  TONDAIMAN\n🇨🇳 QI Ying\n🇸🇪 Rickard LEVIN-ANDERSSON\n🇶🇦 Saeed
-  ABUSHARIB\n🇴🇲 Said AL KHATRI\n🇫🇷 Sebastien GUERRERO\n🇺🇸 William
-  HINTON\n🇹🇼 YANG Kun-Pi\n🇨🇳 YU Haicheng
-SUMMARY:🔫 Trap Men's Qualification - Day 1
-LOCATION:Chateauroux Shooting Ctr
+DESCRIPTION:射击 - 男子多向飞碟资格赛 - 第1天\n🇪🇸 Alberto FERNANDEZ\n🇪🇸 Andres
+  GARCIA\n🇺🇸 Derrick Scott MEIN\n🇲🇦 Driss HAFFARI\n🇩🇴 Eduardo Jose
+  LORENZO\n🇲🇹 Gianluca CHETCUTI\n🇭🇷 Giovanni CERNOGORAZ\n🇮🇹 Giovanni
+  PELLIELO\n🇦🇺 James WILLETT\n🇬🇹 Jean Pierre BROL CARDENAS\n🇨🇿 Jiri
+  LIPTAK\n🇰🇼 Khaled ALMUDHAF\n🇻🇪 Leonel MARTINEZ\n🇸🇰 Marian
+  KOVACOCY\n🇬🇧 Matthew John COWARD-HOLLEY\n🇮🇹 Mauro de FILIPPIS\n🇦🇺
+  Mitchell ILES\n🇮🇷 Mohammad BEYRANVAND\n🇬🇧 Nathan HALES\n🇹🇷 Oguzhan
+  TUZUN\n🇳🇿 Owen ROBINSON\n🇮🇳 Prithviraj TONDAIMAN\n🇨🇳 QI Ying\n🇸🇪
+  Rickard LEVIN-ANDERSSON\n🇶🇦 Saeed ABUSHARIB\n🇴🇲 Said AL KHATRI\n🇫🇷
+  Sebastien GUERRERO\n🇺🇸 William HINTON\n🇹🇼 YANG Kun-Pi\n🇨🇳 YU
+  Haicheng
+SUMMARY:🔫 男子多向飞碟资格赛 - 第1天
+LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T143000Z-rugby-sevens-WOMENS-POOL-A-NZL-FIJ
+UID:20240729T143000Z-rugby-sevens-A-NZL-FIJ
 DTSTAMP:20240729T143000Z
 DTSTART:20240729T143000Z
 DTEND:20240729T144600Z
-DESCRIPTION:Rugby Sevens - Women's Pool A
-SUMMARY:🏉 NZL 🇳🇿 - 🇫🇯 FIJ
-LOCATION:Stade de France
+DESCRIPTION:七人制橄榄球 - 女子分组循环赛A组
+SUMMARY:🏉 新西兰 🇳🇿 - 🇫🇯 斐济
+LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T140000Z-canoe-slalom-MENS-KAYAK-SINGLE-HEATS-1ST-RUN
+UID:20240730T140000Z-canoe-slalom-1
 DTSTAMP:20240730T140000Z
 DTSTART:20240730T140000Z
 DTEND:20240730T150000Z
-DESCRIPTION:Canoe Slalom - Men's Kayak Single Heats 1st Run\n🇨🇦 Alex
-  BALDONI\n🇰🇲 Andy BARAT\n🇦🇹 Felix OSCHMAUTZ\n🇳🇿 Finn BUTCHER\n🇮🇹
-  Giovanni de GENNARO\n🇸🇪 Isak OHRSTROM\n🇸🇰 Jakub GRIGAR\n🇨🇿 Jiri
-  PRSKAVEC\n🇬🇧 Joseph CLARKE\n🇨🇭 Martin DOUGOUD\n🇵🇱 Mateusz
-  POLACZYK\n🇲🇦 Mathis SOUDI\n🇩🇪 Noah HEGGE\n🇮🇪 Noel HENDRICK\n🇪🇸
-  Pau ECHANIZ\n🇧🇷 Pedro GONCALVES\n🇸🇮 Peter KAUZER\n🇨🇳 QUAN Xin\n🇹🇳
-  Salim JEMAI\n🇯🇵 TANAKA Yuuki\n🇦🇺 Timothy ANDERSON\n🇫🇷 Titouan
-  CASTRYCK\n🇹🇼 WU Shao-Hsuan\n🇸🇳 Yves BOURHIS
-SUMMARY:🛶 Men's Kayak Single Heats 1st Run
-LOCATION:Nautical St - White water
+DESCRIPTION:皮划艇激流回旋 - 男子单人皮艇预赛第1轮\n🇨🇦 Alex BALDONI\n🇰🇲 Andy BARAT\n🇦🇹
+  Felix OSCHMAUTZ\n🇳🇿 Finn BUTCHER\n🇮🇹 Giovanni de GENNARO\n🇸🇪 Isak
+  OHRSTROM\n🇸🇰 Jakub GRIGAR\n🇨🇿 Jiri PRSKAVEC\n🇬🇧 Joseph CLARKE\n🇨🇭
+  Martin DOUGOUD\n🇵🇱 Mateusz POLACZYK\n🇲🇦 Mathis SOUDI\n🇩🇪 Noah
+  HEGGE\n🇮🇪 Noel HENDRICK\n🇪🇸 Pau ECHANIZ\n🇧🇷 Pedro GONCALVES\n🇸🇮
+  Peter KAUZER\n🇨🇳 QUAN Xin\n🇹🇳 Salim JEMAI\n🇯🇵 TANAKA Yuuki\n🇦🇺
+  Timothy ANDERSON\n🇫🇷 Titouan CASTRYCK\n🇹🇼 WU Shao-Hsuan\n🇸🇳 Yves
+  BOURHIS
+SUMMARY:🛶 男子单人皮艇预赛第1轮
+LOCATION:马恩河畔韦尔水上体育场 - 激流回旋
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T150000Z-hockey-MENS-POOL-B-ARG-NZL
+UID:20240730T150000Z-hockey-B-ARG-NZL
 DTSTAMP:20240730T150000Z
 DTSTART:20240730T150000Z
 DTEND:20240730T163000Z
-DESCRIPTION:Hockey - Men's Pool B
-SUMMARY:🏑 ARG 🇦🇷 - 🇳🇿 NZL
-LOCATION:Yves-du-Manoir Stadium
+DESCRIPTION:曲棍球 - 男子分组循环赛B组
+SUMMARY:🏑 阿根廷 🇦🇷 - 🇳🇿 新西兰
+LOCATION:伊芙庄园体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T161000Z-canoe-slalom-MENS-KAYAK-SINGLE-HEATS-2ND-RUN
+UID:20240730T161000Z-canoe-slalom-2
 DTSTAMP:20240730T161000Z
 DTSTART:20240730T161000Z
 DTEND:20240730T171000Z
-DESCRIPTION:Canoe Slalom - Men's Kayak Single Heats 2nd Run\n🇨🇦 Alex
-  BALDONI\n🇰🇲 Andy BARAT\n🇦🇹 Felix OSCHMAUTZ\n🇳🇿 Finn BUTCHER\n🇮🇹
-  Giovanni de GENNARO\n🇸🇪 Isak OHRSTROM\n🇸🇰 Jakub GRIGAR\n🇨🇿 Jiri
-  PRSKAVEC\n🇬🇧 Joseph CLARKE\n🇨🇭 Martin DOUGOUD\n🇵🇱 Mateusz
-  POLACZYK\n🇲🇦 Mathis SOUDI\n🇩🇪 Noah HEGGE\n🇮🇪 Noel HENDRICK\n🇪🇸
-  Pau ECHANIZ\n🇧🇷 Pedro GONCALVES\n🇸🇮 Peter KAUZER\n🇨🇳 QUAN Xin\n🇹🇳
-  Salim JEMAI\n🇯🇵 TANAKA Yuuki\n🇦🇺 Timothy ANDERSON\n🇫🇷 Titouan
-  CASTRYCK\n🇹🇼 WU Shao-Hsuan\n🇸🇳 Yves BOURHIS
-SUMMARY:🛶 Men's Kayak Single Heats 2nd Run
-LOCATION:Nautical St - White water
+DESCRIPTION:皮划艇激流回旋 - 男子单人皮艇预赛第2轮\n🇨🇦 Alex BALDONI\n🇰🇲 Andy BARAT\n🇦🇹
+  Felix OSCHMAUTZ\n🇳🇿 Finn BUTCHER\n🇮🇹 Giovanni de GENNARO\n🇸🇪 Isak
+  OHRSTROM\n🇸🇰 Jakub GRIGAR\n🇨🇿 Jiri PRSKAVEC\n🇬🇧 Joseph CLARKE\n🇨🇭
+  Martin DOUGOUD\n🇵🇱 Mateusz POLACZYK\n🇲🇦 Mathis SOUDI\n🇩🇪 Noah
+  HEGGE\n🇮🇪 Noel HENDRICK\n🇪🇸 Pau ECHANIZ\n🇧🇷 Pedro GONCALVES\n🇸🇮
+  Peter KAUZER\n🇨🇳 QUAN Xin\n🇹🇳 Salim JEMAI\n🇯🇵 TANAKA Yuuki\n🇦🇺
+  Timothy ANDERSON\n🇫🇷 Titouan CASTRYCK\n🇹🇼 WU Shao-Hsuan\n🇸🇳 Yves
+  BOURHIS
+SUMMARY:🛶 男子单人皮艇预赛第2轮
+LOCATION:马恩河畔韦尔水上体育场 - 激流回旋
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T170000Z-football-MENS-GROUP-A-NZL-FRA
+UID:20240730T170000Z-football-A-NZL-FRA
 DTSTAMP:20240730T170000Z
 DTSTART:20240730T170000Z
 DTEND:20240730T190000Z
-DESCRIPTION:Football - Men's Group A
-SUMMARY:⚽ NZL 🇳🇿 - 🇫🇷 FRA
-LOCATION:Marseille Stadium
+DESCRIPTION:足球 - 男子A组
+SUMMARY:⚽ 新西兰 🇳🇿 - 🇫🇷 法国
+LOCATION:马赛体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T190000Z-football-WOMENS-GROUP-A-NZL-FRA
+UID:20240731T190000Z-football-A-NZL-FRA
 DTSTAMP:20240731T190000Z
 DTSTART:20240731T190000Z
 DTEND:20240731T210000Z
-DESCRIPTION:Football - Women's Group A
-SUMMARY:⚽ NZL 🇳🇿 - 🇫🇷 FRA
-LOCATION:Lyon Stadium
+DESCRIPTION:足球 - 女子A组
+SUMMARY:⚽ 新西兰 🇳🇿 - 🇫🇷 法国
+LOCATION:里昂体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T081800Z-judo-WOMEN-78-KG-ELIMINATION-ROUND-OF-32-GUI-NZL
+UID:20240801T081800Z-judo-7832-GUI-NZL
 DTSTAMP:20240801T081800Z
 DTSTART:20240801T081800Z
 DTEND:20240801T082400Z
-DESCRIPTION:Judo - Women -78 kg Elimination Round of 32
+DESCRIPTION:柔道 - 女子78公斤级32强淘汰赛
 SUMMARY:🥋 Marie BRANSER 🇬🇳 - 🇳🇿 Moira de VILLIERS
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T083000Z-hockey-MENS-POOL-B-NZL-AUS
+UID:20240801T083000Z-hockey-B-NZL-AUS
 DTSTAMP:20240801T083000Z
 DTSTART:20240801T083000Z
 DTEND:20240801T100000Z
-DESCRIPTION:Hockey - Men's Pool B
-SUMMARY:🏑 NZL 🇳🇿 - 🇦🇺 AUS
-LOCATION:Yves-du-Manoir Stadium
+DESCRIPTION:曲棍球 - 男子分组循环赛B组
+SUMMARY:🏑 新西兰 🇳🇿 - 🇦🇺 澳大利亚
+LOCATION:伊芙庄园体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T081200Z-judo-WOMEN-78-KG-ELIMINATION-ROUND-OF-32-NZL-BIH
+UID:20240802T081200Z-judo-7832-NZL-BIH
 DTSTAMP:20240802T081200Z
 DTSTART:20240802T081200Z
 DTEND:20240802T081800Z
-DESCRIPTION:Judo - Women +78 kg Elimination Round of 32
+DESCRIPTION:柔道 - 女子78公斤以上级32强淘汰赛
 SUMMARY:🥋 Sydnee ANDREWS 🇳🇿 - 🇧🇦 Larisa CERIC
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T133000Z-canoe-slalom-MENS-KAYAK-CROSS-TIME-TRIAL
+UID:20240802T133000Z-canoe-slalom-
 DTSTAMP:20240802T133000Z
 DTSTART:20240802T133000Z
 DTEND:20240802T142700Z
-DESCRIPTION:Canoe Slalom - Men's Kayak Cross Time Trial\n🇬🇧 Adam
-  BURGESS\n🇨🇦 Alex BALDONI\n🏳️ Amir REZANEJAD\n🇰🇲 Andy BARAT\n🇸🇮
-  Benjamin SAVSEK\n🇫🇷 Boris NEVEU\n🇺🇸 Casey EICHFELD\n🇦🇹 Felix
-  OSCHMAUTZ\n🇳🇿 Finn BUTCHER\n🇮🇹 Giovanni de GENNARO\n🇵🇱 Grzegorz
-  HEDWIG\n🇸🇪 Isak OHRSTROM\n🇸🇰 Jakub GRIGAR\n🇨🇿 Jiri PRSKAVEC\n🇳🇱
-  Joris OTTEN\n🇬🇧 Joseph CLARKE\n🇮🇪 Liam JEGOU\n🇨🇿 Lukas ROHAN\n🇪🇸
-  Manuel OCHOA\n🇨🇭 Martin DOUGOUD\n🇸🇰 Matej BENUS\n🇵🇱 Mateusz
-  POLACZYK\n🇲🇦 Mathis SOUDI\n🇭🇷 Matija MARINIC\n🇪🇸 Miquel TRAVE\n🇩🇪
-  Noah HEGGE\n🇮🇪 Noel HENDRICK\n🇧🇷 Pedro GONCALVES\n🇸🇮 Peter
-  KAUZER\n🇨🇳 QUAN Xin\n🇹🇳 Salim JEMAI\n🇩🇪 Stefan HENGST\n🇯🇵 TANAKA
-  Yuuki\n🇦🇺 Timothy ANDERSON\n🇫🇷 Titouan CASTRYCK\n🇦🇺 Tristan
-  CARTER\n🇹🇼 WU Shao-Hsuan\n🇸🇳 Yves BOURHIS
-SUMMARY:🛶 Men's Kayak Cross Time Trial
-LOCATION:Nautical St - White water
+DESCRIPTION:皮划艇激流回旋 - 男子极限皮艇计时赛\n🇬🇧 Adam BURGESS\n🇨🇦 Alex BALDONI\n🏳️
+  Amir REZANEJAD\n🇰🇲 Andy BARAT\n🇸🇮 Benjamin SAVSEK\n🇫🇷 Boris
+  NEVEU\n🇺🇸 Casey EICHFELD\n🇦🇹 Felix OSCHMAUTZ\n🇳🇿 Finn BUTCHER\n🇮🇹
+  Giovanni de GENNARO\n🇵🇱 Grzegorz HEDWIG\n🇸🇪 Isak OHRSTROM\n🇸🇰 Jakub
+  GRIGAR\n🇨🇿 Jiri PRSKAVEC\n🇳🇱 Joris OTTEN\n🇬🇧 Joseph CLARKE\n🇮🇪
+  Liam JEGOU\n🇨🇿 Lukas ROHAN\n🇪🇸 Manuel OCHOA\n🇨🇭 Martin
+  DOUGOUD\n🇸🇰 Matej BENUS\n🇵🇱 Mateusz POLACZYK\n🇲🇦 Mathis SOUDI\n🇭🇷
+  Matija MARINIC\n🇪🇸 Miquel TRAVE\n🇩🇪 Noah HEGGE\n🇮🇪 Noel
+  HENDRICK\n🇧🇷 Pedro GONCALVES\n🇸🇮 Peter KAUZER\n🇨🇳 QUAN Xin\n🇹🇳
+  Salim JEMAI\n🇩🇪 Stefan HENGST\n🇯🇵 TANAKA Yuuki\n🇦🇺 Timothy
+  ANDERSON\n🇫🇷 Titouan CASTRYCK\n🇦🇺 Tristan CARTER\n🇹🇼 WU
+  Shao-Hsuan\n🇸🇳 Yves BOURHIS
+SUMMARY:🛶 男子极限皮艇计时赛
+LOCATION:马恩河畔韦尔水上体育场 - 激流回旋
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T144000Z-canoe-slalom-WOMENS-KAYAK-CROSS-TIME-TRIAL
+UID:20240802T144000Z-canoe-slalom-
 DTSTAMP:20240802T144000Z
 DTSTART:20240802T144000Z
 DTEND:20240802T153700Z
-DESCRIPTION:Canoe Slalom - Women's Kayak Cross Time Trial\n🇨🇭 Alena
-  MARX\n🇧🇷 Ana SATILA\n🇫🇷 Angele HUG\n🇨🇿 Antonie GALUSKOVA\n🇹🇼
-  CHANG Chu-Han\n🇫🇷 Camille PRIGENT\n🇩🇿 Carole Diana BOUZIDI\n🇦🇹
-  Corinna KUHNLE\n🇩🇪 Elena LILIK\n🇸🇰 Eliska MINTALOVA\n🇸🇮 Eva Alina
-  HOCEVAR\n🇸🇮 Eva TERCELJ\n🇺🇸 Evy LEIBFARTH\n🇦🇺 Jessica FOX\n🇬🇧
-  Kimberley WOODS\n🇵🇱 Klaudia ZWOLINSKA\n🇨🇳 LI Shiting\n🇳🇱 Lena
-  TEUNISSEN\n🇨🇦 Lois BETTERIDGE\n🇳🇿 Luuka JONES\n🇮🇪 Madison
-  CORCORAN\n🇪🇸 Maialen CHOURRAUT\n🇬🇧 Mallory FRANKLIN\n🇮🇹 Marta
-  BERTONCELLI\n🇳🇱 Martina WEGMAN\n🇪🇸 Miren LAZKANO\n🇦🇩 Monica DORIA
-  VILARRUBLA\n🇦🇺 Noemie FOX\n🇯🇵 OKAZAKI Haruka\n🇩🇪 Ricarda FUNK\n🇲🇽
-  Sofia REINOSO\n🇮🇹 Stefanie HORN\n🇨🇿 Tereza FISEROVA\n🇦🇹 Viktoria
-  WOLFFHARDT\n🇺🇦 Viktoriia US\n🇯🇵 YAZAWA Aki\n🇸🇰 Zuzana PANKOVA
-SUMMARY:🛶 Women's Kayak Cross Time Trial
-LOCATION:Nautical St - White water
+DESCRIPTION:皮划艇激流回旋 - 女子极限皮艇计时赛\n🇨🇭 Alena MARX\n🇧🇷 Ana SATILA\n🇫🇷
+  Angele HUG\n🇨🇿 Antonie GALUSKOVA\n🇹🇼 CHANG Chu-Han\n🇫🇷 Camille
+  PRIGENT\n🇩🇿 Carole Diana BOUZIDI\n🇦🇹 Corinna KUHNLE\n🇩🇪 Elena
+  LILIK\n🇸🇰 Eliska MINTALOVA\n🇸🇮 Eva Alina HOCEVAR\n🇸🇮 Eva
+  TERCELJ\n🇺🇸 Evy LEIBFARTH\n🇦🇺 Jessica FOX\n🇬🇧 Kimberley WOODS\n🇵🇱
+  Klaudia ZWOLINSKA\n🇨🇳 LI Shiting\n🇳🇱 Lena TEUNISSEN\n🇨🇦 Lois
+  BETTERIDGE\n🇳🇿 Luuka JONES\n🇮🇪 Madison CORCORAN\n🇪🇸 Maialen
+  CHOURRAUT\n🇬🇧 Mallory FRANKLIN\n🇮🇹 Marta BERTONCELLI\n🇳🇱 Martina
+  WEGMAN\n🇪🇸 Miren LAZKANO\n🇦🇩 Monica DORIA VILARRUBLA\n🇦🇺 Noemie
+  FOX\n🇯🇵 OKAZAKI Haruka\n🇩🇪 Ricarda FUNK\n🇲🇽 Sofia REINOSO\n🇮🇹
+  Stefanie HORN\n🇨🇿 Tereza FISEROVA\n🇦🇹 Viktoria WOLFFHARDT\n🇺🇦
+  Viktoriia US\n🇯🇵 YAZAWA Aki\n🇸🇰 Zuzana PANKOVA
+SUMMARY:🛶 女子极限皮艇计时赛
+LOCATION:马恩河畔韦尔水上体育场 - 激流回旋
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T150000Z-hockey-MENS-POOL-B-NZL-IRL
+UID:20240802T150000Z-hockey-B-NZL-IRL
 DTSTAMP:20240802T150000Z
 DTSTART:20240802T150000Z
 DTEND:20240802T163000Z
-DESCRIPTION:Hockey - Men's Pool B
-SUMMARY:🏑 NZL 🇳🇿 - 🇮🇪 IRL
-LOCATION:Yves-du-Manoir Stadium
+DESCRIPTION:曲棍球 - 男子分组循环赛B组
+SUMMARY:🏑 新西兰 🇳🇿 - 🇮🇪 爱尔兰
+LOCATION:伊芙庄园体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T070000Z-shooting-SKEET-WOMENS-QUALIFICATION-DAY-1
+UID:20240803T070000Z-shooting--1
 DTSTAMP:20240803T070000Z
 DTSTART:20240803T070000Z
 DTEND:20240803T123000Z
-DESCRIPTION:Shooting - Skeet Women's Qualification - Day 1\n🇦🇺 Aislin
-  JONES\n🇬🇧 Amber Jo RUTTER\n🇪🇬 Amira ABOUSHOKKA\n🇰🇿 Assem
-  ORYNBAY\n🇺🇸 Austen Jewell SMITH\n🇨🇿 Barbora SUMOVA\n🇳🇿 Chloe
-  TIPPLE\n🇺🇸 Dania Jo VIZZI\n🇵🇪 Daniella BORDA OLAECHEA\n🇸🇰 Danka
-  BARTEKOVA\n🇮🇹 Diana BACOSI\n🇬🇷 Emmanouela KATZOURAKI\n🇨🇱 Francisca
-  CROVETTO CHADID\n🇲🇽 Gabriela RODRIGUEZ\n🇧🇷 Georgia FURQUIM
-  BASTOS\n🇺🇦 Iryna MALOVICHKO\n🇰🇷 JANG Kookhee\n🇨🇳 JIANG Yiting\n🇨🇾
-  Konstantia NIKOLAOU\n🇫🇷 Lucie ANASTASSIOU\n🇮🇳 Maheshwari
-  CHAUHAN\n🇮🇹 Martina BARTOLOMEI\n🇩🇪 Nadine MESSERSCHMIDT\n🇩🇪 Nele
-  WISSMER\n🇮🇳 Raiza DHILLON\n🇹🇷 Sena CAN\n🇸🇰 Vanesa HOCKOVA\n🇸🇪
-  Victoria LARSSON\n🇨🇳 WEI Meng
-SUMMARY:🔫 Skeet Women's Qualification - Day 1
-LOCATION:Chateauroux Shooting Ctr
+DESCRIPTION:射击 - 女子双向飞碟资格赛 - 第1天\n🇦🇺 Aislin JONES\n🇬🇧 Amber Jo
+  RUTTER\n🇪🇬 Amira ABOUSHOKKA\n🇰🇿 Assem ORYNBAY\n🇺🇸 Austen Jewell
+  SMITH\n🇨🇿 Barbora SUMOVA\n🇳🇿 Chloe TIPPLE\n🇺🇸 Dania Jo VIZZI\n🇵🇪
+  Daniella BORDA OLAECHEA\n🇸🇰 Danka BARTEKOVA\n🇮🇹 Diana BACOSI\n🇬🇷
+  Emmanouela KATZOURAKI\n🇨🇱 Francisca CROVETTO CHADID\n🇲🇽 Gabriela
+  RODRIGUEZ\n🇧🇷 Georgia FURQUIM BASTOS\n🇺🇦 Iryna MALOVICHKO\n🇰🇷 JANG
+  Kookhee\n🇨🇳 JIANG Yiting\n🇨🇾 Konstantia NIKOLAOU\n🇫🇷 Lucie
+  ANASTASSIOU\n🇮🇳 Maheshwari CHAUHAN\n🇮🇹 Martina BARTOLOMEI\n🇩🇪
+  Nadine MESSERSCHMIDT\n🇩🇪 Nele WISSMER\n🇮🇳 Raiza DHILLON\n🇹🇷 Sena
+  CAN\n🇸🇰 Vanesa HOCKOVA\n🇸🇪 Victoria LARSSON\n🇨🇳 WEI Meng
+SUMMARY:🔫 女子双向飞碟资格赛 - 第1天
+LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

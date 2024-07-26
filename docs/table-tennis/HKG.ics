@@ -1,42 +1,42 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//table-tennis/HKG//EN
-X-WR-CALNAME:🇭🇰 Hong Kong Table Tennis | Paris 2024
-NAME:🇭🇰 Hong Kong Table Tennis | Paris 2024
+X-WR-CALNAME:🇭🇰 Hong Kong 乒乓球 | Paris 2024
+NAME:🇭🇰 Hong Kong 乒乓球 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T151500Z-table-tennis-MIXED-DOUBLES-ROUND-OF-16-HKG-HUN
+UID:20240727T151500Z-table-tennis-16-HKG-HUN
 DTSTAMP:20240727T151500Z
 DTSTART:20240727T151500Z
 DTEND:20240727T160000Z
-DESCRIPTION:Table Tennis - Mixed Doubles Round of 16
+DESCRIPTION:乒乓球 - 混合双打16强赛
 SUMMARY:🏓 WONG/DOO 🇭🇰 - 🇭🇺 ECSEKI/MADARASZ
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T084500Z-table-tennis-WOMENS-SINGLES-ROUND-OF-64-HKG-PRK
+UID:20240728T084500Z-table-tennis-64-HKG-PRK
 DTSTAMP:20240728T084500Z
 DTSTART:20240728T084500Z
 DTEND:20240728T093000Z
-DESCRIPTION:Table Tennis - Women's Singles Round of 64
+DESCRIPTION:乒乓球 - 女子单打64强赛
 SUMMARY:🏓 DOO Hoi Kem 🇭🇰 - 🇰🇵 PYON Song Gyong
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T090000Z-table-tennis-MENS-SINGLES-ROUND-OF-64
+UID:20240729T090000Z-table-tennis-64
 DTSTAMP:20240729T090000Z
 DTSTART:20240729T090000Z
 DTEND:20240729T100000Z
-DESCRIPTION:Table Tennis - Men's Singles Round of 64\n🇭🇰 WONG Chun Ting
-SUMMARY:🏓 Men's Singles Round of 64
-LOCATION:South Paris Arena 4
+DESCRIPTION:乒乓球 - 男子单打64强赛\n🇭🇰 WONG Chun Ting
+SUMMARY:🏓 男子单打64强赛
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T100000Z-table-tennis-WOMENS-SINGLES-ROUND-OF-64-TPE-HKG
+UID:20240729T100000Z-table-tennis-64-TPE-HKG
 DTSTAMP:20240729T100000Z
 DTSTART:20240729T100000Z
 DTEND:20240729T110000Z
-DESCRIPTION:Table Tennis - Women's Singles Round of 64
+DESCRIPTION:乒乓球 - 女子单打64强赛
 SUMMARY:🏓 CHIEN Tung-Chuan 🇹🇼 - 🇭🇰 ZHU Chengzhu
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 END:VCALENDAR

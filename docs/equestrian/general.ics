@@ -1,159 +1,159 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//equestrian/general//EN
-X-WR-CALNAME:🏇 Equestrian | Paris 2024
-NAME:🏇 Equestrian | Paris 2024
+X-WR-CALNAME:🏇 马术 | Paris 2024
+NAME:🏇 马术 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T073000Z-equestrian-EVENTING-INDIVIDUAL-DRESSAGE
+UID:20240727T073000Z-equestrian-
 DTSTAMP:20240727T073000Z
 DTSTART:20240727T073000Z
 DTEND:20240727T163000Z
-DESCRIPTION:Equestrian - Eventing Individual Dressage
-SUMMARY:🏇 Eventing Individual Dressage
-LOCATION:Château de Versailles
+DESCRIPTION:马术 - 三项赛团体盛装舞步
+SUMMARY:🏇 三项赛团体盛装舞步
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T073000Z-equestrian-EVENTING-TEAM-DRESSAGE
+UID:20240727T073000Z-equestrian-
 DTSTAMP:20240727T073000Z
 DTSTART:20240727T073000Z
 DTEND:20240727T163000Z
-DESCRIPTION:Equestrian - Eventing Team Dressage
-SUMMARY:🏇 Eventing Team Dressage
-LOCATION:Château de Versailles
+DESCRIPTION:马术 - 三项赛个人盛装舞步
+SUMMARY:🏇 三项赛个人盛装舞步
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T083000Z-equestrian-EVENTING-INDIVIDUAL-CROSS-COUNTRY
+UID:20240728T083000Z-equestrian--
 DTSTAMP:20240728T083000Z
 DTSTART:20240728T083000Z
 DTEND:20240728T133000Z
-DESCRIPTION:Equestrian - Eventing Individual Cross Country
-SUMMARY:🏇 Eventing Individual Cross Country
-LOCATION:Château de Versailles
+DESCRIPTION:马术 - 三项赛 - 团体越野赛
+SUMMARY:🏇 三项赛 - 团体越野赛
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T083000Z-equestrian-EVENTING-TEAM-CROSS-COUNTRY
+UID:20240728T083000Z-equestrian--
 DTSTAMP:20240728T083000Z
 DTSTART:20240728T083000Z
 DTEND:20240728T133000Z
-DESCRIPTION:Equestrian - Eventing Team Cross Country
-SUMMARY:🏇 Eventing Team Cross Country
-LOCATION:Château de Versailles
+DESCRIPTION:马术 - 三项赛 - 个人越野赛
+SUMMARY:🏇 三项赛 - 个人越野赛
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T090000Z-equestrian-EVENTING-INDIVIDUAL-JUMPING-QUALIFIER
+UID:20240729T090000Z-equestrian--
 DTSTAMP:20240729T090000Z
 DTSTART:20240729T090000Z
 DTEND:20240729T114000Z
-DESCRIPTION:Equestrian - Eventing Individual Jumping Qualifier
-SUMMARY:🏇 Eventing Individual Jumping Qualifier
-LOCATION:Château de Versailles
+DESCRIPTION:马术 - 三项赛 - 团体场地障碍决赛
+SUMMARY:🏇 三项赛 - 团体场地障碍决赛
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T090000Z-equestrian-EVENTING-TEAM-JUMPING-FINAL
+UID:20240729T090000Z-equestrian--
 DTSTAMP:20240729T090000Z
 DTSTART:20240729T090000Z
 DTEND:20240729T114000Z
-DESCRIPTION:Equestrian - Eventing Team Jumping Final
-SUMMARY:🏇 Eventing Team Jumping Final
-LOCATION:Château de Versailles
+DESCRIPTION:马术 - 三项赛 - 个人场地障碍预赛
+SUMMARY:🏇 三项赛 - 个人场地障碍预赛
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T130000Z-equestrian-EVENTING-INDIVIDUAL-JUMPING-FINAL
+UID:20240729T130000Z-equestrian--
 DTSTAMP:20240729T130000Z
 DTSTART:20240729T130000Z
 DTEND:20240729T140000Z
-DESCRIPTION:Equestrian - Eventing Individual Jumping Final
-SUMMARY:🏇 Eventing Individual Jumping Final
-LOCATION:Château de Versailles
+DESCRIPTION:马术 - 三项赛 - 个人场地障碍决赛
+SUMMARY:🏇 三项赛 - 个人场地障碍决赛
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T090000Z-equestrian-DRESSAGE-INDIVIDUAL-GRAND-PRIX-DAY-1
+UID:20240730T090000Z-equestrian--1
 DTSTAMP:20240730T090000Z
 DTSTART:20240730T090000Z
 DTEND:20240730T143000Z
-DESCRIPTION:Equestrian - Dressage Individual Grand Prix Day 1
-SUMMARY:🏇 Dressage Individual Grand Prix Day 1
-LOCATION:Château de Versailles
+DESCRIPTION:马术 - 个人盛装舞步大奖赛 - 第1天
+SUMMARY:🏇 个人盛装舞步大奖赛 - 第1天
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T090000Z-equestrian-DRESSAGE-TEAM-GRAND-PRIX-DAY-1
+UID:20240730T090000Z-equestrian--1
 DTSTAMP:20240730T090000Z
 DTSTART:20240730T090000Z
 DTEND:20240730T143000Z
-DESCRIPTION:Equestrian - Dressage Team Grand Prix Day 1
-SUMMARY:🏇 Dressage Team Grand Prix Day 1
-LOCATION:Château de Versailles
+DESCRIPTION:马术 - 盛装舞步团体大奖赛 - 第1天
+SUMMARY:🏇 盛装舞步团体大奖赛 - 第1天
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T080000Z-equestrian-DRESSAGE-INDIVIDUAL-GRAND-PRIX-DAY-2
+UID:20240731T080000Z-equestrian--2
 DTSTAMP:20240731T080000Z
 DTSTART:20240731T080000Z
 DTEND:20240731T133000Z
-DESCRIPTION:Equestrian - Dressage Individual Grand Prix Day 2
-SUMMARY:🏇 Dressage Individual Grand Prix Day 2
-LOCATION:Château de Versailles
+DESCRIPTION:马术 - 个人盛装舞步大奖赛 - 第2天
+SUMMARY:🏇 个人盛装舞步大奖赛 - 第2天
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T080000Z-equestrian-DRESSAGE-TEAM-GRAND-PRIX-DAY-2
+UID:20240731T080000Z-equestrian--2
 DTSTAMP:20240731T080000Z
 DTSTART:20240731T080000Z
 DTEND:20240731T133000Z
-DESCRIPTION:Equestrian - Dressage Team Grand Prix Day 2
-SUMMARY:🏇 Dressage Team Grand Prix Day 2
-LOCATION:Château de Versailles
+DESCRIPTION:马术 - 盛装舞步团体大奖赛 - 第2天
+SUMMARY:🏇 盛装舞步团体大奖赛 - 第2天
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T090000Z-equestrian-JUMPING-TEAM-QUALIFIER
+UID:20240801T090000Z-equestrian-
 DTSTAMP:20240801T090000Z
 DTSTART:20240801T090000Z
 DTEND:20240801T120000Z
-DESCRIPTION:Equestrian - Jumping Team Qualifier
-SUMMARY:🏇 Jumping Team Qualifier
-LOCATION:Château de Versailles
+DESCRIPTION:马术 - 团体场地障碍预赛
+SUMMARY:🏇 团体场地障碍预赛
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T120000Z-equestrian-JUMPING-TEAM-FINAL
+UID:20240802T120000Z-equestrian-
 DTSTAMP:20240802T120000Z
 DTSTART:20240802T120000Z
 DTEND:20240802T134100Z
-DESCRIPTION:Equestrian - Jumping Team Final
-SUMMARY:🏇 Jumping Team Final
-LOCATION:Château de Versailles
+DESCRIPTION:马术 - 团体场地障碍决赛
+SUMMARY:🏇 团体场地障碍决赛
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T080000Z-equestrian-DRESSAGE-TEAM-GRAND-PRIX-SPECIAL
+UID:20240803T080000Z-equestrian-
 DTSTAMP:20240803T080000Z
 DTSTART:20240803T080000Z
 DTEND:20240803T133000Z
-DESCRIPTION:Equestrian - Dressage Team Grand Prix Special
-SUMMARY:🏇 Dressage Team Grand Prix Special
-LOCATION:Château de Versailles
+DESCRIPTION:马术 - 团体盛装舞步特别大奖赛
+SUMMARY:🏇 团体盛装舞步特别大奖赛
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T080000Z-equestrian-DRESSAGE-INDIVIDUAL-GRAND-PRIX-FREESTYLE
+UID:20240804T080000Z-equestrian-
 DTSTAMP:20240804T080000Z
 DTSTART:20240804T080000Z
 DTEND:20240804T113000Z
-DESCRIPTION:Equestrian - Dressage Individual Grand Prix Freestyle
-SUMMARY:🏇 Dressage Individual Grand Prix Freestyle
-LOCATION:Château de Versailles
+DESCRIPTION:马术 - 个人盛装舞步音乐自由演绎大奖赛
+SUMMARY:🏇 个人盛装舞步音乐自由演绎大奖赛
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T120000Z-equestrian-JUMPING-INDIVIDUAL-QUALIFIER
+UID:20240805T120000Z-equestrian-
 DTSTAMP:20240805T120000Z
 DTSTART:20240805T120000Z
 DTEND:20240805T160000Z
-DESCRIPTION:Equestrian - Jumping Individual Qualifier
-SUMMARY:🏇 Jumping Individual Qualifier
-LOCATION:Château de Versailles
+DESCRIPTION:马术 - 个人场地障碍预赛
+SUMMARY:🏇 个人场地障碍预赛
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T080000Z-equestrian-JUMPING-INDIVIDUAL-FINAL
+UID:20240806T080000Z-equestrian-
 DTSTAMP:20240806T080000Z
 DTSTART:20240806T080000Z
 DTEND:20240806T092100Z
-DESCRIPTION:Equestrian - Jumping Individual Final
-SUMMARY:🏇 Jumping Individual Final
-LOCATION:Château de Versailles
+DESCRIPTION:马术 - 个人场地障碍决赛
+SUMMARY:🏇 个人场地障碍决赛
+LOCATION:凡尔赛宫
 END:VEVENT
 END:VCALENDAR

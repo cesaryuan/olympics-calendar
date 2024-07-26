@@ -1,24 +1,24 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//tennis/KAZ//EN
-X-WR-CALNAME:🇰🇿 Kazakhstan Tennis | Paris 2024
-NAME:🇰🇿 Kazakhstan Tennis | Paris 2024
+X-WR-CALNAME:🇰🇿 Kazakhstan 网球 | Paris 2024
+NAME:🇰🇿 Kazakhstan 网球 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T100000Z-tennis-MENS-SINGLES-FIRST-ROUND-KAZ-USA
+UID:20240727T100000Z-tennis-1-KAZ-UKR
 DTSTAMP:20240727T100000Z
 DTSTART:20240727T100000Z
 DTEND:20240727T143000Z
-DESCRIPTION:Tennis - Men's Singles First Round
-SUMMARY:🎾 Alexander BUBLIK 🇰🇿 - 🇺🇸 Taylor FRITZ
-LOCATION:Roland-Garros Stadium
+DESCRIPTION:网球 - 女子单打第1轮
+SUMMARY:🎾 Yulia PUTINTSEVA 🇰🇿 - 🇺🇦 Marta KOSTYUK
+LOCATION:罗兰·加洛斯体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T100000Z-tennis-WOMENS-SINGLES-FIRST-ROUND-KAZ-UKR
+UID:20240727T100000Z-tennis-1-KAZ-USA
 DTSTAMP:20240727T100000Z
 DTSTART:20240727T100000Z
 DTEND:20240727T143000Z
-DESCRIPTION:Tennis - Women's Singles First Round
-SUMMARY:🎾 Yulia PUTINTSEVA 🇰🇿 - 🇺🇦 Marta KOSTYUK
-LOCATION:Roland-Garros Stadium
+DESCRIPTION:网球 - 男子单打第1轮
+SUMMARY:🎾 Alexander BUBLIK 🇰🇿 - 🇺🇸 Taylor FRITZ
+LOCATION:罗兰·加洛斯体育场
 END:VEVENT
 END:VCALENDAR

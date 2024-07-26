@@ -1,33 +1,33 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//rugby-sevens/GBR//EN
-X-WR-CALNAME:🇬🇧 Great Britain Rugby Sevens | Paris 2024
-NAME:🇬🇧 Great Britain Rugby Sevens | Paris 2024
+X-WR-CALNAME:🇬🇧 Great Britain 七人制橄榄球 | Paris 2024
+NAME:🇬🇧 Great Britain 七人制橄榄球 | Paris 2024
 BEGIN:VEVENT
-UID:20240728T133000Z-rugby-sevens-WOMENS-POOL-B-IRL-GBR
+UID:20240728T133000Z-rugby-sevens-B-IRL-GBR
 DTSTAMP:20240728T133000Z
 DTSTART:20240728T133000Z
 DTEND:20240728T134600Z
-DESCRIPTION:Rugby Sevens - Women's Pool B
-SUMMARY:🏉 IRL 🇮🇪 - 🇬🇧 GBR
-LOCATION:Stade de France
+DESCRIPTION:七人制橄榄球 - 女子分组循环赛B组
+SUMMARY:🏉 爱尔兰 🇮🇪 - 🇬🇧 英国
+LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T173000Z-rugby-sevens-WOMENS-POOL-B-AUS-GBR
+UID:20240728T173000Z-rugby-sevens-B-AUS-GBR
 DTSTAMP:20240728T173000Z
 DTSTART:20240728T173000Z
 DTEND:20240728T174600Z
-DESCRIPTION:Rugby Sevens - Women's Pool B
-SUMMARY:🏉 AUS 🇦🇺 - 🇬🇧 GBR
-LOCATION:Stade de France
+DESCRIPTION:七人制橄榄球 - 女子分组循环赛B组
+SUMMARY:🏉 澳大利亚 🇦🇺 - 🇬🇧 英国
+LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T120000Z-rugby-sevens-WOMENS-POOL-B-GBR-RSA
+UID:20240729T120000Z-rugby-sevens-B-GBR-RSA
 DTSTAMP:20240729T120000Z
 DTSTART:20240729T120000Z
 DTEND:20240729T121600Z
-DESCRIPTION:Rugby Sevens - Women's Pool B
-SUMMARY:🏉 GBR 🇬🇧 - 🇿🇦 RSA
-LOCATION:Stade de France
+DESCRIPTION:七人制橄榄球 - 女子分组循环赛B组
+SUMMARY:🏉 英国 🇬🇧 - 🇿🇦 南非
+LOCATION:法兰西体育场
 END:VEVENT
 END:VCALENDAR

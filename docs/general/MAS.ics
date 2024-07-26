@@ -4,34 +4,33 @@ PRODID:-//fabrice404//olympics-calendar//general/MAS//EN
 X-WR-CALNAME:🇲🇾 Malaysia | Paris 2024
 NAME:🇲🇾 Malaysia | Paris 2024
 BEGIN:VEVENT
-UID:20240725T073000Z-archery-WOMENS-INDIVIDUAL-RANKING-ROUND
+UID:20240725T073000Z-archery-
 DTSTAMP:20240725T073000Z
 DTSTART:20240725T073000Z
 DTEND:20240725T103000Z
-DESCRIPTION:Archery - Women's Individual Ranking Round\n🇨🇳 AN
-  Qixuan\n🇲🇽 Alejandra VALENCIA\n🇲🇩 Alexandra MIRCA\n🇵🇷 Alondra
-  RIVERA\n🇫🇷 Amelie CORDEAU\n🇧🇷 Ana Luiza SLIACHTICAS CAETANO\n🇨🇴 Ana
-  RENDON MARTINEZ\n🇲🇽 Ana VAZQUEZ\n🇲🇽 Angela RUIZ\n🇮🇳 Ankita
-  BHAKAT\n🇲🇾 Ariana Nur Dania MOHAMAD ZAIRI\n🇮🇳 Bhajan KAUR\n🇬🇧
-  Bryony PITMAN\n🇹🇼 CHIU Yi-Ching\n🇫🇷 Caroline LOPEZ\n🇺🇸 Casey
-  KAUFHOLD\n🇺🇸 Catalina GNORIEGA\n🇩🇪 Charline SCHWARZ\n🇮🇹 Chiara
-  REBAGLIATI\n🇮🇳 Deepika KUMARI\n🇸🇰 Denisa BARANKOVA\n🇮🇩 Diananda
-  CHOIRUNISA\n🇪🇸 Elia CANALES\n🇹🇷 Elif Berra GOKKIR\n🇦🇹 Elisabeth
-  STRAKA\n🇬🇳 Fatoumata SYLLA\n🇳🇱 Gaby SCHLOESSER\n🇸🇲 Giorgia
-  CESARINI\n🇰🇷 JEON Hunyoung\n🇪🇬 Jana ALI\n🇺🇸 Jennifer MUCINO\n🇩🇪
-  Katharina BAUER\n🇩🇰 Kirstine DANSTRUP ANDERSEN\n🇹🇼 LEI
-  Chien-Ying\n🇨🇳 LI Jiaman\n🇹🇼 LI Tsai-Chi\n🇰🇷 LIM Sihyeon\n🇦🇺
-  Laura PAEGLIS\n🇳🇱 Laura van der WINKEL\n🇫🇷 Lisa BARBELIN\n🇷🇴
-  Madalina AMAISTROAIE\n🇨🇿 Marie HORACKOVA\n🇬🇧 Megs HAVERS\n🇩🇪
-  Michelle KROPPEN\n🇮🇱 Mikaella MOSHE\n🇮🇷 Mobina FALLAH\n🇰🇷 NAM
-  Suhyeon\n🇯🇵 NODA Satsuki\n🇲🇾 Nurul Azreena MOHAMAD FAZIL\n🇬🇧 Penny
-  HEALEY\n🇳🇱 Quinty ROEFFEN\n🇪🇪 Reena PARNAT\n🇮🇩 Rezza OCTAVIA\n🇹🇳
-  Rihab ELWALID\n🇲🇾 Syaqiera MASHAYIKH\n🇮🇩 Syifa Nurafifah KAMAL\n🇻🇳
-  Thi Anh Nguyet DO\n🇺🇦 Veronika MARCHENKO\n🇨🇦 Virginie CHENIER\n🇵🇱
-  Wioleta MYSZOR\n🇨🇳 YANG Xiaolei\n🇦🇿 Yaylagul RAMAZANOVA\n🇸🇮 Zana
-  PINTARIC\n🇺🇿 Ziyodakhon ABDUSATTOROVA
-SUMMARY:🏹 Women's Individual Ranking Round
-LOCATION:Invalides
+DESCRIPTION:射箭 - 女子个人排名赛\n🇨🇳 AN Qixuan\n🇲🇽 Alejandra VALENCIA\n🇲🇩
+  Alexandra MIRCA\n🇵🇷 Alondra RIVERA\n🇫🇷 Amelie CORDEAU\n🇧🇷 Ana Luiza
+  SLIACHTICAS CAETANO\n🇨🇴 Ana RENDON MARTINEZ\n🇲🇽 Ana VAZQUEZ\n🇲🇽
+  Angela RUIZ\n🇮🇳 Ankita BHAKAT\n🇲🇾 Ariana Nur Dania MOHAMAD
+  ZAIRI\n🇮🇳 Bhajan KAUR\n🇬🇧 Bryony PITMAN\n🇹🇼 CHIU Yi-Ching\n🇫🇷
+  Caroline LOPEZ\n🇺🇸 Casey KAUFHOLD\n🇺🇸 Catalina GNORIEGA\n🇩🇪
+  Charline SCHWARZ\n🇮🇹 Chiara REBAGLIATI\n🇮🇳 Deepika KUMARI\n🇸🇰
+  Denisa BARANKOVA\n🇮🇩 Diananda CHOIRUNISA\n🇪🇸 Elia CANALES\n🇹🇷 Elif
+  Berra GOKKIR\n🇦🇹 Elisabeth STRAKA\n🇬🇳 Fatoumata SYLLA\n🇳🇱 Gaby
+  SCHLOESSER\n🇸🇲 Giorgia CESARINI\n🇰🇷 JEON Hunyoung\n🇪🇬 Jana
+  ALI\n🇺🇸 Jennifer MUCINO\n🇩🇪 Katharina BAUER\n🇩🇰 Kirstine DANSTRUP
+  ANDERSEN\n🇹🇼 LEI Chien-Ying\n🇨🇳 LI Jiaman\n🇹🇼 LI Tsai-Chi\n🇰🇷 LIM
+  Sihyeon\n🇦🇺 Laura PAEGLIS\n🇳🇱 Laura van der WINKEL\n🇫🇷 Lisa
+  BARBELIN\n🇷🇴 Madalina AMAISTROAIE\n🇨🇿 Marie HORACKOVA\n🇬🇧 Megs
+  HAVERS\n🇩🇪 Michelle KROPPEN\n🇮🇱 Mikaella MOSHE\n🇮🇷 Mobina
+  FALLAH\n🇰🇷 NAM Suhyeon\n🇯🇵 NODA Satsuki\n🇲🇾 Nurul Azreena MOHAMAD
+  FAZIL\n🇬🇧 Penny HEALEY\n🇳🇱 Quinty ROEFFEN\n🇪🇪 Reena PARNAT\n🇮🇩
+  Rezza OCTAVIA\n🇹🇳 Rihab ELWALID\n🇲🇾 Syaqiera MASHAYIKH\n🇮🇩 Syifa
+  Nurafifah KAMAL\n🇻🇳 Thi Anh Nguyet DO\n🇺🇦 Veronika MARCHENKO\n🇨🇦
+  Virginie CHENIER\n🇵🇱 Wioleta MYSZOR\n🇨🇳 YANG Xiaolei\n🇦🇿 Yaylagul
+  RAMAZANOVA\n🇸🇮 Zana PINTARIC\n🇺🇿 Ziyodakhon ABDUSATTOROVA
+SUMMARY:🏹 女子个人排名赛
+LOCATION:荣军院
 END:VEVENT
 BEGIN:VEVENT
 UID:20240726T173000Z-opening-ceremony
@@ -43,41 +42,41 @@ SUMMARY:Paris 2024 - Opening ceremony
 Location:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T072000Z-badminton-MIXED-DOUBLES-GROUP-PLAY-STAGE-GROUP-D-MAS-S
+UID:20240727T072000Z-badminton--D-MAS-SGP
 DTSTAMP:20240727T072000Z
 DTSTART:20240727T072000Z
 DTEND:20240727T080000Z
-DESCRIPTION:Badminton - Mixed Doubles Group Play Stage - Group D
+DESCRIPTION:羽毛球 - 混合双打小组赛 - D组
 SUMMARY:🏸 CHEN/TOH 🇲🇾 - 🇸🇬 HEE/TAN
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T081000Z-badminton-MENS-DOUBLES-GROUP-PLAY-STAGE-GROUP-A-MAS-GB
+UID:20240727T081000Z-badminton--A-CHN-MAS
 DTSTAMP:20240727T081000Z
 DTSTART:20240727T081000Z
 DTEND:20240727T085000Z
-DESCRIPTION:Badminton - Men's Doubles Group Play Stage - Group A
-SUMMARY:🏸 CHIA/SOH 🇲🇾 - 🇬🇧 LANE/VENDY
-LOCATION:La Chapelle Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240727T081000Z-badminton-WOMENS-DOUBLES-GROUP-PLAY-STAGE-GROUP-A-CHN-
-DTSTAMP:20240727T081000Z
-DTSTART:20240727T081000Z
-DTEND:20240727T085000Z
-DESCRIPTION:Badminton - Women's Doubles Group Play Stage - Group A
+DESCRIPTION:羽毛球 - 女子双打小组赛 - A组
 SUMMARY:🏸 CHEN/JIA 🇨🇳 - 🇲🇾 TAN/THINAAH
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T083000Z-shooting-10M-AIR-PISTOL-MENS-QUALIFICATION
+UID:20240727T081000Z-badminton--A-MAS-GBR
+DTSTAMP:20240727T081000Z
+DTSTART:20240727T081000Z
+DTEND:20240727T085000Z
+DESCRIPTION:羽毛球 - 男子双打小组赛 - A组
+SUMMARY:🏸 CHIA/SOH 🇲🇾 - 🇬🇧 LANE/VENDY
+LOCATION:拉夏贝尔门体育馆
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T083000Z-shooting-10
 DTSTAMP:20240727T083000Z
 DTSTART:20240727T083000Z
 DTEND:20240727T094500Z
-DESCRIPTION:Shooting - 10m Air Pistol Men's Qualification\n🇮🇳 Arjun Singh
-  CHEEMA\n🇰🇷 CHO Yeongjae\n🇩🇪 Christian REITZ\n🇷🇸 Damir MIKEC\n🇲🇳
-  Davaakhuu ENKHTAIVAN\n🇨🇱 Diego Santiago Andres PARRA VERGARA\n🏳️
-  Edilio Francisco CENTENO NIEVES\n🇮🇹 Federico Nilo MALDINI\n🇫🇷 Florian
+DESCRIPTION:射击 - 男子10米气手枪资格赛\n🇮🇳 Arjun Singh CHEEMA\n🇰🇷 CHO
+  Yeongjae\n🇩🇪 Christian REITZ\n🇷🇸 Damir MIKEC\n🇲🇳 Davaakhuu
+  ENKHTAIVAN\n🇨🇱 Diego Santiago Andres PARRA VERGARA\n🏳️ Edilio
+  Francisco CENTENO NIEVES\n🇮🇹 Federico Nilo MALDINI\n🇫🇷 Florian
   FOUQUET\n🇲🇾 Guanjie Johnathan WONG\n🇵🇰 Gulfam JOSEPH\n🇹🇷 Ismail
   KELES\n🇨🇭 Jason SOLARI\n🇸🇰 Juraj TUZINSKY\n🇧🇬 Kiril KIROV\n🇰🇷 LEE
   Wonho\n🇱🇻 Lauris STRAUTMANIS\n🇨🇿 Matej RAMPULA\n🇨🇦 Michele
@@ -86,107 +85,107 @@ DESCRIPTION:Shooting - 10m Air Pistol Men's Qualification\n🇮🇳 Arjun Singh
   CHATEAUBRIAN\n🇩🇪 Robin WALTER\n🇦🇿 Ruslan LUNEV\n🇩🇿 Samir
   BOUCHIREB\n🇮🇳 Sarabjot SINGH\n🇺🇦 Viktor BANKIN\n🇨🇳 XIE Yu\n🇹🇷
   Yusuf DIKEC\n🇨🇳 ZHANG Bowen
-SUMMARY:🔫 10m Air Pistol Men's Qualification
-LOCATION:Chateauroux Shooting Ctr
+SUMMARY:🔫 男子10米气手枪资格赛
+LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T063000Z-badminton-WOMENS-DOUBLES-GROUP-PLAY-STAGE-GROUP-A-JPN-
+UID:20240728T063000Z-badminton--A-JPN-MAS
 DTSTAMP:20240728T063000Z
 DTSTART:20240728T063000Z
 DTEND:20240728T071000Z
-DESCRIPTION:Badminton - Women's Doubles Group Play Stage - Group A
+DESCRIPTION:羽毛球 - 女子双打小组赛 - A组
 SUMMARY:🏸 MATSUMOTO/NAGAHARA 🇯🇵 - 🇲🇾 TAN/THINAAH
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T072000Z-badminton-MENS-DOUBLES-GROUP-PLAY-STAGE-GROUP-A-MAS-CA
+UID:20240728T072000Z-badminton--A-MAS-CAN
 DTSTAMP:20240728T072000Z
 DTSTART:20240728T072000Z
 DTEND:20240728T080000Z
-DESCRIPTION:Badminton - Men's Doubles Group Play Stage - Group A
+DESCRIPTION:羽毛球 - 男子双打小组赛 - A组
 SUMMARY:🏸 CHIA/SOH 🇲🇾 - 🇨🇦 DONG/YAKURA
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T081000Z-badminton-MENS-SINGLES-GROUP-PLAY-STAGE-GROUP-G-MAS-SR
+UID:20240728T081000Z-badminton--G-MAS-SRI
 DTSTAMP:20240728T081000Z
 DTSTART:20240728T081000Z
 DTEND:20240728T085000Z
-DESCRIPTION:Badminton - Men's Singles Group Play Stage - Group G
+DESCRIPTION:羽毛球 - 男子单打小组赛 - G组
 SUMMARY:🏸 Zii Jia LEE 🇲🇾 - 🇱🇰 Viren NETTASINGHE
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T081600Z-archery-WOMENS-TEAM-18-ELIMINATION-ROUND-INA-MAS
+UID:20240728T081600Z-archery-18-INA-MAS
 DTSTAMP:20240728T081600Z
 DTSTART:20240728T081600Z
 DTEND:20240728T083900Z
-DESCRIPTION:Archery - Women's Team 1/8 Elimination Round
-SUMMARY:🏹 INA 🇮🇩 - 🇲🇾 MAS
-LOCATION:Invalides
+DESCRIPTION:射箭 - 女子团体1/8淘汰赛
+SUMMARY:🏹 印度尼西亚 🇮🇩 - 🇲🇾 马来西亚
+LOCATION:荣军院
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T090000Z-badminton-MIXED-DOUBLES-GROUP-PLAY-STAGE-GROUP-D-MAS-U
+UID:20240728T090000Z-badminton--D-MAS-USA
 DTSTAMP:20240728T090000Z
 DTSTART:20240728T090000Z
 DTEND:20240728T100000Z
-DESCRIPTION:Badminton - Mixed Doubles Group Play Stage - Group D
+DESCRIPTION:羽毛球 - 混合双打小组赛 - D组
 SUMMARY:🏸 CHEN/TOH 🇲🇾 - 🇺🇸 CHIU/GAI
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T063000Z-badminton-MIXED-DOUBLES-GROUP-PLAY-STAGE-GROUP-D-CHN-M
+UID:20240729T063000Z-badminton--D-CHN-MAS
 DTSTAMP:20240729T063000Z
 DTSTART:20240729T063000Z
 DTEND:20240729T071000Z
-DESCRIPTION:Badminton - Mixed Doubles Group Play Stage - Group D
+DESCRIPTION:羽毛球 - 混合双打小组赛 - D组
 SUMMARY:🏸 FENG/HUANG 🇨🇳 - 🇲🇾 CHEN/TOH
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T125000Z-badminton-WOMENS-SINGLES-GROUP-PLAY-STAGE-GROUP-H-MAS-
+UID:20240729T125000Z-badminton--H-MAS-RSA
 DTSTAMP:20240729T125000Z
 DTSTART:20240729T125000Z
 DTEND:20240729T133000Z
-DESCRIPTION:Badminton - Women's Singles Group Play Stage - Group H
+DESCRIPTION:羽毛球 - 女子单打小组赛 - H组
 SUMMARY:🏸 Jin Wei GOH 🇲🇾 - 🇿🇦 Johanita SCHOLTZ
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T191000Z-badminton-MENS-DOUBLES-GROUP-PLAY-STAGE-GROUP-A-CHN-MA
+UID:20240729T191000Z-badminton--A-CHN-MAS
 DTSTAMP:20240729T191000Z
 DTSTART:20240729T191000Z
 DTEND:20240729T195000Z
-DESCRIPTION:Badminton - Men's Doubles Group Play Stage - Group A
+DESCRIPTION:羽毛球 - 男子双打小组赛 - A组
 SUMMARY:🏸 LIANG/WANG 🇨🇳 - 🇲🇾 CHIA/SOH
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T103900Z-archery-WOMENS-INDIVIDUAL-132-ELIMINATION-ROUND-MDA-MA
+UID:20240730T103900Z-archery-132-MDA-MAS
 DTSTAMP:20240730T103900Z
 DTSTART:20240730T103900Z
 DTEND:20240730T105200Z
-DESCRIPTION:Archery - Women's Individual 1/32 Elimination Round
+DESCRIPTION:射箭 - 女子个人1/32淘汰赛
 SUMMARY:🏹 Alexandra MIRCA 🇲🇩 - 🇲🇾 Syaqiera MASHAYIKH
-LOCATION:Invalides
+LOCATION:荣军院
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T114400Z-archery-WOMENS-INDIVIDUAL-132-ELIMINATION-ROUND-ITA-MA
+UID:20240731T114400Z-archery-132-ITA-MAS
 DTSTAMP:20240731T114400Z
 DTSTART:20240731T114400Z
 DTEND:20240731T115700Z
-DESCRIPTION:Archery - Women's Individual 1/32 Elimination Round
+DESCRIPTION:射箭 - 女子个人1/32淘汰赛
 SUMMARY:🏹 Chiara REBAGLIATI 🇮🇹 - 🇲🇾 Ariana Nur Dania MOHAMAD ZAIRI
-LOCATION:Invalides
+LOCATION:荣军院
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T172900Z-archery-WOMENS-INDIVIDUAL-132-ELIMINATION-ROUND-TUR-MA
+UID:20240731T172900Z-archery-132-TUR-MAS
 DTSTAMP:20240731T172900Z
 DTSTART:20240731T172900Z
 DTEND:20240731T174200Z
-DESCRIPTION:Archery - Women's Individual 1/32 Elimination Round
+DESCRIPTION:射箭 - 女子个人1/32淘汰赛
 SUMMARY:🏹 Elif Berra GOKKIR 🇹🇷 - 🇲🇾 Nurul Azreena MOHAMAD FAZIL
-LOCATION:Invalides
+LOCATION:荣军院
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

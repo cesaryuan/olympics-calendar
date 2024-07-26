@@ -1,24 +1,24 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//cycling-mountain-bike/general//EN
-X-WR-CALNAME:🚴 Cycling Mountain Bike | Paris 2024
-NAME:🚴 Cycling Mountain Bike | Paris 2024
+X-WR-CALNAME:🚴 山地自行车 | Paris 2024
+NAME:🚴 山地自行车 | Paris 2024
 BEGIN:VEVENT
-UID:20240728T121000Z-cycling-mountain-bike-WOMENS-CROSS-COUNTRY
+UID:20240728T121000Z-cycling-mountain-bike-
 DTSTAMP:20240728T121000Z
 DTSTART:20240728T121000Z
 DTEND:20240728T134000Z
-DESCRIPTION:Cycling Mountain Bike - Women's Cross-country
-SUMMARY:🚴 Women's Cross-country
-LOCATION:Elancourt Hill
+DESCRIPTION:山地自行车 - 女子越野赛
+SUMMARY:🚴 女子越野赛
+LOCATION:埃朗库尔山
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T121000Z-cycling-mountain-bike-MENS-CROSS-COUNTRY
+UID:20240729T121000Z-cycling-mountain-bike-
 DTSTAMP:20240729T121000Z
 DTSTART:20240729T121000Z
 DTEND:20240729T134000Z
-DESCRIPTION:Cycling Mountain Bike - Men's Cross-country
-SUMMARY:🚴 Men's Cross-country
-LOCATION:Elancourt Hill
+DESCRIPTION:山地自行车 - 男子越野赛
+SUMMARY:🚴 男子越野赛
+LOCATION:埃朗库尔山
 END:VEVENT
 END:VCALENDAR

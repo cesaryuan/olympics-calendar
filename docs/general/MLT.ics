@@ -13,32 +13,32 @@ SUMMARY:Paris 2024 - Opening ceremony
 Location:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T084200Z-judo-WOMEN-48-KG-ELIMINATION-ROUND-OF-32-MGL-MLT
+UID:20240727T084200Z-judo-4832-MGL-MLT
 DTSTAMP:20240727T084200Z
 DTSTART:20240727T084200Z
 DTEND:20240727T084800Z
-DESCRIPTION:Judo - Women -48 kg Elimination Round of 32
+DESCRIPTION:柔道 - 女子48公斤级32强淘汰赛
 SUMMARY:🥋 Baasankhuu BAVUUDORJ 🇲🇳 - 🇲🇹 Katryna ESPOSITO
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T070000Z-shooting-TRAP-MENS-QUALIFICATION-DAY-1
+UID:20240729T070000Z-shooting--1
 DTSTAMP:20240729T070000Z
 DTSTART:20240729T070000Z
 DTEND:20240729T120000Z
-DESCRIPTION:Shooting - Trap Men's Qualification - Day 1\n🇪🇸 Alberto
-  FERNANDEZ\n🇪🇸 Andres GARCIA\n🇺🇸 Derrick Scott MEIN\n🇲🇦 Driss
-  HAFFARI\n🇩🇴 Eduardo Jose LORENZO\n🇲🇹 Gianluca CHETCUTI\n🇭🇷 Giovanni
-  CERNOGORAZ\n🇮🇹 Giovanni PELLIELO\n🇦🇺 James WILLETT\n🇬🇹 Jean Pierre
-  BROL CARDENAS\n🇨🇿 Jiri LIPTAK\n🇰🇼 Khaled ALMUDHAF\n🇻🇪 Leonel
-  MARTINEZ\n🇸🇰 Marian KOVACOCY\n🇬🇧 Matthew John COWARD-HOLLEY\n🇮🇹
-  Mauro de FILIPPIS\n🇦🇺 Mitchell ILES\n🇮🇷 Mohammad BEYRANVAND\n🇬🇧
-  Nathan HALES\n🇹🇷 Oguzhan TUZUN\n🇳🇿 Owen ROBINSON\n🇮🇳 Prithviraj
-  TONDAIMAN\n🇨🇳 QI Ying\n🇸🇪 Rickard LEVIN-ANDERSSON\n🇶🇦 Saeed
-  ABUSHARIB\n🇴🇲 Said AL KHATRI\n🇫🇷 Sebastien GUERRERO\n🇺🇸 William
-  HINTON\n🇹🇼 YANG Kun-Pi\n🇨🇳 YU Haicheng
-SUMMARY:🔫 Trap Men's Qualification - Day 1
-LOCATION:Chateauroux Shooting Ctr
+DESCRIPTION:射击 - 男子多向飞碟资格赛 - 第1天\n🇪🇸 Alberto FERNANDEZ\n🇪🇸 Andres
+  GARCIA\n🇺🇸 Derrick Scott MEIN\n🇲🇦 Driss HAFFARI\n🇩🇴 Eduardo Jose
+  LORENZO\n🇲🇹 Gianluca CHETCUTI\n🇭🇷 Giovanni CERNOGORAZ\n🇮🇹 Giovanni
+  PELLIELO\n🇦🇺 James WILLETT\n🇬🇹 Jean Pierre BROL CARDENAS\n🇨🇿 Jiri
+  LIPTAK\n🇰🇼 Khaled ALMUDHAF\n🇻🇪 Leonel MARTINEZ\n🇸🇰 Marian
+  KOVACOCY\n🇬🇧 Matthew John COWARD-HOLLEY\n🇮🇹 Mauro de FILIPPIS\n🇦🇺
+  Mitchell ILES\n🇮🇷 Mohammad BEYRANVAND\n🇬🇧 Nathan HALES\n🇹🇷 Oguzhan
+  TUZUN\n🇳🇿 Owen ROBINSON\n🇮🇳 Prithviraj TONDAIMAN\n🇨🇳 QI Ying\n🇸🇪
+  Rickard LEVIN-ANDERSSON\n🇶🇦 Saeed ABUSHARIB\n🇴🇲 Said AL KHATRI\n🇫🇷
+  Sebastien GUERRERO\n🇺🇸 William HINTON\n🇹🇼 YANG Kun-Pi\n🇨🇳 YU
+  Haicheng
+SUMMARY:🔫 男子多向飞碟资格赛 - 第1天
+LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//judo/INA//EN
-X-WR-CALNAME:🇮🇩 Indonesia Judo | Paris 2024
-NAME:🇮🇩 Indonesia Judo | Paris 2024
+X-WR-CALNAME:🇮🇩 Indonesia 柔道 | Paris 2024
+NAME:🇮🇩 Indonesia 柔道 | Paris 2024
 BEGIN:VEVENT
-UID:20240728T083000Z-judo-WOMEN-52-KG-ELIMINATION-ROUND-OF-32-INA-MOZ
+UID:20240728T083000Z-judo-5232-INA-MOZ
 DTSTAMP:20240728T083000Z
 DTSTART:20240728T083000Z
 DTEND:20240728T083600Z
-DESCRIPTION:Judo - Women -52 kg Elimination Round of 32
+DESCRIPTION:柔道 - 女子52公斤级32强淘汰赛
 SUMMARY:🥋 Maryam March MAHARANI 🇮🇩 - 🇲🇿 Jacira FERREIRA
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 END:VCALENDAR

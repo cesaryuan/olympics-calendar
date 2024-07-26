@@ -13,68 +13,68 @@ SUMMARY:Paris 2024 - Opening ceremony
 Location:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T100000Z-tennis-MENS-SINGLES-FIRST-ROUND-LBN-ESP
+UID:20240727T100000Z-tennis-1-LBN-ESP
 DTSTAMP:20240727T100000Z
 DTSTART:20240727T100000Z
 DTEND:20240727T130000Z
-DESCRIPTION:Tennis - Men's Singles First Round
+DESCRIPTION:网球 - 男子单打第1轮
 SUMMARY:🎾 Hady HABIB 🇱🇧 - 🇪🇸 Carlos ALCARAZ
-LOCATION:Roland-Garros Stadium
+LOCATION:罗兰·加洛斯体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T100000Z-tennis-MENS-SINGLES-FIRST-ROUND-USA-LBN
+UID:20240727T100000Z-tennis-1-USA-LBN
 DTSTAMP:20240727T100000Z
 DTSTART:20240727T100000Z
 DTEND:20240727T160000Z
-DESCRIPTION:Tennis - Men's Singles First Round
+DESCRIPTION:网球 - 男子单打第1轮
 SUMMARY:🎾 Christopher EUBANKS 🇺🇸 - 🇱🇧 Benjamin HASSAN
-LOCATION:Roland-Garros Stadium
+LOCATION:罗兰·加洛斯体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T134500Z-table-tennis-WOMENS-SINGLES-PRELIMINARY-ROUND-CHI-LBN
+UID:20240727T134500Z-table-tennis--CHI-LBN
 DTSTAMP:20240727T134500Z
 DTSTART:20240727T134500Z
 DTEND:20240727T143000Z
-DESCRIPTION:Table Tennis - Women's Singles Preliminary Round
+DESCRIPTION:乒乓球 - 女子单打预赛
 SUMMARY:🏓 Zhiying ZENG 🇨🇱 - 🇱🇧 Mariana SAHAKIAN
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T072500Z-fencing-MENS-FOIL-INDIVIDUAL-TABLE-OF-64-TPE-LBN
+UID:20240729T072500Z-fencing-64-TPE-LBN
 DTSTAMP:20240729T072500Z
 DTSTART:20240729T072500Z
 DTEND:20240729T075500Z
-DESCRIPTION:Fencing - Men's Foil Individual Table of 64
+DESCRIPTION:击剑 - 男子个人花剑64强
 SUMMARY:🤺 CHEN Yi-Tung 🇹🇼 - 🇱🇧 Philippe WAKIM
-LOCATION:Grand Palais
+LOCATION:巴黎大皇宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T070000Z-shooting-TRAP-WOMENS-QUALIFICATION-DAY-1
+UID:20240730T070000Z-shooting--1
 DTSTAMP:20240730T070000Z
 DTSTART:20240730T070000Z
 DTEND:20240730T120000Z
-DESCRIPTION:Shooting - Trap Women's Qualification - Day 1\n🇬🇹 Adriana
-  RUANO OLIVA\n🇸🇲 Alessandra PERILLI\n🇬🇹 Ana Waleska SOTO ABRIL\n🇫🇷
-  Carole CORMENIER\n🇦🇺 Catherine SKINNER\n🇪🇸 Fatima GALVEZ\n🇮🇹
-  Jessica ROSSI\n🇰🇷 KANG Geeeun\n🇩🇪 Kathrin MURCHE\n🇰🇷 LEE Bo
-  Na\n🇹🇼 LIN Yi Chun\n🇹🇼 LIU Wan-Yu\n🇬🇧 Lucy Charlotte HALL\n🇪🇬
-  Maggy ASHMAWY\n🇪🇸 Mar MOLNE MAGRINA\n🇵🇹 Maria Ines COELHO de
-  BARROS\n🇰🇿 Mariya DMITRIYENKO\n🇫🇷 Melanie COUZY\n🇫🇮 Noora
-  ANTIKAINEN\n🇦🇺 Penny SMITH\n🇺🇸 Rachel Leighanne TOZIER\n🇮🇳
-  Rajeshwari KUMARI\n🇱🇧 Ray BASSIL\n🇹🇷 Rumeysa Pelin KAYA\n🇺🇸 Ryann
-  Paige PHILLIPS\n🇮🇳 Shreyasi SINGH\n🇮🇹 Silvana Maria STANCO\n🇨🇳 WU
-  Cuicui\n🇨🇳 ZHANG Xinqiu\n🇸🇰 Zuzana REHAK STEFECEKOVA
-SUMMARY:🔫 Trap Women's Qualification - Day 1
-LOCATION:Chateauroux Shooting Ctr
+DESCRIPTION:射击 - 女子多向飞碟资格赛 - 第1天\n🇬🇹 Adriana RUANO OLIVA\n🇸🇲 Alessandra
+  PERILLI\n🇬🇹 Ana Waleska SOTO ABRIL\n🇫🇷 Carole CORMENIER\n🇦🇺
+  Catherine SKINNER\n🇪🇸 Fatima GALVEZ\n🇮🇹 Jessica ROSSI\n🇰🇷 KANG
+  Geeeun\n🇩🇪 Kathrin MURCHE\n🇰🇷 LEE Bo Na\n🇹🇼 LIN Yi Chun\n🇹🇼 LIU
+  Wan-Yu\n🇬🇧 Lucy Charlotte HALL\n🇪🇬 Maggy ASHMAWY\n🇪🇸 Mar MOLNE
+  MAGRINA\n🇵🇹 Maria Ines COELHO de BARROS\n🇰🇿 Mariya DMITRIYENKO\n🇫🇷
+  Melanie COUZY\n🇫🇮 Noora ANTIKAINEN\n🇦🇺 Penny SMITH\n🇺🇸 Rachel
+  Leighanne TOZIER\n🇮🇳 Rajeshwari KUMARI\n🇱🇧 Ray BASSIL\n🇹🇷 Rumeysa
+  Pelin KAYA\n🇺🇸 Ryann Paige PHILLIPS\n🇮🇳 Shreyasi SINGH\n🇮🇹 Silvana
+  Maria STANCO\n🇨🇳 WU Cuicui\n🇨🇳 ZHANG Xinqiu\n🇸🇰 Zuzana REHAK
+  STEFECEKOVA
+SUMMARY:🔫 女子多向飞碟资格赛 - 第1天
+LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T080000Z-judo-MEN-90-KG-ELIMINATION-ROUND-OF-32-BUL-LBN
+UID:20240731T080000Z-judo-9032-BUL-LBN
 DTSTAMP:20240731T080000Z
 DTSTART:20240731T080000Z
 DTEND:20240731T080600Z
-DESCRIPTION:Judo - Men -90 kg Elimination Round of 32
+DESCRIPTION:柔道 - 男子90公斤级32强淘汰赛
 SUMMARY:🥋 Ivaylo IVANOV 🇧🇬 - 🇱🇧 Caramnob SAGAIPOV
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

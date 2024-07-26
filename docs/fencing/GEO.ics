@@ -1,16 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//fencing/GEO//EN
-X-WR-CALNAME:🇬🇪 Georgia Fencing | Paris 2024
-NAME:🇬🇪 Georgia Fencing | Paris 2024
+X-WR-CALNAME:🇬🇪 Georgia 击剑 | Paris 2024
+NAME:🇬🇪 Georgia 击剑 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T114500Z-fencing-MENS-SABRE-INDIVIDUAL-TABLE-OF-32
+UID:20240727T114500Z-fencing-32
 DTSTAMP:20240727T114500Z
 DTSTART:20240727T114500Z
 DTEND:20240727T121000Z
-DESCRIPTION:Fencing - Men's Sabre Individual Table of 32\n🇬🇪 Sandro
-  BAZADZE
-SUMMARY:🤺 Men's Sabre Individual Table of 32
-LOCATION:Grand Palais
+DESCRIPTION:击剑 - 男子个人佩剑32强\n🇬🇪 Sandro BAZADZE
+SUMMARY:🤺 男子个人佩剑32强
+LOCATION:巴黎大皇宫
 END:VEVENT
 END:VCALENDAR

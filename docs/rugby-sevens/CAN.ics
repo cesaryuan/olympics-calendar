@@ -1,33 +1,33 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//rugby-sevens/CAN//EN
-X-WR-CALNAME:🇨🇦 Canada Rugby Sevens | Paris 2024
-NAME:🇨🇦 Canada Rugby Sevens | Paris 2024
+X-WR-CALNAME:🇨🇦 Canada 七人制橄榄球 | Paris 2024
+NAME:🇨🇦 Canada 七人制橄榄球 | Paris 2024
 BEGIN:VEVENT
-UID:20240728T153000Z-rugby-sevens-WOMENS-POOL-A-FIJ-CAN
+UID:20240728T153000Z-rugby-sevens-A-FIJ-CAN
 DTSTAMP:20240728T153000Z
 DTSTART:20240728T153000Z
 DTEND:20240728T154600Z
-DESCRIPTION:Rugby Sevens - Women's Pool A
-SUMMARY:🏉 FIJ 🇫🇯 - 🇨🇦 CAN
-LOCATION:Stade de France
+DESCRIPTION:七人制橄榄球 - 女子分组循环赛A组
+SUMMARY:🏉 斐济 🇫🇯 - 🇨🇦 加拿大
+LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T193000Z-rugby-sevens-WOMENS-POOL-A-NZL-CAN
+UID:20240728T193000Z-rugby-sevens-A-NZL-CAN
 DTSTAMP:20240728T193000Z
 DTSTART:20240728T193000Z
 DTEND:20240728T194600Z
-DESCRIPTION:Rugby Sevens - Women's Pool A
-SUMMARY:🏉 NZL 🇳🇿 - 🇨🇦 CAN
-LOCATION:Stade de France
+DESCRIPTION:七人制橄榄球 - 女子分组循环赛A组
+SUMMARY:🏉 新西兰 🇳🇿 - 🇨🇦 加拿大
+LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T140000Z-rugby-sevens-WOMENS-POOL-A-CAN-CHN
+UID:20240729T140000Z-rugby-sevens-A-CAN-CHN
 DTSTAMP:20240729T140000Z
 DTSTART:20240729T140000Z
 DTEND:20240729T141600Z
-DESCRIPTION:Rugby Sevens - Women's Pool A
-SUMMARY:🏉 CAN 🇨🇦 - 🇨🇳 CHN
-LOCATION:Stade de France
+DESCRIPTION:七人制橄榄球 - 女子分组循环赛A组
+SUMMARY:🏉 加拿大 🇨🇦 - 🇨🇳 中国
+LOCATION:法兰西体育场
 END:VEVENT
 END:VCALENDAR

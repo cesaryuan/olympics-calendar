@@ -1,33 +1,33 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//boxing/DOM//EN
-X-WR-CALNAME:🇩🇴 Dominican Republic Boxing | Paris 2024
-NAME:🇩🇴 Dominican Republic Boxing | Paris 2024
+X-WR-CALNAME:🇩🇴 Dominican Republic 拳击 | Paris 2024
+NAME:🇩🇴 Dominican Republic 拳击 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T153800Z-boxing-MENS-80KG-PRELIMINARIES-ROUND-OF-32-THA-DOM
+UID:20240727T153800Z-boxing-80-32-THA-DOM
 DTSTAMP:20240727T153800Z
 DTSTART:20240727T153800Z
 DTEND:20240727T154900Z
-DESCRIPTION:Boxing - Men's 80kg - Preliminaries - Round of 32
+DESCRIPTION:拳击 - 男子80公斤级 - 预赛 - 32强赛
 SUMMARY:🥊 Weerapon JONGJOHO 🇹🇭 - 🇩🇴 Cristian Javier PINALES
-LOCATION:North Paris Arena
+LOCATION:北巴黎竞技场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T193600Z-boxing-WOMENS-66KG-PRELIMINARIES-ROUND-OF-32-DOM-TPE
+UID:20240728T193600Z-boxing-66-32-DOM-TPE
 DTSTAMP:20240728T193600Z
 DTSTART:20240728T193600Z
 DTEND:20240728T194700Z
-DESCRIPTION:Boxing - Women's 66kg - Preliminaries - Round of 32
+DESCRIPTION:拳击 - 女子66公斤级 - 预赛 - 32强赛
 SUMMARY:🥊 Maria Altagracia MORONTA HERNANDEZ 🇩🇴 - 🇹🇼 CHEN Nien Chin
-LOCATION:North Paris Arena
+LOCATION:北巴黎竞技场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T133000Z-boxing-MENS-51KG-PRELIMINARIES-ROUND-OF-16-AZE-DOM
+UID:20240730T133000Z-boxing-51-16-AZE-DOM
 DTSTAMP:20240730T133000Z
 DTSTART:20240730T133000Z
 DTEND:20240730T134100Z
-DESCRIPTION:Boxing - Men's 51kg - Preliminaries - Round of 16
+DESCRIPTION:拳击 - 男子51公斤级 - 预赛 - 16强赛
 SUMMARY:🥊 Nijat HUSEYNOV 🇦🇿 - 🇩🇴 Yunior ALCANTARA REYES
-LOCATION:North Paris Arena
+LOCATION:北巴黎竞技场
 END:VEVENT
 END:VCALENDAR

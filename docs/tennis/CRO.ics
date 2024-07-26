@@ -1,24 +1,24 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//tennis/CRO//EN
-X-WR-CALNAME:🇭🇷 Croatia Tennis | Paris 2024
-NAME:🇭🇷 Croatia Tennis | Paris 2024
+X-WR-CALNAME:🇭🇷 Croatia 网球 | Paris 2024
+NAME:🇭🇷 Croatia 网球 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T100000Z-tennis-MENS-DOUBLES-FIRST-ROUND-GER-CRO
+UID:20240727T100000Z-tennis-1-CRO-ESP
 DTSTAMP:20240727T100000Z
 DTSTART:20240727T100000Z
 DTEND:20240727T113000Z
-DESCRIPTION:Tennis - Men's Doubles First Round
-SUMMARY:🎾 KOEPFER/STRUFF 🇩🇪 - 🇭🇷 MEKTIC/PAVIC
-LOCATION:Roland-Garros Stadium
+DESCRIPTION:网球 - 女子单打第1轮
+SUMMARY:🎾 Petra MARTIC 🇭🇷 - 🇪🇸 Cristina BUCSA
+LOCATION:罗兰·加洛斯体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T100000Z-tennis-WOMENS-SINGLES-FIRST-ROUND-CRO-ESP
+UID:20240727T100000Z-tennis-1-GER-CRO
 DTSTAMP:20240727T100000Z
 DTSTART:20240727T100000Z
 DTEND:20240727T113000Z
-DESCRIPTION:Tennis - Women's Singles First Round
-SUMMARY:🎾 Petra MARTIC 🇭🇷 - 🇪🇸 Cristina BUCSA
-LOCATION:Roland-Garros Stadium
+DESCRIPTION:网球 - 男子双打第1轮
+SUMMARY:🎾 KOEPFER/STRUFF 🇩🇪 - 🇭🇷 MEKTIC/PAVIC
+LOCATION:罗兰·加洛斯体育场
 END:VEVENT
 END:VCALENDAR

@@ -4,43 +4,42 @@ PRODID:-//fabrice404//olympics-calendar//general/DEN//EN
 X-WR-CALNAME:🇩🇰 Denmark | Paris 2024
 NAME:🇩🇰 Denmark | Paris 2024
 BEGIN:VEVENT
-UID:20240725T070000Z-handball-WOMENS-PRELIMINARY-ROUND-GROUP-A-SLO-DEN
+UID:20240725T070000Z-handball-A-SLO-DEN
 DTSTAMP:20240725T070000Z
 DTSTART:20240725T070000Z
 DTEND:20240725T083000Z
-DESCRIPTION:Handball - Women's Preliminary Round Group A
-SUMMARY:🤾 SLO 🇸🇮 - 🇩🇰 DEN
-LOCATION:South Paris Arena 6
+DESCRIPTION:手球 - 女子预赛A组
+SUMMARY:🤾 斯洛文尼亚 🇸🇮 - 🇩🇰 丹麦
+LOCATION:南巴黎竞技场6号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240725T073000Z-archery-WOMENS-INDIVIDUAL-RANKING-ROUND
+UID:20240725T073000Z-archery-
 DTSTAMP:20240725T073000Z
 DTSTART:20240725T073000Z
 DTEND:20240725T103000Z
-DESCRIPTION:Archery - Women's Individual Ranking Round\n🇨🇳 AN
-  Qixuan\n🇲🇽 Alejandra VALENCIA\n🇲🇩 Alexandra MIRCA\n🇵🇷 Alondra
-  RIVERA\n🇫🇷 Amelie CORDEAU\n🇧🇷 Ana Luiza SLIACHTICAS CAETANO\n🇨🇴 Ana
-  RENDON MARTINEZ\n🇲🇽 Ana VAZQUEZ\n🇲🇽 Angela RUIZ\n🇮🇳 Ankita
-  BHAKAT\n🇲🇾 Ariana Nur Dania MOHAMAD ZAIRI\n🇮🇳 Bhajan KAUR\n🇬🇧
-  Bryony PITMAN\n🇹🇼 CHIU Yi-Ching\n🇫🇷 Caroline LOPEZ\n🇺🇸 Casey
-  KAUFHOLD\n🇺🇸 Catalina GNORIEGA\n🇩🇪 Charline SCHWARZ\n🇮🇹 Chiara
-  REBAGLIATI\n🇮🇳 Deepika KUMARI\n🇸🇰 Denisa BARANKOVA\n🇮🇩 Diananda
-  CHOIRUNISA\n🇪🇸 Elia CANALES\n🇹🇷 Elif Berra GOKKIR\n🇦🇹 Elisabeth
-  STRAKA\n🇬🇳 Fatoumata SYLLA\n🇳🇱 Gaby SCHLOESSER\n🇸🇲 Giorgia
-  CESARINI\n🇰🇷 JEON Hunyoung\n🇪🇬 Jana ALI\n🇺🇸 Jennifer MUCINO\n🇩🇪
-  Katharina BAUER\n🇩🇰 Kirstine DANSTRUP ANDERSEN\n🇹🇼 LEI
-  Chien-Ying\n🇨🇳 LI Jiaman\n🇹🇼 LI Tsai-Chi\n🇰🇷 LIM Sihyeon\n🇦🇺
-  Laura PAEGLIS\n🇳🇱 Laura van der WINKEL\n🇫🇷 Lisa BARBELIN\n🇷🇴
-  Madalina AMAISTROAIE\n🇨🇿 Marie HORACKOVA\n🇬🇧 Megs HAVERS\n🇩🇪
-  Michelle KROPPEN\n🇮🇱 Mikaella MOSHE\n🇮🇷 Mobina FALLAH\n🇰🇷 NAM
-  Suhyeon\n🇯🇵 NODA Satsuki\n🇲🇾 Nurul Azreena MOHAMAD FAZIL\n🇬🇧 Penny
-  HEALEY\n🇳🇱 Quinty ROEFFEN\n🇪🇪 Reena PARNAT\n🇮🇩 Rezza OCTAVIA\n🇹🇳
-  Rihab ELWALID\n🇲🇾 Syaqiera MASHAYIKH\n🇮🇩 Syifa Nurafifah KAMAL\n🇻🇳
-  Thi Anh Nguyet DO\n🇺🇦 Veronika MARCHENKO\n🇨🇦 Virginie CHENIER\n🇵🇱
-  Wioleta MYSZOR\n🇨🇳 YANG Xiaolei\n🇦🇿 Yaylagul RAMAZANOVA\n🇸🇮 Zana
-  PINTARIC\n🇺🇿 Ziyodakhon ABDUSATTOROVA
-SUMMARY:🏹 Women's Individual Ranking Round
-LOCATION:Invalides
+DESCRIPTION:射箭 - 女子个人排名赛\n🇨🇳 AN Qixuan\n🇲🇽 Alejandra VALENCIA\n🇲🇩
+  Alexandra MIRCA\n🇵🇷 Alondra RIVERA\n🇫🇷 Amelie CORDEAU\n🇧🇷 Ana Luiza
+  SLIACHTICAS CAETANO\n🇨🇴 Ana RENDON MARTINEZ\n🇲🇽 Ana VAZQUEZ\n🇲🇽
+  Angela RUIZ\n🇮🇳 Ankita BHAKAT\n🇲🇾 Ariana Nur Dania MOHAMAD
+  ZAIRI\n🇮🇳 Bhajan KAUR\n🇬🇧 Bryony PITMAN\n🇹🇼 CHIU Yi-Ching\n🇫🇷
+  Caroline LOPEZ\n🇺🇸 Casey KAUFHOLD\n🇺🇸 Catalina GNORIEGA\n🇩🇪
+  Charline SCHWARZ\n🇮🇹 Chiara REBAGLIATI\n🇮🇳 Deepika KUMARI\n🇸🇰
+  Denisa BARANKOVA\n🇮🇩 Diananda CHOIRUNISA\n🇪🇸 Elia CANALES\n🇹🇷 Elif
+  Berra GOKKIR\n🇦🇹 Elisabeth STRAKA\n🇬🇳 Fatoumata SYLLA\n🇳🇱 Gaby
+  SCHLOESSER\n🇸🇲 Giorgia CESARINI\n🇰🇷 JEON Hunyoung\n🇪🇬 Jana
+  ALI\n🇺🇸 Jennifer MUCINO\n🇩🇪 Katharina BAUER\n🇩🇰 Kirstine DANSTRUP
+  ANDERSEN\n🇹🇼 LEI Chien-Ying\n🇨🇳 LI Jiaman\n🇹🇼 LI Tsai-Chi\n🇰🇷 LIM
+  Sihyeon\n🇦🇺 Laura PAEGLIS\n🇳🇱 Laura van der WINKEL\n🇫🇷 Lisa
+  BARBELIN\n🇷🇴 Madalina AMAISTROAIE\n🇨🇿 Marie HORACKOVA\n🇬🇧 Megs
+  HAVERS\n🇩🇪 Michelle KROPPEN\n🇮🇱 Mikaella MOSHE\n🇮🇷 Mobina
+  FALLAH\n🇰🇷 NAM Suhyeon\n🇯🇵 NODA Satsuki\n🇲🇾 Nurul Azreena MOHAMAD
+  FAZIL\n🇬🇧 Penny HEALEY\n🇳🇱 Quinty ROEFFEN\n🇪🇪 Reena PARNAT\n🇮🇩
+  Rezza OCTAVIA\n🇹🇳 Rihab ELWALID\n🇲🇾 Syaqiera MASHAYIKH\n🇮🇩 Syifa
+  Nurafifah KAMAL\n🇻🇳 Thi Anh Nguyet DO\n🇺🇦 Veronika MARCHENKO\n🇨🇦
+  Virginie CHENIER\n🇵🇱 Wioleta MYSZOR\n🇨🇳 YANG Xiaolei\n🇦🇿 Yaylagul
+  RAMAZANOVA\n🇸🇮 Zana PINTARIC\n🇺🇿 Ziyodakhon ABDUSATTOROVA
+SUMMARY:🏹 女子个人排名赛
+LOCATION:荣军院
 END:VEVENT
 BEGIN:VEVENT
 UID:20240726T173000Z-opening-ceremony
@@ -52,314 +51,311 @@ SUMMARY:Paris 2024 - Opening ceremony
 Location:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T100000Z-tennis-WOMENS-SINGLES-FIRST-ROUND-CAN-DEN
+UID:20240727T100000Z-tennis-1-CAN-DEN
 DTSTAMP:20240727T100000Z
 DTSTART:20240727T100000Z
 DTEND:20240727T130000Z
-DESCRIPTION:Tennis - Women's Singles First Round
+DESCRIPTION:网球 - 女子单打第1轮
 SUMMARY:🎾 Bianca ANDREESCU 🇨🇦 - 🇩🇰 Clara TAUSON
-LOCATION:Roland-Garros Stadium
+LOCATION:罗兰·加洛斯体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T123000Z-cycling-road-WOMENS-INDIVIDUAL-TIME-TRIAL
+UID:20240727T123000Z-cycling-road-
 DTSTAMP:20240727T123000Z
 DTSTART:20240727T123000Z
 DTEND:20240727T135900Z
-DESCRIPTION:Cycling Road - Women's Individual Time Trial\n🇵🇱 Agnieszka
-  SKALNIAK-SOJKA\n🇬🇧 Anna HENDERSON\n🇦🇹 Anna KIESENHOFER\n🇫🇮 Anniina
-  AHTOSALO\n🇩🇪 Antonia NIEDERMAIER\n🇫🇷 Audrey CORDON RAGOT\n🇩🇰
-  Cecilie Uttrup LUDWIG\n🇺🇸 Chloe DYGERT\n🇦🇹 Christina
-  SCHWEINBERGER\n🇳🇱 Demi VOLLERING\n🇷🇼 Diane INGABIRE\n🇨🇭 Elena
-  HARTMANN\n🇮🇹 Elisa LONGO BORGHINI\n🇳🇱 Ellen van DIJK\n🇩🇰 Emma
-  Norsgaard BJERG\n🇸🇮 Eugenia BUJAK\n🇦🇺 Grace BROWN\n🇨🇿 Julia
-  KOPECKY\n🇫🇷 Juliette LABOUS\n🇳🇿 Kim CADZOW\n🇧🇪 Lotte KOPECKY\n🇵🇱
-  Marta LACH\n🇩🇪 Mieke KROEGER\n🇪🇸 Mireia BENITO PELLICER\n🇸🇰 Nora
-  JENCUSOVA\n🇺🇿 Olga ZABELINSKAYA\n🇨🇦 Olivia BARIL\n🇹🇭 Phetdarin
-  SOMRAT\n🇨🇳 TANG Xin\n🇺🇸 Taylor KNIBB\n🇸🇮 Urska PINTAR\n🇦🇫 Yulduz
-  HASHIMI\n🇺🇦 Yuliia BIRIUKOVA
-SUMMARY:🚴 Women's Individual Time Trial
-LOCATION:Pont Alexandre III
+DESCRIPTION:公路自行车 - 女子个人计时赛\n🇵🇱 Agnieszka SKALNIAK-SOJKA\n🇬🇧 Anna
+  HENDERSON\n🇦🇹 Anna KIESENHOFER\n🇫🇮 Anniina AHTOSALO\n🇩🇪 Antonia
+  NIEDERMAIER\n🇫🇷 Audrey CORDON RAGOT\n🇩🇰 Cecilie Uttrup LUDWIG\n🇺🇸
+  Chloe DYGERT\n🇦🇹 Christina SCHWEINBERGER\n🇳🇱 Demi VOLLERING\n🇷🇼
+  Diane INGABIRE\n🇨🇭 Elena HARTMANN\n🇮🇹 Elisa LONGO BORGHINI\n🇳🇱
+  Ellen van DIJK\n🇩🇰 Emma Norsgaard BJERG\n🇸🇮 Eugenia BUJAK\n🇦🇺 Grace
+  BROWN\n🇨🇿 Julia KOPECKY\n🇫🇷 Juliette LABOUS\n🇳🇿 Kim CADZOW\n🇧🇪
+  Lotte KOPECKY\n🇵🇱 Marta LACH\n🇩🇪 Mieke KROEGER\n🇪🇸 Mireia BENITO
+  PELLICER\n🇸🇰 Nora JENCUSOVA\n🇺🇿 Olga ZABELINSKAYA\n🇨🇦 Olivia
+  BARIL\n🇹🇭 Phetdarin SOMRAT\n🇨🇳 TANG Xin\n🇺🇸 Taylor KNIBB\n🇸🇮
+  Urska PINTAR\n🇦🇫 Yulduz HASHIMI\n🇺🇦 Yuliia BIRIUKOVA
+SUMMARY:🚴 女子个人计时赛
+LOCATION:亚历山大三世桥
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T143200Z-cycling-road-MENS-INDIVIDUAL-TIME-TRIAL
+UID:20240727T143200Z-cycling-road-
 DTSTAMP:20240727T143200Z
 DTSTART:20240727T143200Z
 DTEND:20240727T155700Z
-DESCRIPTION:Cycling Road - Men's Individual Time Trial\n🇲🇦 Achraf ED
-  DOGHMY\n🇮🇹 Alberto BETTIOL\n🏳️ Amir ANSARI\n🇭🇺 Attila VALTER\n🇪🇷
-  Biniam GIRMAY\n🇺🇸 Brandon McNULTY\n🇳🇱 Daan HOOLE\n🇨🇦 Derek
-  GEE\n🇦🇹 Felix GROSSSCHARTNER\n🇮🇹 Filippo GANNA\n🇲🇳 Jambaljamts
-  SAINBAYAR\n🇸🇮 Jan TRATNIK\n🇬🇧 Josh TARLING\n🇫🇷 Kevin
-  VAUQUELIN\n🇳🇿 Laurence PITHIE\n🇦🇺 Lucas PLAPP\n🇺🇸 Magnus
-  SHEFFIELD\n🇨🇿 Mathias VACEK\n🇩🇰 Mattias SKJELMOSE\n🇩🇪 Maximilian
-  SCHACHMANN\n🇵🇱 Michal KWIATKOWSKI\n🇩🇰 Mikkel Norsgaard BJERG\n🇵🇹
-  Nelson OLIVEIRA\n🇪🇸 Oier LAZKANO LOPEZ\n🇧🇪 Remco EVENEPOEL\n🇵🇹 Rui
-  COSTA\n🇮🇪 Ryan MULLEN\n🇳🇴 Soeren WAERENSKJOLD\n🇨🇭 Stefan
-  BISSEGGER\n🇨🇭 Stefan KUENG\n🇳🇴 Tobias FOSS\n🇧🇪 Wout van AERT\n🇰🇿
-  Yevgeniy FEDOROV
-SUMMARY:🚴 Men's Individual Time Trial
-LOCATION:Pont Alexandre III
+DESCRIPTION:公路自行车 - 男子个人计时赛\n🇲🇦 Achraf ED DOGHMY\n🇮🇹 Alberto
+  BETTIOL\n🏳️ Amir ANSARI\n🇭🇺 Attila VALTER\n🇪🇷 Biniam GIRMAY\n🇺🇸
+  Brandon McNULTY\n🇳🇱 Daan HOOLE\n🇨🇦 Derek GEE\n🇦🇹 Felix
+  GROSSSCHARTNER\n🇮🇹 Filippo GANNA\n🇲🇳 Jambaljamts SAINBAYAR\n🇸🇮 Jan
+  TRATNIK\n🇬🇧 Josh TARLING\n🇫🇷 Kevin VAUQUELIN\n🇳🇿 Laurence
+  PITHIE\n🇦🇺 Lucas PLAPP\n🇺🇸 Magnus SHEFFIELD\n🇨🇿 Mathias VACEK\n🇩🇰
+  Mattias SKJELMOSE\n🇩🇪 Maximilian SCHACHMANN\n🇵🇱 Michal
+  KWIATKOWSKI\n🇩🇰 Mikkel Norsgaard BJERG\n🇵🇹 Nelson OLIVEIRA\n🇪🇸 Oier
+  LAZKANO LOPEZ\n🇧🇪 Remco EVENEPOEL\n🇵🇹 Rui COSTA\n🇮🇪 Ryan
+  MULLEN\n🇳🇴 Soeren WAERENSKJOLD\n🇨🇭 Stefan BISSEGGER\n🇨🇭 Stefan
+  KUENG\n🇳🇴 Tobias FOSS\n🇧🇪 Wout van AERT\n🇰🇿 Yevgeniy FEDOROV
+SUMMARY:🚴 男子个人计时赛
+LOCATION:亚历山大三世桥
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T182000Z-badminton-WOMENS-DOUBLES-GROUP-PLAY-STAGE-GROUP-D-KOR-
+UID:20240727T182000Z-badminton--D-KOR-DEN
 DTSTAMP:20240727T182000Z
 DTSTART:20240727T182000Z
 DTEND:20240727T190000Z
-DESCRIPTION:Badminton - Women's Doubles Group Play Stage - Group D
+DESCRIPTION:羽毛球 - 女子双打小组赛 - D组
 SUMMARY:🏸 BAEK/LEE 🇰🇷 - 🇩🇰 FRUERGAARD/THYGESEN
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T184500Z-table-tennis-MENS-SINGLES-ROUND-OF-64-LUX-DEN
+UID:20240727T184500Z-table-tennis-64-LUX-DEN
 DTSTAMP:20240727T184500Z
 DTSTART:20240727T184500Z
 DTEND:20240727T193000Z
-DESCRIPTION:Table Tennis - Men's Singles Round of 64
+DESCRIPTION:乒乓球 - 男子单打64强赛
 SUMMARY:🏓 Luka MLADENOVIC 🇱🇺 - 🇩🇰 Jonathan GROTH
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T190000Z-handball-MENS-PRELIMINARY-ROUND-GROUP-B-DEN-FRA
+UID:20240727T190000Z-handball-B-DEN-FRA
 DTSTAMP:20240727T190000Z
 DTSTART:20240727T190000Z
 DTEND:20240727T203000Z
-DESCRIPTION:Handball - Men's Preliminary Round Group B
-SUMMARY:🤾 DEN 🇩🇰 - 🇫🇷 FRA
-LOCATION:South Paris Arena 6
+DESCRIPTION:手球 - 男子预赛B组
+SUMMARY:🤾 丹麦 🇩🇰 - 🇫🇷 法国
+LOCATION:南巴黎竞技场6号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T191000Z-badminton-MENS-SINGLES-GROUP-PLAY-STAGE-GROUP-P-DEN-NE
+UID:20240727T191000Z-badminton--P-DEN-NEP
 DTSTAMP:20240727T191000Z
 DTSTART:20240727T191000Z
 DTEND:20240727T195000Z
-DESCRIPTION:Badminton - Men's Singles Group Play Stage - Group P
+DESCRIPTION:羽毛球 - 男子单打小组赛 - P组
 SUMMARY:🏸 Viktor AXELSEN 🇩🇰 - 🇳🇵 Prince DAHAL
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T200000Z-badminton-MENS-DOUBLES-GROUP-PLAY-STAGE-GROUP-D-DEN-US
+UID:20240727T200000Z-badminton--D-DEN-USA
 DTSTAMP:20240727T200000Z
 DTSTART:20240727T200000Z
 DTEND:20240727T210000Z
-DESCRIPTION:Badminton - Men's Doubles Group Play Stage - Group D
+DESCRIPTION:羽毛球 - 男子双打小组赛 - D组
 SUMMARY:🏸 ASTRUP/RASMUSSEN 🇩🇰 - 🇺🇸 CHIU/YUAN
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T071500Z-shooting-10M-AIR-RIFLE-WOMENS-QUALIFICATION
+UID:20240728T071500Z-shooting-10
 DTSTAMP:20240728T071500Z
 DTSTART:20240728T071500Z
 DTEND:20240728T083000Z
-DESCRIPTION:Shooting - 10m Air Rifle Women's Qualification\n🇰🇿 Alexandra
-  Le\n🇲🇰 Anastasija MOJSOVSKA\n🇵🇱 Aneta STANKIEWICZ\n🇩🇪 Anna
-  JANSSEN\n🇰🇿 Arina ALTUKHOVA\n🇨🇭 Audrey GOGNIAT\n🇰🇷 BAN Hyojin\n🇮🇹
-  Barbara GAMBARO\n🇮🇳 Elavenil VALARIVAN\n🇭🇺 Eszter MESZAROS\n🇮🇷
-  Fatemeh AMINI POZVEH\n🇦🇷 Fernanda RUSSO\n🇧🇷 Geovana MEYER\n🇲🇽
-  Goretti Alejandra ZUMAYA FLORES\n🇨🇳 HAN Jiayu\n🇨🇳 HUANG Yuting\n🇩🇿
-  Houda CHAABI\n🇳🇴 Jeanette Hegg DUESTAD\n🇵🇱 Julia Ewa PIOTROWSKA\n🇰🇷
-  KEUM Jihyeon\n🇩🇪 Lisa MUELLER\n🇨🇺 Lisbet HERNANDEZ HERNANDEZ\n🏳️
-  Luna SOLOMON\n🇪🇬 Mai Magdy ELSAYED ABUQARN\n🇫🇷 Manon HERBULOT\n🇳🇮
-  Mariel Jose LOPEZ PAVON\n🇺🇸 Mary Carolynn TUCKER\n🇯🇵 NOBATA
-  Misaki\n🇦🇹 Nadine UNGERANK\n🇨🇭 Nina CHRISTEN\n🇫🇷 Oceanne
-  MULLER\n🇮🇳 Ramita RAMITA\n🇪🇬 Remas KHALIL\n🇩🇰 Rikke Maeng
-  IBSEN\n🇺🇸 Sagen MADDALENA\n🇬🇧 Seonaid McINTOSH\n🇮🇷 Shermineh CHEHEL
-  AMIRANI\n🇩🇰 Stephanie Laura Scurrah GRUNDSOEE\n🇳🇵 Sushmita
-  NEPAL\n🇳🇴 Synnoeve BERG\n🇻🇳 Thi Mong Tuyen Le\n🇨🇿 Veronika
-  BLAZICKOVA\n🇵🇷 Yarimar MERCADO MARTINEZ\n🇲🇳 Yesugen OYUNBAT
-SUMMARY:🔫 10m Air Rifle Women's Qualification
-LOCATION:Chateauroux Shooting Ctr
+DESCRIPTION:射击 - 女子10米气步枪资格赛\n🇰🇿 Alexandra Le\n🇲🇰 Anastasija
+  MOJSOVSKA\n🇵🇱 Aneta STANKIEWICZ\n🇩🇪 Anna JANSSEN\n🇰🇿 Arina
+  ALTUKHOVA\n🇨🇭 Audrey GOGNIAT\n🇰🇷 BAN Hyojin\n🇮🇹 Barbara
+  GAMBARO\n🇮🇳 Elavenil VALARIVAN\n🇭🇺 Eszter MESZAROS\n🇮🇷 Fatemeh
+  AMINI POZVEH\n🇦🇷 Fernanda RUSSO\n🇧🇷 Geovana MEYER\n🇲🇽 Goretti
+  Alejandra ZUMAYA FLORES\n🇨🇳 HAN Jiayu\n🇨🇳 HUANG Yuting\n🇩🇿 Houda
+  CHAABI\n🇳🇴 Jeanette Hegg DUESTAD\n🇵🇱 Julia Ewa PIOTROWSKA\n🇰🇷 KEUM
+  Jihyeon\n🇩🇪 Lisa MUELLER\n🇨🇺 Lisbet HERNANDEZ HERNANDEZ\n🏳️ Luna
+  SOLOMON\n🇪🇬 Mai Magdy ELSAYED ABUQARN\n🇫🇷 Manon HERBULOT\n🇳🇮 Mariel
+  Jose LOPEZ PAVON\n🇺🇸 Mary Carolynn TUCKER\n🇯🇵 NOBATA Misaki\n🇦🇹
+  Nadine UNGERANK\n🇨🇭 Nina CHRISTEN\n🇫🇷 Oceanne MULLER\n🇮🇳 Ramita
+  RAMITA\n🇪🇬 Remas KHALIL\n🇩🇰 Rikke Maeng IBSEN\n🇺🇸 Sagen
+  MADDALENA\n🇬🇧 Seonaid McINTOSH\n🇮🇷 Shermineh CHEHEL AMIRANI\n🇩🇰
+  Stephanie Laura Scurrah GRUNDSOEE\n🇳🇵 Sushmita NEPAL\n🇳🇴 Synnoeve
+  BERG\n🇻🇳 Thi Mong Tuyen Le\n🇨🇿 Veronika BLAZICKOVA\n🇵🇷 Yarimar
+  MERCADO MARTINEZ\n🇲🇳 Yesugen OYUNBAT
+SUMMARY:🔫 女子10米气步枪资格赛
+LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T140000Z-handball-WOMENS-PRELIMINARY-ROUND-GROUP-A-DEN-NOR
+UID:20240728T140000Z-handball-A-DEN-NOR
 DTSTAMP:20240728T140000Z
 DTSTART:20240728T140000Z
 DTEND:20240728T153000Z
-DESCRIPTION:Handball - Women's Preliminary Round Group A
-SUMMARY:🤾 DEN 🇩🇰 - 🇳🇴 NOR
-LOCATION:South Paris Arena 6
+DESCRIPTION:手球 - 女子预赛A组
+SUMMARY:🤾 丹麦 🇩🇰 - 🇳🇴 挪威
+LOCATION:南巴黎竞技场6号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T173000Z-badminton-MENS-SINGLES-GROUP-PLAY-STAGE-GROUP-E-DEN-AU
+UID:20240728T173000Z-badminton--E-DEN-AUT
 DTSTAMP:20240728T173000Z
 DTSTART:20240728T173000Z
 DTEND:20240728T181000Z
-DESCRIPTION:Badminton - Men's Singles Group Play Stage - Group E
+DESCRIPTION:羽毛球 - 男子单打小组赛 - E组
 SUMMARY:🏸 Anders ANTONSEN 🇩🇰 - 🇦🇹 Collins Valentine FILIMON
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T182000Z-badminton-MENS-DOUBLES-GROUP-PLAY-STAGE-GROUP-D-DEN-TP
+UID:20240728T182000Z-badminton--D-DEN-TPE
 DTSTAMP:20240728T182000Z
 DTSTART:20240728T182000Z
 DTEND:20240728T190000Z
-DESCRIPTION:Badminton - Men's Doubles Group Play Stage - Group D
+DESCRIPTION:羽毛球 - 男子双打小组赛 - D组
 SUMMARY:🏸 ASTRUP/RASMUSSEN 🇩🇰 - 🇹🇼 LEE/WANG
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T110000Z-table-tennis-MENS-SINGLES-ROUND-OF-64-DEN-POR
+UID:20240729T110000Z-table-tennis-64-DEN-POR
 DTSTAMP:20240729T110000Z
 DTSTART:20240729T110000Z
 DTEND:20240729T120000Z
-DESCRIPTION:Table Tennis - Men's Singles Round of 64
+DESCRIPTION:乒乓球 - 男子单打64强赛
 SUMMARY:🏓 Anders LIND 🇩🇰 - 🇵🇹 Marcos FREITAS
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T120000Z-handball-MENS-PRELIMINARY-ROUND-GROUP-B-EGY-DEN
+UID:20240729T120000Z-handball-B-EGY-DEN
 DTSTAMP:20240729T120000Z
 DTSTART:20240729T120000Z
 DTEND:20240729T133000Z
-DESCRIPTION:Handball - Men's Preliminary Round Group B
-SUMMARY:🤾 EGY 🇪🇬 - 🇩🇰 DEN
-LOCATION:South Paris Arena 6
+DESCRIPTION:手球 - 男子预赛B组
+SUMMARY:🤾 埃及 🇪🇬 - 🇩🇰 丹麦
+LOCATION:南巴黎竞技场6号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T134000Z-badminton-MENS-DOUBLES-GROUP-PLAY-STAGE-GROUP-D-DEN-CH
+UID:20240729T134000Z-badminton--D-DEN-CHN
 DTSTAMP:20240729T134000Z
 DTSTART:20240729T134000Z
 DTEND:20240729T153000Z
-DESCRIPTION:Badminton - Men's Doubles Group Play Stage - Group D
+DESCRIPTION:羽毛球 - 男子双打小组赛 - D组
 SUMMARY:🏸 ASTRUP/RASMUSSEN 🇩🇰 - 🇨🇳 LIU/OU
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T173000Z-badminton-WOMENS-DOUBLES-GROUP-PLAY-STAGE-GROUP-D-THA-
+UID:20240729T173000Z-badminton--D-THA-DEN
 DTSTAMP:20240729T173000Z
 DTSTART:20240729T173000Z
 DTEND:20240729T181000Z
-DESCRIPTION:Badminton - Women's Doubles Group Play Stage - Group D
+DESCRIPTION:羽毛球 - 女子双打小组赛 - D组
 SUMMARY:🏸 KITITHARAK/PRAJONGJAI 🇹🇭 - 🇩🇰 FRUERGAARD/THYGESEN
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T200000Z-badminton-MENS-SINGLES-GROUP-PLAY-STAGE-GROUP-P-DEN-IS
+UID:20240729T200000Z-badminton--P-DEN-ISR
 DTSTAMP:20240729T200000Z
 DTSTART:20240729T200000Z
 DTEND:20240729T210000Z
-DESCRIPTION:Badminton - Men's Singles Group Play Stage - Group P
+DESCRIPTION:羽毛球 - 男子单打小组赛 - P组
 SUMMARY:🏸 Viktor AXELSEN 🇩🇰 - 🇮🇱 Misha ZILBERMAN
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T190000Z-handball-WOMENS-PRELIMINARY-ROUND-GROUP-A-SWE-DEN
+UID:20240730T190000Z-handball-A-SWE-DEN
 DTSTAMP:20240730T190000Z
 DTSTART:20240730T190000Z
 DTEND:20240730T203000Z
-DESCRIPTION:Handball - Women's Preliminary Round Group A
-SUMMARY:🤾 SWE 🇸🇪 - 🇩🇰 DEN
-LOCATION:South Paris Arena 6
+DESCRIPTION:手球 - 女子预赛A组
+SUMMARY:🤾 瑞典 🇸🇪 - 🇩🇰 丹麦
+LOCATION:南巴黎竞技场6号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T081200Z-judo-WOMEN-70-KG-ELIMINATION-ROUND-OF-32-BIH-DEN
+UID:20240731T081200Z-judo-7032-BIH-DEN
 DTSTAMP:20240731T081200Z
 DTSTART:20240731T081200Z
 DTEND:20240731T081800Z
-DESCRIPTION:Judo - Women -70 kg Elimination Round of 32
+DESCRIPTION:柔道 - 女子70公斤级32强淘汰赛
 SUMMARY:🥋 Aleksandra SAMARDZIC 🇧🇦 - 🇩🇰 Laerke OLSEN
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T143400Z-boxing-MENS-71KG-PRELIMINARIES-ROUND-OF-16
+UID:20240731T143400Z-boxing-71-16
 DTSTAMP:20240731T143400Z
 DTSTART:20240731T143400Z
 DTEND:20240731T144500Z
-DESCRIPTION:Boxing - Men's 71kg - Preliminaries - Round of 16\n🇩🇰 Nikolai
-  TERTERYAN
-SUMMARY:🥊 Men's 71kg - Preliminaries - Round of 16
-LOCATION:North Paris Arena
+DESCRIPTION:拳击 - 男子71公斤级 - 预赛 - 16强赛\n🇩🇰 Nikolai TERTERYAN
+SUMMARY:🥊 男子71公斤级 - 预赛 - 16强赛
+LOCATION:北巴黎竞技场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T190000Z-handball-MENS-PRELIMINARY-ROUND-GROUP-B-DEN-ARG
+UID:20240731T190000Z-handball-B-DEN-ARG
 DTSTAMP:20240731T190000Z
 DTSTART:20240731T190000Z
 DTEND:20240731T203000Z
-DESCRIPTION:Handball - Men's Preliminary Round Group B
-SUMMARY:🤾 DEN 🇩🇰 - 🇦🇷 ARG
-LOCATION:South Paris Arena 6
+DESCRIPTION:手球 - 男子预赛B组
+SUMMARY:🤾 丹麦 🇩🇰 - 🇦🇷 阿根廷
+LOCATION:南巴黎竞技场6号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T075600Z-archery-WOMENS-INDIVIDUAL-132-ELIMINATION-ROUND-CHN-DE
+UID:20240801T075600Z-archery-132-CHN-DEN
 DTSTAMP:20240801T075600Z
 DTSTART:20240801T075600Z
 DTEND:20240801T080900Z
-DESCRIPTION:Archery - Women's Individual 1/32 Elimination Round
+DESCRIPTION:射箭 - 女子个人1/32淘汰赛
 SUMMARY:🏹 LI Jiaman 🇨🇳 - 🇩🇰 Kirstine DANSTRUP ANDERSEN
-LOCATION:Invalides
+LOCATION:荣军院
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T100000Z-shooting-50M-RIFLE-3-POSITIONS-WOMENS-QUALIFICATION
+UID:20240801T100000Z-shooting-50
 DTSTAMP:20240801T100000Z
 DTSTART:20240801T100000Z
 DTEND:20240801T113000Z
-DESCRIPTION:Shooting - 50m Rifle 3 Positions Women's Qualification\n🇵🇱
-  Aleksandra Anna PIETRUK\n🇰🇿 Alexandra Le\n🇮🇳 Anjum MOUDGIL\n🇩🇪 Anna
-  JANSSEN\n🇰🇿 Arina ALTUKHOVA\n🇮🇹 Barbara GAMBARO\n🇨🇭 Chiara
-  LEONE\n🇭🇺 Eszter MESZAROS\n🇧🇷 Geovana MEYER\n🇨🇳 HAN Jiayu\n🇰🇷 IM
-  Hana\n🇳🇴 Jeanette Hegg DUESTAD\n🇳🇴 Jenny STENE\n🇩🇪 Jolyn BEER\n🇫🇷
-  Judith GOMEZ\n🇰🇷 LEE Eunseo\n🇨🇺 Lisbet HERNANDEZ HERNANDEZ\n🇺🇸 Mary
-  Carolynn TUCKER\n🇦🇹 Nadine UNGERANK\n🇵🇱 Natalia KOCHANSKA\n🇨🇭 Nina
-  CHRISTEN\n🇩🇰 Rikke Maeng IBSEN\n🇺🇸 Sagen MADDALENA\n🇬🇧 Seonaid
-  McINTOSH\n🇨🇦 Shannon WESTLAKE\n🇮🇳 Sift Kaur SAMRA\n🇩🇰 Stephanie
-  Laura Scurrah GRUNDSOEE\n🇨🇿 Veronika BLAZICKOVA\n🇵🇷 Yarimar MERCADO
-  MARTINEZ\n🇲🇳 Yesugen OYUNBAT\n🇨🇳 ZHANG Qiongyue
-SUMMARY:🔫 50m Rifle 3 Positions Women's Qualification
-LOCATION:Chateauroux Shooting Ctr
+DESCRIPTION:射击 - 女子50米步枪三姿资格赛\n🇵🇱 Aleksandra Anna PIETRUK\n🇰🇿 Alexandra
+  Le\n🇮🇳 Anjum MOUDGIL\n🇩🇪 Anna JANSSEN\n🇰🇿 Arina ALTUKHOVA\n🇮🇹
+  Barbara GAMBARO\n🇨🇭 Chiara LEONE\n🇭🇺 Eszter MESZAROS\n🇧🇷 Geovana
+  MEYER\n🇨🇳 HAN Jiayu\n🇰🇷 IM Hana\n🇳🇴 Jeanette Hegg DUESTAD\n🇳🇴
+  Jenny STENE\n🇩🇪 Jolyn BEER\n🇫🇷 Judith GOMEZ\n🇰🇷 LEE Eunseo\n🇨🇺
+  Lisbet HERNANDEZ HERNANDEZ\n🇺🇸 Mary Carolynn TUCKER\n🇦🇹 Nadine
+  UNGERANK\n🇵🇱 Natalia KOCHANSKA\n🇨🇭 Nina CHRISTEN\n🇩🇰 Rikke Maeng
+  IBSEN\n🇺🇸 Sagen MADDALENA\n🇬🇧 Seonaid McINTOSH\n🇨🇦 Shannon
+  WESTLAKE\n🇮🇳 Sift Kaur SAMRA\n🇩🇰 Stephanie Laura Scurrah
+  GRUNDSOEE\n🇨🇿 Veronika BLAZICKOVA\n🇵🇷 Yarimar MERCADO MARTINEZ\n🇲🇳
+  Yesugen OYUNBAT\n🇨🇳 ZHANG Qiongyue
+SUMMARY:🔫 女子50米步枪三姿资格赛
+LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T170000Z-handball-WOMENS-PRELIMINARY-ROUND-GROUP-A-GER-DEN
+UID:20240801T170000Z-handball-A-GER-DEN
 DTSTAMP:20240801T170000Z
 DTSTART:20240801T170000Z
 DTEND:20240801T183000Z
-DESCRIPTION:Handball - Women's Preliminary Round Group A
-SUMMARY:🤾 GER 🇩🇪 - 🇩🇰 DEN
-LOCATION:South Paris Arena 6
+DESCRIPTION:手球 - 女子预赛A组
+SUMMARY:🤾 德国 🇩🇪 - 🇩🇰 丹麦
+LOCATION:南巴黎竞技场6号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T070000Z-handball-MENS-PRELIMINARY-ROUND-GROUP-B-HUN-DEN
+UID:20240802T070000Z-handball-B-HUN-DEN
 DTSTAMP:20240802T070000Z
 DTSTART:20240802T070000Z
 DTEND:20240802T083000Z
-DESCRIPTION:Handball - Men's Preliminary Round Group B
-SUMMARY:🤾 HUN 🇭🇺 - 🇩🇰 DEN
-LOCATION:South Paris Arena 6
+DESCRIPTION:手球 - 男子预赛B组
+SUMMARY:🤾 匈牙利 🇭🇺 - 🇩🇰 丹麦
+LOCATION:南巴黎竞技场6号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T070000Z-shooting-SKEET-MENS-QUALIFICATION-DAY-1
+UID:20240802T070000Z-shooting--1
 DTSTAMP:20240802T070000Z
 DTSTART:20240802T070000Z
 DTEND:20240802T120000Z
-DESCRIPTION:Shooting - Skeet Men's Qualification - Day 1\n🇮🇳 Anant Jeet
-  Singh NARUKA\n🇪🇬 Azmy MEHELBA\n🇬🇷 Charalambos CHALKIADAKIS\n🇺🇸
-  Conner Lynn PRINCE\n🇰🇿 Eduard YECHSHENKO\n🇫🇮 Eetu KALLIOINEN\n🇬🇷
-  Efthimios MITAS\n🇫🇷 Eric DELAUNAY\n🇳🇴 Erik WATNDAL\n🇦🇷 Federico
-  GIL\n🇮🇹 Gabriele ROSSETTI\n🇮🇸 Hakon SVAVARSSON\n🇨🇿 Jakub
-  TOMECEK\n🇩🇰 Jesper HANSEN\n🇵🇸 Jorge Antonio SALHE\n🇦🇺 Joshua
-  BELL\n🇰🇷 KIM Minsu\n🇹🇼 LEE Meng Yuan\n🇨🇳 LYU Jianlin\n🇸🇪 Marcus
-  SVENSSON\n🇰🇼 Mohammad ALDAIHANI\n🇵🇪 Nicolas PACHECO ESPINOSA\n🇪🇬
-  Omar IBRAHIM\n🇪🇪 Peeter JUERISSON\n🇶🇦 Rashid Saleh AL-ATHBA\n🇬🇹
-  Sebastian BERMUDEZ LABBE\n🇸🇪 Stefan NILSSON\n🇩🇪 Sven KORTE\n🇮🇹
-  Tammaro CASSANDRO\n🇺🇸 Vincent HANCOCK
-SUMMARY:🔫 Skeet Men's Qualification - Day 1
-LOCATION:Chateauroux Shooting Ctr
+DESCRIPTION:射击 - 男子双向飞碟资格赛 - 第1天\n🇮🇳 Anant Jeet Singh NARUKA\n🇪🇬 Azmy
+  MEHELBA\n🇬🇷 Charalambos CHALKIADAKIS\n🇺🇸 Conner Lynn PRINCE\n🇰🇿
+  Eduard YECHSHENKO\n🇫🇮 Eetu KALLIOINEN\n🇬🇷 Efthimios MITAS\n🇫🇷 Eric
+  DELAUNAY\n🇳🇴 Erik WATNDAL\n🇦🇷 Federico GIL\n🇮🇹 Gabriele
+  ROSSETTI\n🇮🇸 Hakon SVAVARSSON\n🇨🇿 Jakub TOMECEK\n🇩🇰 Jesper
+  HANSEN\n🇵🇸 Jorge Antonio SALHE\n🇦🇺 Joshua BELL\n🇰🇷 KIM Minsu\n🇹🇼
+  LEE Meng Yuan\n🇨🇳 LYU Jianlin\n🇸🇪 Marcus SVENSSON\n🇰🇼 Mohammad
+  ALDAIHANI\n🇵🇪 Nicolas PACHECO ESPINOSA\n🇪🇬 Omar IBRAHIM\n🇪🇪 Peeter
+  JUERISSON\n🇶🇦 Rashid Saleh AL-ATHBA\n🇬🇹 Sebastian BERMUDEZ
+  LABBE\n🇸🇪 Stefan NILSSON\n🇩🇪 Sven KORTE\n🇮🇹 Tammaro CASSANDRO\n🇺🇸
+  Vincent HANCOCK
+SUMMARY:🔫 男子双向飞碟资格赛 - 第1天
+LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T190000Z-handball-WOMENS-PRELIMINARY-ROUND-GROUP-A-DEN-KOR
+UID:20240803T190000Z-handball-A-DEN-KOR
 DTSTAMP:20240803T190000Z
 DTSTART:20240803T190000Z
 DTEND:20240803T203000Z
-DESCRIPTION:Handball - Women's Preliminary Round Group A
-SUMMARY:🤾 DEN 🇩🇰 - 🇰🇷 KOR
-LOCATION:South Paris Arena 6
+DESCRIPTION:手球 - 女子预赛A组
+SUMMARY:🤾 丹麦 🇩🇰 - 🇰🇷 韩国
+LOCATION:南巴黎竞技场6号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T170000Z-handball-MENS-PRELIMINARY-ROUND-GROUP-B-DEN-NOR
+UID:20240804T170000Z-handball-B-DEN-NOR
 DTSTAMP:20240804T170000Z
 DTSTART:20240804T170000Z
 DTEND:20240804T183000Z
-DESCRIPTION:Handball - Men's Preliminary Round Group B
-SUMMARY:🤾 DEN 🇩🇰 - 🇳🇴 NOR
-LOCATION:South Paris Arena 6
+DESCRIPTION:手球 - 男子预赛B组
+SUMMARY:🤾 丹麦 🇩🇰 - 🇳🇴 挪威
+LOCATION:南巴黎竞技场6号馆
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

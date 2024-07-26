@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//fencing/MEX//EN
-X-WR-CALNAME:🇲🇽 Mexico Fencing | Paris 2024
-NAME:🇲🇽 Mexico Fencing | Paris 2024
+X-WR-CALNAME:🇲🇽 Mexico 击剑 | Paris 2024
+NAME:🇲🇽 Mexico 击剑 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T082500Z-fencing-MENS-SABRE-INDIVIDUAL-TABLE-OF-64-MEX-IRI
+UID:20240727T082500Z-fencing-64-MEX-IRI
 DTSTAMP:20240727T082500Z
 DTSTART:20240727T082500Z
 DTEND:20240727T085000Z
-DESCRIPTION:Fencing - Men's Sabre Individual Table of 64
+DESCRIPTION:击剑 - 男子个人佩剑64强
 SUMMARY:🤺 Gibran ZEA 🇲🇽 - 🇮🇷 Mohammad FOTOUHI
-LOCATION:Grand Palais
+LOCATION:巴黎大皇宫
 END:VEVENT
 END:VCALENDAR

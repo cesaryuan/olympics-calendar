@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//judo/PAN//EN
-X-WR-CALNAME:🇵🇦 Panama Judo | Paris 2024
-NAME:🇵🇦 Panama Judo | Paris 2024
+X-WR-CALNAME:🇵🇦 Panama 柔道 | Paris 2024
+NAME:🇵🇦 Panama 柔道 | Paris 2024
 BEGIN:VEVENT
-UID:20240729T080000Z-judo-WOMEN-57-KG-ELIMINATION-ROUND-OF-32-PAN-EOR
+UID:20240729T080000Z-judo-5732-PAN-EOR
 DTSTAMP:20240729T080000Z
 DTSTART:20240729T080000Z
 DTEND:20240729T080600Z
-DESCRIPTION:Judo - Women -57 kg Elimination Round of 32
+DESCRIPTION:柔道 - 女子57公斤级32强淘汰赛
 SUMMARY:🥋 Kristine JIMENEZ 🇵🇦 - 🏳️ Muna DAHOUK
-LOCATION:Champ-de-Mars Arena
+LOCATION:战神广场
 END:VEVENT
 END:VCALENDAR

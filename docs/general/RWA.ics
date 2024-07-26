@@ -13,33 +13,32 @@ SUMMARY:Paris 2024 - Opening ceremony
 Location:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T080000Z-fencing-WOMENS-PE-INDIVIDUAL-TABLE-OF-64-JPN-RWA
+UID:20240727T080000Z-fencing-64-JPN-RWA
 DTSTAMP:20240727T080000Z
 DTSTART:20240727T080000Z
 DTEND:20240727T082500Z
-DESCRIPTION:Fencing - Women's Épée Individual Table of 64
+DESCRIPTION:击剑 - 女子个人重剑64强
 SUMMARY:🤺 YOSHIMURA Miho 🇯🇵 - 🇷🇼 Tufaha UWIHOREYE
-LOCATION:Grand Palais
+LOCATION:巴黎大皇宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T123000Z-cycling-road-WOMENS-INDIVIDUAL-TIME-TRIAL
+UID:20240727T123000Z-cycling-road-
 DTSTAMP:20240727T123000Z
 DTSTART:20240727T123000Z
 DTEND:20240727T135900Z
-DESCRIPTION:Cycling Road - Women's Individual Time Trial\n🇵🇱 Agnieszka
-  SKALNIAK-SOJKA\n🇬🇧 Anna HENDERSON\n🇦🇹 Anna KIESENHOFER\n🇫🇮 Anniina
-  AHTOSALO\n🇩🇪 Antonia NIEDERMAIER\n🇫🇷 Audrey CORDON RAGOT\n🇩🇰
-  Cecilie Uttrup LUDWIG\n🇺🇸 Chloe DYGERT\n🇦🇹 Christina
-  SCHWEINBERGER\n🇳🇱 Demi VOLLERING\n🇷🇼 Diane INGABIRE\n🇨🇭 Elena
-  HARTMANN\n🇮🇹 Elisa LONGO BORGHINI\n🇳🇱 Ellen van DIJK\n🇩🇰 Emma
-  Norsgaard BJERG\n🇸🇮 Eugenia BUJAK\n🇦🇺 Grace BROWN\n🇨🇿 Julia
-  KOPECKY\n🇫🇷 Juliette LABOUS\n🇳🇿 Kim CADZOW\n🇧🇪 Lotte KOPECKY\n🇵🇱
-  Marta LACH\n🇩🇪 Mieke KROEGER\n🇪🇸 Mireia BENITO PELLICER\n🇸🇰 Nora
-  JENCUSOVA\n🇺🇿 Olga ZABELINSKAYA\n🇨🇦 Olivia BARIL\n🇹🇭 Phetdarin
-  SOMRAT\n🇨🇳 TANG Xin\n🇺🇸 Taylor KNIBB\n🇸🇮 Urska PINTAR\n🇦🇫 Yulduz
-  HASHIMI\n🇺🇦 Yuliia BIRIUKOVA
-SUMMARY:🚴 Women's Individual Time Trial
-LOCATION:Pont Alexandre III
+DESCRIPTION:公路自行车 - 女子个人计时赛\n🇵🇱 Agnieszka SKALNIAK-SOJKA\n🇬🇧 Anna
+  HENDERSON\n🇦🇹 Anna KIESENHOFER\n🇫🇮 Anniina AHTOSALO\n🇩🇪 Antonia
+  NIEDERMAIER\n🇫🇷 Audrey CORDON RAGOT\n🇩🇰 Cecilie Uttrup LUDWIG\n🇺🇸
+  Chloe DYGERT\n🇦🇹 Christina SCHWEINBERGER\n🇳🇱 Demi VOLLERING\n🇷🇼
+  Diane INGABIRE\n🇨🇭 Elena HARTMANN\n🇮🇹 Elisa LONGO BORGHINI\n🇳🇱
+  Ellen van DIJK\n🇩🇰 Emma Norsgaard BJERG\n🇸🇮 Eugenia BUJAK\n🇦🇺 Grace
+  BROWN\n🇨🇿 Julia KOPECKY\n🇫🇷 Juliette LABOUS\n🇳🇿 Kim CADZOW\n🇧🇪
+  Lotte KOPECKY\n🇵🇱 Marta LACH\n🇩🇪 Mieke KROEGER\n🇪🇸 Mireia BENITO
+  PELLICER\n🇸🇰 Nora JENCUSOVA\n🇺🇿 Olga ZABELINSKAYA\n🇨🇦 Olivia
+  BARIL\n🇹🇭 Phetdarin SOMRAT\n🇨🇳 TANG Xin\n🇺🇸 Taylor KNIBB\n🇸🇮
+  Urska PINTAR\n🇦🇫 Yulduz HASHIMI\n🇺🇦 Yuliia BIRIUKOVA
+SUMMARY:🚴 女子个人计时赛
+LOCATION:亚历山大三世桥
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

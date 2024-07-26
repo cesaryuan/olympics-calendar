@@ -1,24 +1,24 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//table-tennis/DEN//EN
-X-WR-CALNAME:🇩🇰 Denmark Table Tennis | Paris 2024
-NAME:🇩🇰 Denmark Table Tennis | Paris 2024
+X-WR-CALNAME:🇩🇰 Denmark 乒乓球 | Paris 2024
+NAME:🇩🇰 Denmark 乒乓球 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T184500Z-table-tennis-MENS-SINGLES-ROUND-OF-64-LUX-DEN
+UID:20240727T184500Z-table-tennis-64-LUX-DEN
 DTSTAMP:20240727T184500Z
 DTSTART:20240727T184500Z
 DTEND:20240727T193000Z
-DESCRIPTION:Table Tennis - Men's Singles Round of 64
+DESCRIPTION:乒乓球 - 男子单打64强赛
 SUMMARY:🏓 Luka MLADENOVIC 🇱🇺 - 🇩🇰 Jonathan GROTH
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T110000Z-table-tennis-MENS-SINGLES-ROUND-OF-64-DEN-POR
+UID:20240729T110000Z-table-tennis-64-DEN-POR
 DTSTAMP:20240729T110000Z
 DTSTART:20240729T110000Z
 DTEND:20240729T120000Z
-DESCRIPTION:Table Tennis - Men's Singles Round of 64
+DESCRIPTION:乒乓球 - 男子单打64强赛
 SUMMARY:🏓 Anders LIND 🇩🇰 - 🇵🇹 Marcos FREITAS
-LOCATION:South Paris Arena 4
+LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 END:VCALENDAR

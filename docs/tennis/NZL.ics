@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//tennis/NZL//EN
-X-WR-CALNAME:🇳🇿 New Zealand Tennis | Paris 2024
-NAME:🇳🇿 New Zealand Tennis | Paris 2024
+X-WR-CALNAME:🇳🇿 New Zealand 网球 | Paris 2024
+NAME:🇳🇿 New Zealand 网球 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T100000Z-tennis-WOMENS-DOUBLES-FIRST-ROUND-ITA-NZL
+UID:20240727T100000Z-tennis-1-ITA-NZL
 DTSTAMP:20240727T100000Z
 DTSTART:20240727T100000Z
 DTEND:20240727T160000Z
-DESCRIPTION:Tennis - Women's Doubles First Round
+DESCRIPTION:网球 - 女子双打第1轮
 SUMMARY:🎾 ERRANI/PAOLINI 🇮🇹 - 🇳🇿 ROUTLIFFE/SUN
-LOCATION:Roland-Garros Stadium
+LOCATION:罗兰·加洛斯体育场
 END:VEVENT
 END:VCALENDAR

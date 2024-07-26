@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//boxing/FIN//EN
-X-WR-CALNAME:🇫🇮 Finland Boxing | Paris 2024
-NAME:🇫🇮 Finland Boxing | Paris 2024
+X-WR-CALNAME:🇫🇮 Finland 拳击 | Paris 2024
+NAME:🇫🇮 Finland 拳击 | Paris 2024
 BEGIN:VEVENT
-UID:20240728T190400Z-boxing-WOMENS-50KG-PRELIMINARIES-ROUND-OF-32-FIN-ZAM
+UID:20240728T190400Z-boxing-50-32-FIN-ZAM
 DTSTAMP:20240728T190400Z
 DTSTART:20240728T190400Z
 DTEND:20240728T191500Z
-DESCRIPTION:Boxing - Women's 50kg - Preliminaries - Round of 32
+DESCRIPTION:拳击 - 女子50公斤级 - 预赛 - 32强赛
 SUMMARY:🥊 Pihla KAIVO-OJA 🇫🇮 - 🇿🇲 Margaret TEMBO
-LOCATION:North Paris Arena
+LOCATION:北巴黎竞技场
 END:VEVENT
 END:VCALENDAR

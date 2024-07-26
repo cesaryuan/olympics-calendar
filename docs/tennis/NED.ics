@@ -1,33 +1,33 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//tennis/NED//EN
-X-WR-CALNAME:🇳🇱 Netherlands Tennis | Paris 2024
-NAME:🇳🇱 Netherlands Tennis | Paris 2024
+X-WR-CALNAME:🇳🇱 Netherlands 网球 | Paris 2024
+NAME:🇳🇱 Netherlands 网球 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T100000Z-tennis-MENS-SINGLES-FIRST-ROUND-NED-AUT
+UID:20240727T100000Z-tennis-1-NED-AUT
 DTSTAMP:20240727T100000Z
 DTSTART:20240727T100000Z
 DTEND:20240727T143000Z
-DESCRIPTION:Tennis - Men's Singles First Round
+DESCRIPTION:网球 - 男子单打第1轮
 SUMMARY:🎾 Robin HAASE 🇳🇱 - 🇦🇹 Sebastian OFNER
-LOCATION:Roland-Garros Stadium
+LOCATION:罗兰·加洛斯体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T100000Z-tennis-MENS-SINGLES-FIRST-ROUND-NED-GBR
+UID:20240727T100000Z-tennis-1-NED-GBR
 DTSTAMP:20240727T100000Z
 DTSTART:20240727T100000Z
 DTEND:20240727T130000Z
-DESCRIPTION:Tennis - Men's Singles First Round
+DESCRIPTION:网球 - 男子单打第1轮
 SUMMARY:🎾 Tallon GRIEKSPOOR 🇳🇱 - 🇬🇧 Cameron NORRIE
-LOCATION:Roland-Garros Stadium
+LOCATION:罗兰·加洛斯体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T100000Z-tennis-WOMENS-SINGLES-FIRST-ROUND-UKR-NED
+UID:20240727T100000Z-tennis-1-UKR-NED
 DTSTAMP:20240727T100000Z
 DTSTART:20240727T100000Z
 DTEND:20240727T113000Z
-DESCRIPTION:Tennis - Women's Singles First Round
+DESCRIPTION:网球 - 女子单打第1轮
 SUMMARY:🎾 Anhelina KALININA 🇺🇦 - 🇳🇱 Arantxa RUS
-LOCATION:Roland-Garros Stadium
+LOCATION:罗兰·加洛斯体育场
 END:VEVENT
 END:VCALENDAR

@@ -1,24 +1,24 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//badminton/IRL//EN
-X-WR-CALNAME:🇮🇪 Ireland Badminton | Paris 2024
-NAME:🇮🇪 Ireland Badminton | Paris 2024
+X-WR-CALNAME:🇮🇪 Ireland 羽毛球 | Paris 2024
+NAME:🇮🇪 Ireland 羽毛球 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T191000Z-badminton-MENS-SINGLES-GROUP-PLAY-STAGE-GROUP-P-IRL-IS
+UID:20240727T191000Z-badminton--P-IRL-ISR
 DTSTAMP:20240727T191000Z
 DTSTART:20240727T191000Z
 DTEND:20240727T195000Z
-DESCRIPTION:Badminton - Men's Singles Group Play Stage - Group P
+DESCRIPTION:羽毛球 - 男子单打小组赛 - P组
 SUMMARY:🏸 Nhat NGUYEN 🇮🇪 - 🇮🇱 Misha ZILBERMAN
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T191000Z-badminton-MENS-SINGLES-GROUP-PLAY-STAGE-GROUP-P-IRL-NE
+UID:20240729T191000Z-badminton--P-IRL-NEP
 DTSTAMP:20240729T191000Z
 DTSTART:20240729T191000Z
 DTEND:20240729T210000Z
-DESCRIPTION:Badminton - Men's Singles Group Play Stage - Group P
+DESCRIPTION:羽毛球 - 男子单打小组赛 - P组
 SUMMARY:🏸 Nhat NGUYEN 🇮🇪 - 🇳🇵 Prince DAHAL
-LOCATION:La Chapelle Arena
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 END:VCALENDAR

@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//fencing/EST//EN
-X-WR-CALNAME:🇪🇪 Estonia Fencing | Paris 2024
-NAME:🇪🇪 Estonia Fencing | Paris 2024
+X-WR-CALNAME:🇪🇪 Estonia 击剑 | Paris 2024
+NAME:🇪🇪 Estonia 击剑 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T091500Z-fencing-WOMENS-PE-INDIVIDUAL-TABLE-OF-32-KOR-EST
+UID:20240727T091500Z-fencing-32-KOR-EST
 DTSTAMP:20240727T091500Z
 DTSTART:20240727T091500Z
 DTEND:20240727T094000Z
-DESCRIPTION:Fencing - Women's Épée Individual Table of 32
+DESCRIPTION:击剑 - 女子个人重剑32强
 SUMMARY:🤺 KANG Young Mi 🇰🇷 - 🇪🇪 Nelli DIFFERT
-LOCATION:Grand Palais
+LOCATION:巴黎大皇宫
 END:VEVENT
 END:VCALENDAR

@@ -1,24 +1,24 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//tennis/LBN//EN
-X-WR-CALNAME:🇱🇧 Lebanon Tennis | Paris 2024
-NAME:🇱🇧 Lebanon Tennis | Paris 2024
+X-WR-CALNAME:🇱🇧 Lebanon 网球 | Paris 2024
+NAME:🇱🇧 Lebanon 网球 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T100000Z-tennis-MENS-SINGLES-FIRST-ROUND-LBN-ESP
+UID:20240727T100000Z-tennis-1-LBN-ESP
 DTSTAMP:20240727T100000Z
 DTSTART:20240727T100000Z
 DTEND:20240727T130000Z
-DESCRIPTION:Tennis - Men's Singles First Round
+DESCRIPTION:网球 - 男子单打第1轮
 SUMMARY:🎾 Hady HABIB 🇱🇧 - 🇪🇸 Carlos ALCARAZ
-LOCATION:Roland-Garros Stadium
+LOCATION:罗兰·加洛斯体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T100000Z-tennis-MENS-SINGLES-FIRST-ROUND-USA-LBN
+UID:20240727T100000Z-tennis-1-USA-LBN
 DTSTAMP:20240727T100000Z
 DTSTART:20240727T100000Z
 DTEND:20240727T160000Z
-DESCRIPTION:Tennis - Men's Singles First Round
+DESCRIPTION:网球 - 男子单打第1轮
 SUMMARY:🎾 Christopher EUBANKS 🇺🇸 - 🇱🇧 Benjamin HASSAN
-LOCATION:Roland-Garros Stadium
+LOCATION:罗兰·加洛斯体育场
 END:VEVENT
 END:VCALENDAR
