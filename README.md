@@ -1,8 +1,8 @@
-# Olympics Calendar
+# 中文奥运会日历
 This repository contains a script to generate calendar files (.ics) for the Paris 2024 Summer Olympic Games, allowing you to sync sports events with your Google Calendar.
 
 ## Usage
-All calendar files are available at this URL: https://fabrice404.github.io/olympics-calendar/ \
+All calendar files are available at this URL: https://cesaryuan.github.io/olympics-calendar/ \
 Use the provided URLs to sync with your Google Calendar instead of downloading the files.
 
 ## Features
